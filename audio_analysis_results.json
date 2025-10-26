@@ -1,0 +1,812 @@
+[
+  {
+    "original_file": "sample-194913.wav",
+    "adversarial_file": "adv-short2short-194913.wav",
+    "signal_type": "short2short",
+    "snr": 19.125393629074097,
+    "pesq": 4.987779020762202,
+    "stoi": 0.9969647665012106,
+    "error": null
+  },
+  {
+    "original_file": "sample-194913.wav",
+    "adversarial_file": "adv-short2medium-194913.wav",
+    "signal_type": "short2medium",
+    "snr": 16.00338578224182,
+    "pesq": 4.975152370782217,
+    "stoi": 0.9940462985631464,
+    "error": null
+  },
+  {
+    "original_file": "sample-194913.wav",
+    "adversarial_file": "adv-short2long-194913.wav",
+    "signal_type": "short2long",
+    "snr": 6.373295783996582,
+    "pesq": 4.79064566910704,
+    "stoi": 0.9486409556080081,
+    "error": null
+  },
+  {
+    "original_file": "sample-004968.wav",
+    "adversarial_file": "adv-short2short-004968.wav",
+    "signal_type": "short2short",
+    "snr": 32.092528343200684,
+    "pesq": 4.999394221324339,
+    "stoi": 0.9998510174854852,
+    "error": null
+  },
+  {
+    "original_file": "sample-004968.wav",
+    "adversarial_file": "adv-short2medium-004968.wav",
+    "signal_type": "short2medium",
+    "snr": 30.372698307037354,
+    "pesq": 4.99910414716873,
+    "stoi": 0.9997881970950012,
+    "error": null
+  },
+  {
+    "original_file": "sample-004968.wav",
+    "adversarial_file": "adv-short2long-004968.wav",
+    "signal_type": "short2long",
+    "snr": 10.015283823013306,
+    "pesq": 4.89914124076166,
+    "stoi": 0.9693940264140798,
+    "error": null
+  },
+  {
+    "original_file": "sample-001417.wav",
+    "adversarial_file": "adv-short2short-001417.wav",
+    "signal_type": "short2short",
+    "snr": 33.13594341278076,
+    "pesq": 4.99953347121263,
+    "stoi": 0.9998843669841933,
+    "error": null
+  },
+  {
+    "original_file": "sample-001417.wav",
+    "adversarial_file": "adv-short2medium-001417.wav",
+    "signal_type": "short2medium",
+    "snr": 25.76124906539917,
+    "pesq": 4.997432436485908,
+    "stoi": 0.9993700531493594,
+    "error": null
+  },
+  {
+    "original_file": "sample-001417.wav",
+    "adversarial_file": "adv-short2long-001417.wav",
+    "signal_type": "short2long",
+    "snr": 4.126393795013428,
+    "pesq": 4.649211388558388,
+    "stoi": 0.8989338025779001,
+    "error": null
+  },
+  {
+    "original_file": "sample-195515.wav",
+    "adversarial_file": "adv-short2short-195515.wav",
+    "signal_type": "short2short",
+    "snr": 32.93876886367798,
+    "pesq": 4.9994956880053545,
+    "stoi": 0.9998741890888881,
+    "error": null
+  },
+  {
+    "original_file": "sample-195515.wav",
+    "adversarial_file": "adv-short2medium-195515.wav",
+    "signal_type": "short2medium",
+    "snr": 28.861498832702637,
+    "pesq": 4.998709942483735,
+    "stoi": 0.999679375452481,
+    "error": null
+  },
+  {
+    "original_file": "sample-195515.wav",
+    "adversarial_file": "adv-short2long-195515.wav",
+    "signal_type": "short2long",
+    "snr": 6.702730655670166,
+    "pesq": 4.817966134091601,
+    "stoi": 0.9518238076931141,
+    "error": null
+  },
+  {
+    "original_file": "sample-019391.wav",
+    "adversarial_file": "adv-short2short-019391.wav",
+    "signal_type": "short2short",
+    "snr": 30.547804832458496,
+    "pesq": 4.999129978157116,
+    "stoi": 0.9997792528596283,
+    "error": null
+  },
+  {
+    "original_file": "sample-019391.wav",
+    "adversarial_file": "adv-short2medium-019391.wav",
+    "signal_type": "short2medium",
+    "snr": 21.28448724746704,
+    "pesq": 4.9925652365491535,
+    "stoi": 0.9981756588075614,
+    "error": null
+  },
+  {
+    "original_file": "sample-019391.wav",
+    "adversarial_file": "adv-short2long-019391.wav",
+    "signal_type": "short2long",
+    "snr": 4.429811537265778,
+    "pesq": 4.680406665239245,
+    "stoi": 0.9064422314752043,
+    "error": null
+  },
+  {
+    "original_file": "sample-014577.wav",
+    "adversarial_file": "adv-short2short-014577.wav",
+    "signal_type": "short2short",
+    "snr": 37.35991716384888,
+    "pesq": 4.999824614573198,
+    "stoi": 0.9999557228994539,
+    "error": null
+  },
+  {
+    "original_file": "sample-014577.wav",
+    "adversarial_file": "adv-short2medium-014577.wav",
+    "signal_type": "short2medium",
+    "snr": 33.35726499557495,
+    "pesq": 4.999549054690611,
+    "stoi": 0.9998810999175896,
+    "error": null
+  },
+  {
+    "original_file": "sample-014577.wav",
+    "adversarial_file": "adv-short2long-014577.wav",
+    "signal_type": "short2long",
+    "snr": 9.243959188461304,
+    "pesq": 4.878236105903227,
+    "stoi": 0.957187589916115,
+    "error": null
+  },
+  {
+    "original_file": "sample-011531.wav",
+    "adversarial_file": "adv-short2short-011531.wav",
+    "signal_type": "short2short",
+    "snr": 24.48965072631836,
+    "pesq": 4.996554443209377,
+    "stoi": 0.9991539661732626,
+    "error": null
+  },
+  {
+    "original_file": "sample-011531.wav",
+    "adversarial_file": "adv-short2medium-011531.wav",
+    "signal_type": "short2medium",
+    "snr": 25.022053718566895,
+    "pesq": 4.996851742603579,
+    "stoi": 0.9992256763669713,
+    "error": null
+  },
+  {
+    "original_file": "sample-011531.wav",
+    "adversarial_file": "adv-short2long-011531.wav",
+    "signal_type": "short2long",
+    "snr": -4.926733076572418,
+    "pesq": 3.7113528074276463,
+    "stoi": 0.5639908496225083,
+    "error": null
+  },
+  {
+    "original_file": "sample-006620.wav",
+    "adversarial_file": "adv-short2short-006620.wav",
+    "signal_type": "short2short",
+    "snr": 26.428780555725098,
+    "pesq": 4.997739946543159,
+    "stoi": 0.9994482894576645,
+    "error": null
+  },
+  {
+    "original_file": "sample-006620.wav",
+    "adversarial_file": "adv-short2medium-006620.wav",
+    "signal_type": "short2medium",
+    "snr": 24.069182872772217,
+    "pesq": 4.996138340415799,
+    "stoi": 0.9990708618347838,
+    "error": null
+  },
+  {
+    "original_file": "sample-006620.wav",
+    "adversarial_file": "adv-short2long-006620.wav",
+    "signal_type": "short2long",
+    "snr": -9.129992127418518,
+    "pesq": 3.4172994447161202,
+    "stoi": 0.44348808950689383,
+    "error": null
+  },
+  {
+    "original_file": "sample-004800.wav",
+    "adversarial_file": "adv-short2short-004800.wav",
+    "signal_type": "short2short",
+    "snr": 27.734882831573486,
+    "pesq": 4.998356365720457,
+    "stoi": 0.9995949394525264,
+    "error": null
+  },
+  {
+    "original_file": "sample-004800.wav",
+    "adversarial_file": "adv-short2medium-004800.wav",
+    "signal_type": "short2medium",
+    "snr": 30.01488447189331,
+    "pesq": 4.9990243942916495,
+    "stoi": 0.9997581416751015,
+    "error": null
+  },
+  {
+    "original_file": "sample-004800.wav",
+    "adversarial_file": "adv-short2long-004800.wav",
+    "signal_type": "short2long",
+    "snr": -2.9606589674949646,
+    "pesq": 3.966758180438464,
+    "stoi": 0.6559414061092016,
+    "error": null
+  },
+  {
+    "original_file": "sample-195162.wav",
+    "adversarial_file": "adv-short2short-195162.wav",
+    "signal_type": "short2short",
+    "snr": 24.105513095855713,
+    "pesq": 4.996204863888919,
+    "stoi": 0.999050203743106,
+    "error": null
+  },
+  {
+    "original_file": "sample-195162.wav",
+    "adversarial_file": "adv-short2medium-195162.wav",
+    "signal_type": "short2medium",
+    "snr": 22.284460067749023,
+    "pesq": 4.994197872102017,
+    "stoi": 0.9985089597895438,
+    "error": null
+  },
+  {
+    "original_file": "sample-195162.wav",
+    "adversarial_file": "adv-short2long-195162.wav",
+    "signal_type": "short2long",
+    "snr": 5.7599323987960815,
+    "pesq": 4.735364111675235,
+    "stoi": 0.9091940093507673,
+    "error": null
+  },
+  {
+    "original_file": "sample-005409.wav",
+    "adversarial_file": "adv-medium2short-005409.wav",
+    "signal_type": "medium2short",
+    "snr": 33.334007263183594,
+    "pesq": 4.999542344107432,
+    "stoi": 0.9998874099979769,
+    "error": null
+  },
+  {
+    "original_file": "sample-005409.wav",
+    "adversarial_file": "adv-medium2medium-005409.wav",
+    "signal_type": "medium2medium",
+    "snr": 32.80131816864014,
+    "pesq": 4.999483460766023,
+    "stoi": 0.9998723632053247,
+    "error": null
+  },
+  {
+    "original_file": "sample-005409.wav",
+    "adversarial_file": "adv-medium2long-005409.wav",
+    "signal_type": "medium2long",
+    "snr": 20.831527709960938,
+    "pesq": 4.991763020014368,
+    "stoi": 0.9979973565219975,
+    "error": null
+  },
+  {
+    "original_file": "sample-003985.wav",
+    "adversarial_file": "adv-medium2short-003985.wav",
+    "signal_type": "medium2short",
+    "snr": 28.34080696105957,
+    "pesq": 4.998548028357397,
+    "stoi": 0.9996360350433332,
+    "error": null
+  },
+  {
+    "original_file": "sample-003985.wav",
+    "adversarial_file": "adv-medium2medium-003985.wav",
+    "signal_type": "medium2medium",
+    "snr": 24.627673625946045,
+    "pesq": 4.996572691184118,
+    "stoi": 0.9991391020490044,
+    "error": null
+  },
+  {
+    "original_file": "sample-003985.wav",
+    "adversarial_file": "adv-medium2long-003985.wav",
+    "signal_type": "medium2long",
+    "snr": 17.505183219909668,
+    "pesq": 4.982618405723068,
+    "stoi": 0.995631941063312,
+    "error": null
+  },
+  {
+    "original_file": "sample-000639.wav",
+    "adversarial_file": "adv-medium2short-000639.wav",
+    "signal_type": "medium2short",
+    "snr": 32.45990753173828,
+    "pesq": 4.999441287964204,
+    "stoi": 0.9998615882244094,
+    "error": null
+  },
+  {
+    "original_file": "sample-000639.wav",
+    "adversarial_file": "adv-medium2medium-000639.wav",
+    "signal_type": "medium2medium",
+    "snr": 28.907740116119385,
+    "pesq": 4.998737214559353,
+    "stoi": 0.9996863327627904,
+    "error": null
+  },
+  {
+    "original_file": "sample-000639.wav",
+    "adversarial_file": "adv-medium2long-000639.wav",
+    "signal_type": "medium2long",
+    "snr": 16.949336528778076,
+    "pesq": 4.980772290786866,
+    "stoi": 0.9953315244574455,
+    "error": null
+  },
+  {
+    "original_file": "sample-004187.wav",
+    "adversarial_file": "adv-medium2short-004187.wav",
+    "signal_type": "medium2short",
+    "snr": 23.91352653503418,
+    "pesq": 4.995988687498214,
+    "stoi": 0.9990084726971004,
+    "error": null
+  },
+  {
+    "original_file": "sample-004187.wav",
+    "adversarial_file": "adv-medium2medium-004187.wav",
+    "signal_type": "medium2medium",
+    "snr": 19.651014804840088,
+    "pesq": 4.98942028280645,
+    "stoi": 0.9974553784812357,
+    "error": null
+  },
+  {
+    "original_file": "sample-004187.wav",
+    "adversarial_file": "adv-medium2long-004187.wav",
+    "signal_type": "medium2long",
+    "snr": 10.864949226379395,
+    "pesq": 4.922839857931033,
+    "stoi": 0.9818988387636164,
+    "error": null
+  },
+  {
+    "original_file": "sample-003168.wav",
+    "adversarial_file": "adv-medium2short-003168.wav",
+    "signal_type": "medium2short",
+    "snr": 30.323638916015625,
+    "pesq": 4.99907772555579,
+    "stoi": 0.9997704196803454,
+    "error": null
+  },
+  {
+    "original_file": "sample-003168.wav",
+    "adversarial_file": "adv-medium2medium-003168.wav",
+    "signal_type": "medium2medium",
+    "snr": 29.050896167755127,
+    "pesq": 4.99876350989698,
+    "stoi": 0.9996915325676565,
+    "error": null
+  },
+  {
+    "original_file": "sample-003168.wav",
+    "adversarial_file": "adv-medium2long-003168.wav",
+    "signal_type": "medium2long",
+    "snr": 17.065168619155884,
+    "pesq": 4.9808969334748205,
+    "stoi": 0.9952012522284911,
+    "error": null
+  },
+  {
+    "original_file": "sample-000351.wav",
+    "adversarial_file": "adv-medium2short-000351.wav",
+    "signal_type": "medium2short",
+    "snr": 35.1929497718811,
+    "pesq": 4.999704046507749,
+    "stoi": 0.9999255828811748,
+    "error": null
+  },
+  {
+    "original_file": "sample-000351.wav",
+    "adversarial_file": "adv-medium2medium-000351.wav",
+    "signal_type": "medium2medium",
+    "snr": 27.65207529067993,
+    "pesq": 4.998327113866217,
+    "stoi": 0.9995740849652501,
+    "error": null
+  },
+  {
+    "original_file": "sample-000351.wav",
+    "adversarial_file": "adv-medium2long-000351.wav",
+    "signal_type": "medium2long",
+    "snr": 14.189108610153198,
+    "pesq": 4.961518721412441,
+    "stoi": 0.9899906038168818,
+    "error": null
+  },
+  {
+    "original_file": "sample-000166.wav",
+    "adversarial_file": "adv-medium2short-000166.wav",
+    "signal_type": "medium2short",
+    "snr": 26.166954040527344,
+    "pesq": 4.997623874648448,
+    "stoi": 0.9994186645454894,
+    "error": null
+  },
+  {
+    "original_file": "sample-000166.wav",
+    "adversarial_file": "adv-medium2medium-000166.wav",
+    "signal_type": "medium2medium",
+    "snr": 23.87092351913452,
+    "pesq": 4.995905833770891,
+    "stoi": 0.998975619578448,
+    "error": null
+  },
+  {
+    "original_file": "sample-000166.wav",
+    "adversarial_file": "adv-medium2long-000166.wav",
+    "signal_type": "medium2long",
+    "snr": 6.560134291648865,
+    "pesq": 4.79167719045973,
+    "stoi": 0.9471479849620371,
+    "error": null
+  },
+  {
+    "original_file": "sample-001439.wav",
+    "adversarial_file": "adv-medium2short-001439.wav",
+    "signal_type": "medium2short",
+    "snr": 31.838319301605225,
+    "pesq": 4.999376935590577,
+    "stoi": 0.9998427125514956,
+    "error": null
+  },
+  {
+    "original_file": "sample-001439.wav",
+    "adversarial_file": "adv-medium2medium-001439.wav",
+    "signal_type": "medium2medium",
+    "snr": 27.49495267868042,
+    "pesq": 4.998218871584123,
+    "stoi": 0.9995505397930461,
+    "error": null
+  },
+  {
+    "original_file": "sample-001439.wav",
+    "adversarial_file": "adv-medium2long-001439.wav",
+    "signal_type": "medium2long",
+    "snr": 20.07929563522339,
+    "pesq": 4.99085732513334,
+    "stoi": 0.9977056710733768,
+    "error": null
+  },
+  {
+    "original_file": "sample-001707.wav",
+    "adversarial_file": "adv-medium2short-001707.wav",
+    "signal_type": "medium2short",
+    "snr": 30.535569190979004,
+    "pesq": 4.99911622556581,
+    "stoi": 0.9997816261568122,
+    "error": null
+  },
+  {
+    "original_file": "sample-001707.wav",
+    "adversarial_file": "adv-medium2medium-001707.wav",
+    "signal_type": "medium2medium",
+    "snr": 24.77747917175293,
+    "pesq": 4.99670228137209,
+    "stoi": 0.9992010654231089,
+    "error": null
+  },
+  {
+    "original_file": "sample-001707.wav",
+    "adversarial_file": "adv-medium2long-001707.wav",
+    "signal_type": "medium2long",
+    "snr": 14.969395399093628,
+    "pesq": 4.967896225376273,
+    "stoi": 0.9920192263432349,
+    "error": null
+  },
+  {
+    "original_file": "sample-003583.wav",
+    "adversarial_file": "adv-medium2short-003583.wav",
+    "signal_type": "medium2short",
+    "snr": 27.805194854736328,
+    "pesq": 4.998347198822333,
+    "stoi": 0.9995850700333218,
+    "error": null
+  },
+  {
+    "original_file": "sample-003583.wav",
+    "adversarial_file": "adv-medium2medium-003583.wav",
+    "signal_type": "medium2medium",
+    "snr": 20.230491161346436,
+    "pesq": 4.99050130252274,
+    "stoi": 0.9977171014268651,
+    "error": null
+  },
+  {
+    "original_file": "sample-003583.wav",
+    "adversarial_file": "adv-medium2long-003583.wav",
+    "signal_type": "medium2long",
+    "snr": 14.179900884628296,
+    "pesq": 4.962463548219719,
+    "stoi": 0.990982992722222,
+    "error": null
+  },
+  {
+    "original_file": "sample-014591.wav",
+    "adversarial_file": "adv-long2short-014591.wav",
+    "signal_type": "long2short",
+    "snr": 40.498108863830566,
+    "pesq": 4.9999133862307,
+    "stoi": 0.9999779973467733,
+    "error": null
+  },
+  {
+    "original_file": "sample-014591.wav",
+    "adversarial_file": "adv-long2medium-014591.wav",
+    "signal_type": "long2medium",
+    "snr": 37.20099449157715,
+    "pesq": 4.999815280755481,
+    "stoi": 0.9999530361899639,
+    "error": null
+  },
+  {
+    "original_file": "sample-014591.wav",
+    "adversarial_file": "adv-long2long-014591.wav",
+    "signal_type": "long2long",
+    "snr": 28.103902339935303,
+    "pesq": 4.998494045048344,
+    "stoi": 0.9996187203669984,
+    "error": null
+  },
+  {
+    "original_file": "sample-000396.wav",
+    "adversarial_file": "adv-long2short-000396.wav",
+    "signal_type": "long2short",
+    "snr": 43.651347160339355,
+    "pesq": 4.999956861091155,
+    "stoi": 0.9999892170876397,
+    "error": null
+  },
+  {
+    "original_file": "sample-000396.wav",
+    "adversarial_file": "adv-long2medium-000396.wav",
+    "signal_type": "long2medium",
+    "snr": 42.73726940155029,
+    "pesq": 4.999946756201777,
+    "stoi": 0.9999867529107271,
+    "error": null
+  },
+  {
+    "original_file": "sample-000396.wav",
+    "adversarial_file": "adv-long2long-000396.wav",
+    "signal_type": "long2long",
+    "snr": 37.84076929092407,
+    "pesq": 4.999835601017077,
+    "stoi": 0.999959810932753,
+    "error": null
+  },
+  {
+    "original_file": "sample-011260.wav",
+    "adversarial_file": "adv-long2short-011260.wav",
+    "signal_type": "long2short",
+    "snr": 31.49503231048584,
+    "pesq": 4.9992941136211,
+    "stoi": 0.9998255967988934,
+    "error": null
+  },
+  {
+    "original_file": "sample-011260.wav",
+    "adversarial_file": "adv-long2medium-011260.wav",
+    "signal_type": "long2medium",
+    "snr": 30.96268892288208,
+    "pesq": 4.9992022245104,
+    "stoi": 0.9998036995127083,
+    "error": null
+  },
+  {
+    "original_file": "sample-011260.wav",
+    "adversarial_file": "adv-long2long-011260.wav",
+    "signal_type": "long2long",
+    "snr": 24.142513275146484,
+    "pesq": 4.996145008750533,
+    "stoi": 0.9990669956919909,
+    "error": null
+  },
+  {
+    "original_file": "sample-003238.wav",
+    "adversarial_file": "adv-long2short-003238.wav",
+    "signal_type": "long2short",
+    "snr": 38.814048767089844,
+    "pesq": 4.999870148097485,
+    "stoi": 0.9999675951101267,
+    "error": null
+  },
+  {
+    "original_file": "sample-003238.wav",
+    "adversarial_file": "adv-long2medium-003238.wav",
+    "signal_type": "long2medium",
+    "snr": 27.676856517791748,
+    "pesq": 4.998302944712584,
+    "stoi": 0.9995808503602819,
+    "error": null
+  },
+  {
+    "original_file": "sample-003238.wav",
+    "adversarial_file": "adv-long2long-003238.wav",
+    "signal_type": "long2long",
+    "snr": 24.521214962005615,
+    "pesq": 4.996520441852044,
+    "stoi": 0.9991307053590748,
+    "error": null
+  },
+  {
+    "original_file": "sample-016571.wav",
+    "adversarial_file": "adv-long2short-016571.wav",
+    "signal_type": "long2short",
+    "snr": 37.2787880897522,
+    "pesq": 4.999819924103488,
+    "stoi": 0.9999547954741278,
+    "error": null
+  },
+  {
+    "original_file": "sample-016571.wav",
+    "adversarial_file": "adv-long2medium-016571.wav",
+    "signal_type": "long2medium",
+    "snr": 33.68722438812256,
+    "pesq": 4.999572228977286,
+    "stoi": 0.9998940879715141,
+    "error": null
+  },
+  {
+    "original_file": "sample-016571.wav",
+    "adversarial_file": "adv-long2long-016571.wav",
+    "signal_type": "long2long",
+    "snr": 30.353212356567383,
+    "pesq": 4.99907792411425,
+    "stoi": 0.9997722624754524,
+    "error": null
+  },
+  {
+    "original_file": "sample-015253.wav",
+    "adversarial_file": "adv-long2short-015253.wav",
+    "signal_type": "long2short",
+    "snr": 41.34082317352295,
+    "pesq": 4.999928032371267,
+    "stoi": 0.9999822803788859,
+    "error": null
+  },
+  {
+    "original_file": "sample-015253.wav",
+    "adversarial_file": "adv-long2medium-015253.wav",
+    "signal_type": "long2medium",
+    "snr": 37.660977840423584,
+    "pesq": 4.999831243599581,
+    "stoi": 0.999958336271181,
+    "error": null
+  },
+  {
+    "original_file": "sample-015253.wav",
+    "adversarial_file": "adv-long2long-015253.wav",
+    "signal_type": "long2long",
+    "snr": 34.357972145080566,
+    "pesq": 4.999635169519063,
+    "stoi": 0.9999103636462683,
+    "error": null
+  },
+  {
+    "original_file": "sample-016358.wav",
+    "adversarial_file": "adv-long2short-016358.wav",
+    "signal_type": "long2short",
+    "snr": 26.31901979446411,
+    "pesq": 4.997686027578947,
+    "stoi": 0.9994289985497077,
+    "error": null
+  },
+  {
+    "original_file": "sample-016358.wav",
+    "adversarial_file": "adv-long2medium-016358.wav",
+    "signal_type": "long2medium",
+    "snr": 26.596791744232178,
+    "pesq": 4.997824555739568,
+    "stoi": 0.9994641131487914,
+    "error": null
+  },
+  {
+    "original_file": "sample-016358.wav",
+    "adversarial_file": "adv-long2long-016358.wav",
+    "signal_type": "long2long",
+    "snr": 19.567584991455078,
+    "pesq": 4.989138425374972,
+    "stoi": 0.9973469336828008,
+    "error": null
+  },
+  {
+    "original_file": "sample-010740.wav",
+    "adversarial_file": "adv-long2short-010740.wav",
+    "signal_type": "long2short",
+    "snr": 43.14247131347656,
+    "pesq": 4.999952291869604,
+    "stoi": 0.9999881535275588,
+    "error": null
+  },
+  {
+    "original_file": "sample-010740.wav",
+    "adversarial_file": "adv-long2medium-010740.wav",
+    "signal_type": "long2medium",
+    "snr": 33.62339973449707,
+    "pesq": 4.999575890068886,
+    "stoi": 0.9998955618697852,
+    "error": null
+  },
+  {
+    "original_file": "sample-010740.wav",
+    "adversarial_file": "adv-long2long-010740.wav",
+    "signal_type": "long2long",
+    "snr": 28.882172107696533,
+    "pesq": 4.998748520274602,
+    "stoi": 0.9996988946646919,
+    "error": null
+  },
+  {
+    "original_file": "sample-007104.wav",
+    "adversarial_file": "adv-long2short-007104.wav",
+    "signal_type": "long2short",
+    "snr": 30.59321641921997,
+    "pesq": 4.99914170159067,
+    "stoi": 0.9997871297271956,
+    "error": null
+  },
+  {
+    "original_file": "sample-007104.wav",
+    "adversarial_file": "adv-long2medium-007104.wav",
+    "signal_type": "long2medium",
+    "snr": 30.24136781692505,
+    "pesq": 4.999066651563924,
+    "stoi": 0.9997693470495852,
+    "error": null
+  },
+  {
+    "original_file": "sample-007104.wav",
+    "adversarial_file": "adv-long2long-007104.wav",
+    "signal_type": "long2long",
+    "snr": 23.258891105651855,
+    "pesq": 4.995277113570523,
+    "stoi": 0.9988585492407369,
+    "error": null
+  },
+  {
+    "original_file": "sample-003816.wav",
+    "adversarial_file": "adv-long2short-003816.wav",
+    "signal_type": "long2short",
+    "snr": 36.24602794647217,
+    "pesq": 4.999766872529717,
+    "stoi": 0.9999418768508485,
+    "error": null
+  },
+  {
+    "original_file": "sample-003816.wav",
+    "adversarial_file": "adv-long2medium-003816.wav",
+    "signal_type": "long2medium",
+    "snr": 31.36540412902832,
+    "pesq": 4.999287024914436,
+    "stoi": 0.9998226848621018,
+    "error": null
+  },
+  {
+    "original_file": "sample-003816.wav",
+    "adversarial_file": "adv-long2long-003816.wav",
+    "signal_type": "long2long",
+    "snr": 26.006369590759277,
+    "pesq": 4.9975730348967975,
+    "stoi": 0.9994016200530838,
+    "error": null
+  }
+]

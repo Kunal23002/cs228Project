@@ -1,0 +1,2408 @@
+{
+  "short-signals": [
+    {
+      "original": "sample-000303.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-000303.wav",
+        "adv-medium-target": "adv-short2medium-000303.wav",
+        "adv-long-target": "adv-short2long-000303.wav"
+      }
+    },
+    {
+      "original": "sample-000516.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-000516.wav",
+        "adv-medium-target": "adv-short2medium-000516.wav",
+        "adv-long-target": "adv-short2long-000516.wav"
+      }
+    },
+    {
+      "original": "sample-001169.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-001169.wav",
+        "adv-medium-target": "adv-short2medium-001169.wav",
+        "adv-long-target": "adv-short2long-001169.wav"
+      }
+    },
+    {
+      "original": "sample-001417.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-001417.wav",
+        "adv-medium-target": "adv-short2medium-001417.wav",
+        "adv-long-target": "adv-short2long-001417.wav"
+      }
+    },
+    {
+      "original": "sample-001598.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-001598.wav",
+        "adv-medium-target": "adv-short2medium-001598.wav",
+        "adv-long-target": "adv-short2long-001598.wav"
+      }
+    },
+    {
+      "original": "sample-001703.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-001703.wav",
+        "adv-medium-target": "adv-short2medium-001703.wav",
+        "adv-long-target": "adv-short2long-001703.wav"
+      }
+    },
+    {
+      "original": "sample-002296.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-002296.wav",
+        "adv-medium-target": "adv-short2medium-002296.wav",
+        "adv-long-target": "adv-short2long-002296.wav"
+      }
+    },
+    {
+      "original": "sample-002813.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-002813.wav",
+        "adv-medium-target": "adv-short2medium-002813.wav",
+        "adv-long-target": "adv-short2long-002813.wav"
+      }
+    },
+    {
+      "original": "sample-002854.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-002854.wav",
+        "adv-medium-target": "adv-short2medium-002854.wav",
+        "adv-long-target": "adv-short2long-002854.wav"
+      }
+    },
+    {
+      "original": "sample-002912.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-002912.wav",
+        "adv-medium-target": "adv-short2medium-002912.wav",
+        "adv-long-target": "adv-short2long-002912.wav"
+      }
+    },
+    {
+      "original": "sample-003983.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-003983.wav",
+        "adv-medium-target": "adv-short2medium-003983.wav",
+        "adv-long-target": "adv-short2long-003983.wav"
+      }
+    },
+    {
+      "original": "sample-004321.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-004321.wav",
+        "adv-medium-target": "adv-short2medium-004321.wav",
+        "adv-long-target": "adv-short2long-004321.wav"
+      }
+    },
+    {
+      "original": "sample-004772.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-004772.wav",
+        "adv-medium-target": "adv-short2medium-004772.wav",
+        "adv-long-target": "adv-short2long-004772.wav"
+      }
+    },
+    {
+      "original": "sample-004800.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-004800.wav",
+        "adv-medium-target": "adv-short2medium-004800.wav",
+        "adv-long-target": "adv-short2long-004800.wav"
+      }
+    },
+    {
+      "original": "sample-004968.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-004968.wav",
+        "adv-medium-target": "adv-short2medium-004968.wav",
+        "adv-long-target": "adv-short2long-004968.wav"
+      }
+    },
+    {
+      "original": "sample-005497.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-005497.wav",
+        "adv-medium-target": "adv-short2medium-005497.wav",
+        "adv-long-target": "adv-short2long-005497.wav"
+      }
+    },
+    {
+      "original": "sample-006137.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-006137.wav",
+        "adv-medium-target": "adv-short2medium-006137.wav",
+        "adv-long-target": "adv-short2long-006137.wav"
+      }
+    },
+    {
+      "original": "sample-006620.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-006620.wav",
+        "adv-medium-target": "adv-short2medium-006620.wav",
+        "adv-long-target": "adv-short2long-006620.wav"
+      }
+    },
+    {
+      "original": "sample-006936.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-006936.wav",
+        "adv-medium-target": "adv-short2medium-006936.wav",
+        "adv-long-target": "adv-short2long-006936.wav"
+      }
+    },
+    {
+      "original": "sample-007417.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-007417.wav",
+        "adv-medium-target": "adv-short2medium-007417.wav",
+        "adv-long-target": "adv-short2long-007417.wav"
+      }
+    },
+    {
+      "original": "sample-008518.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-008518.wav",
+        "adv-medium-target": "adv-short2medium-008518.wav",
+        "adv-long-target": "adv-short2long-008518.wav"
+      }
+    },
+    {
+      "original": "sample-008519.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-008519.wav",
+        "adv-medium-target": "adv-short2medium-008519.wav",
+        "adv-long-target": "adv-short2long-008519.wav"
+      }
+    },
+    {
+      "original": "sample-008701.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-008701.wav",
+        "adv-medium-target": "adv-short2medium-008701.wav",
+        "adv-long-target": "adv-short2long-008701.wav"
+      }
+    },
+    {
+      "original": "sample-009876.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-009876.wav",
+        "adv-medium-target": "adv-short2medium-009876.wav",
+        "adv-long-target": "adv-short2long-009876.wav"
+      }
+    },
+    {
+      "original": "sample-010080.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-010080.wav",
+        "adv-medium-target": "adv-short2medium-010080.wav",
+        "adv-long-target": "adv-short2long-010080.wav"
+      }
+    },
+    {
+      "original": "sample-010722.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-010722.wav",
+        "adv-medium-target": "adv-short2medium-010722.wav",
+        "adv-long-target": "adv-short2long-010722.wav"
+      }
+    },
+    {
+      "original": "sample-011174.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-011174.wav",
+        "adv-medium-target": "adv-short2medium-011174.wav",
+        "adv-long-target": "adv-short2long-011174.wav"
+      }
+    },
+    {
+      "original": "sample-011476.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-011476.wav",
+        "adv-medium-target": "adv-short2medium-011476.wav",
+        "adv-long-target": "adv-short2long-011476.wav"
+      }
+    },
+    {
+      "original": "sample-011531.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-011531.wav",
+        "adv-medium-target": "adv-short2medium-011531.wav",
+        "adv-long-target": "adv-short2long-011531.wav"
+      }
+    },
+    {
+      "original": "sample-012055.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-012055.wav",
+        "adv-medium-target": "adv-short2medium-012055.wav",
+        "adv-long-target": "adv-short2long-012055.wav"
+      }
+    },
+    {
+      "original": "sample-013617.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-013617.wav",
+        "adv-medium-target": "adv-short2medium-013617.wav",
+        "adv-long-target": "adv-short2long-013617.wav"
+      }
+    },
+    {
+      "original": "sample-014577.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-014577.wav",
+        "adv-medium-target": "adv-short2medium-014577.wav",
+        "adv-long-target": "adv-short2long-014577.wav"
+      }
+    },
+    {
+      "original": "sample-015501.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-015501.wav",
+        "adv-medium-target": "adv-short2medium-015501.wav",
+        "adv-long-target": "adv-short2long-015501.wav"
+      }
+    },
+    {
+      "original": "sample-018067.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-018067.wav",
+        "adv-medium-target": "adv-short2medium-018067.wav",
+        "adv-long-target": "adv-short2long-018067.wav"
+      }
+    },
+    {
+      "original": "sample-018375.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-018375.wav",
+        "adv-medium-target": "adv-short2medium-018375.wav",
+        "adv-long-target": "adv-short2long-018375.wav"
+      }
+    },
+    {
+      "original": "sample-019391.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-019391.wav",
+        "adv-medium-target": "adv-short2medium-019391.wav",
+        "adv-long-target": "adv-short2long-019391.wav"
+      }
+    },
+    {
+      "original": "sample-019644.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-019644.wav",
+        "adv-medium-target": "adv-short2medium-019644.wav",
+        "adv-long-target": "adv-short2long-019644.wav"
+      }
+    },
+    {
+      "original": "sample-020089.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-020089.wav",
+        "adv-medium-target": "adv-short2medium-020089.wav",
+        "adv-long-target": "adv-short2long-020089.wav"
+      }
+    },
+    {
+      "original": "sample-021289.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-021289.wav",
+        "adv-medium-target": "adv-short2medium-021289.wav",
+        "adv-long-target": "adv-short2long-021289.wav"
+      }
+    },
+    {
+      "original": "sample-021951.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-021951.wav",
+        "adv-medium-target": "adv-short2medium-021951.wav",
+        "adv-long-target": "adv-short2long-021951.wav"
+      }
+    },
+    {
+      "original": "sample-022017.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-022017.wav",
+        "adv-medium-target": "adv-short2medium-022017.wav",
+        "adv-long-target": "adv-short2long-022017.wav"
+      }
+    },
+    {
+      "original": "sample-023169.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-023169.wav",
+        "adv-medium-target": "adv-short2medium-023169.wav",
+        "adv-long-target": "adv-short2long-023169.wav"
+      }
+    },
+    {
+      "original": "sample-023677.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-023677.wav",
+        "adv-medium-target": "adv-short2medium-023677.wav",
+        "adv-long-target": "adv-short2long-023677.wav"
+      }
+    },
+    {
+      "original": "sample-023776.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-023776.wav",
+        "adv-medium-target": "adv-short2medium-023776.wav",
+        "adv-long-target": "adv-short2long-023776.wav"
+      }
+    },
+    {
+      "original": "sample-024025.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-024025.wav",
+        "adv-medium-target": "adv-short2medium-024025.wav",
+        "adv-long-target": "adv-short2long-024025.wav"
+      }
+    },
+    {
+      "original": "sample-024342.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-024342.wav",
+        "adv-medium-target": "adv-short2medium-024342.wav",
+        "adv-long-target": "adv-short2long-024342.wav"
+      }
+    },
+    {
+      "original": "sample-025540.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-025540.wav",
+        "adv-medium-target": "adv-short2medium-025540.wav",
+        "adv-long-target": "adv-short2long-025540.wav"
+      }
+    },
+    {
+      "original": "sample-025553.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-025553.wav",
+        "adv-medium-target": "adv-short2medium-025553.wav",
+        "adv-long-target": "adv-short2long-025553.wav"
+      }
+    },
+    {
+      "original": "sample-025819.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-025819.wav",
+        "adv-medium-target": "adv-short2medium-025819.wav",
+        "adv-long-target": "adv-short2long-025819.wav"
+      }
+    },
+    {
+      "original": "sample-027121.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-027121.wav",
+        "adv-medium-target": "adv-short2medium-027121.wav",
+        "adv-long-target": "adv-short2long-027121.wav"
+      }
+    },
+    {
+      "original": "sample-028954.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-028954.wav",
+        "adv-medium-target": "adv-short2medium-028954.wav",
+        "adv-long-target": "adv-short2long-028954.wav"
+      }
+    },
+    {
+      "original": "sample-030849.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-030849.wav",
+        "adv-medium-target": "adv-short2medium-030849.wav",
+        "adv-long-target": "adv-short2long-030849.wav"
+      }
+    },
+    {
+      "original": "sample-032499.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-032499.wav",
+        "adv-medium-target": "adv-short2medium-032499.wav",
+        "adv-long-target": "adv-short2long-032499.wav"
+      }
+    },
+    {
+      "original": "sample-033015.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-033015.wav",
+        "adv-medium-target": "adv-short2medium-033015.wav",
+        "adv-long-target": "adv-short2long-033015.wav"
+      }
+    },
+    {
+      "original": "sample-033459.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-033459.wav",
+        "adv-medium-target": "adv-short2medium-033459.wav",
+        "adv-long-target": "adv-short2long-033459.wav"
+      }
+    },
+    {
+      "original": "sample-033932.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-033932.wav",
+        "adv-medium-target": "adv-short2medium-033932.wav",
+        "adv-long-target": "adv-short2long-033932.wav"
+      }
+    },
+    {
+      "original": "sample-034060.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-034060.wav",
+        "adv-medium-target": "adv-short2medium-034060.wav",
+        "adv-long-target": "adv-short2long-034060.wav"
+      }
+    },
+    {
+      "original": "sample-034107.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-034107.wav",
+        "adv-medium-target": "adv-short2medium-034107.wav",
+        "adv-long-target": "adv-short2long-034107.wav"
+      }
+    },
+    {
+      "original": "sample-035039.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-035039.wav",
+        "adv-medium-target": "adv-short2medium-035039.wav",
+        "adv-long-target": "adv-short2long-035039.wav"
+      }
+    },
+    {
+      "original": "sample-035394.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-035394.wav",
+        "adv-medium-target": "adv-short2medium-035394.wav",
+        "adv-long-target": "adv-short2long-035394.wav"
+      }
+    },
+    {
+      "original": "sample-036239.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-036239.wav",
+        "adv-medium-target": "adv-short2medium-036239.wav",
+        "adv-long-target": "adv-short2long-036239.wav"
+      }
+    },
+    {
+      "original": "sample-036511.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-036511.wav",
+        "adv-medium-target": "adv-short2medium-036511.wav",
+        "adv-long-target": "adv-short2long-036511.wav"
+      }
+    },
+    {
+      "original": "sample-036517.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-036517.wav",
+        "adv-medium-target": "adv-short2medium-036517.wav",
+        "adv-long-target": "adv-short2long-036517.wav"
+      }
+    },
+    {
+      "original": "sample-037779.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-037779.wav",
+        "adv-medium-target": "adv-short2medium-037779.wav",
+        "adv-long-target": "adv-short2long-037779.wav"
+      }
+    },
+    {
+      "original": "sample-037800.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-037800.wav",
+        "adv-medium-target": "adv-short2medium-037800.wav",
+        "adv-long-target": "adv-short2long-037800.wav"
+      }
+    },
+    {
+      "original": "sample-037901.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-037901.wav",
+        "adv-medium-target": "adv-short2medium-037901.wav",
+        "adv-long-target": "adv-short2long-037901.wav"
+      }
+    },
+    {
+      "original": "sample-038195.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-038195.wav",
+        "adv-medium-target": "adv-short2medium-038195.wav",
+        "adv-long-target": "adv-short2long-038195.wav"
+      }
+    },
+    {
+      "original": "sample-038354.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-038354.wav",
+        "adv-medium-target": "adv-short2medium-038354.wav",
+        "adv-long-target": "adv-short2long-038354.wav"
+      }
+    },
+    {
+      "original": "sample-038554.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-038554.wav",
+        "adv-medium-target": "adv-short2medium-038554.wav",
+        "adv-long-target": "adv-short2long-038554.wav"
+      }
+    },
+    {
+      "original": "sample-038744.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-038744.wav",
+        "adv-medium-target": "adv-short2medium-038744.wav",
+        "adv-long-target": "adv-short2long-038744.wav"
+      }
+    },
+    {
+      "original": "sample-040713.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-040713.wav",
+        "adv-medium-target": "adv-short2medium-040713.wav",
+        "adv-long-target": "adv-short2long-040713.wav"
+      }
+    },
+    {
+      "original": "sample-042016.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-042016.wav",
+        "adv-medium-target": "adv-short2medium-042016.wav",
+        "adv-long-target": "adv-short2long-042016.wav"
+      }
+    },
+    {
+      "original": "sample-042483.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-042483.wav",
+        "adv-medium-target": "adv-short2medium-042483.wav",
+        "adv-long-target": "adv-short2long-042483.wav"
+      }
+    },
+    {
+      "original": "sample-045707.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-045707.wav",
+        "adv-medium-target": "adv-short2medium-045707.wav",
+        "adv-long-target": "adv-short2long-045707.wav"
+      }
+    },
+    {
+      "original": "sample-045864.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-045864.wav",
+        "adv-medium-target": "adv-short2medium-045864.wav",
+        "adv-long-target": "adv-short2long-045864.wav"
+      }
+    },
+    {
+      "original": "sample-046266.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-046266.wav",
+        "adv-medium-target": "adv-short2medium-046266.wav",
+        "adv-long-target": "adv-short2long-046266.wav"
+      }
+    },
+    {
+      "original": "sample-047543.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-047543.wav",
+        "adv-medium-target": "adv-short2medium-047543.wav",
+        "adv-long-target": "adv-short2long-047543.wav"
+      }
+    },
+    {
+      "original": "sample-047673.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-047673.wav",
+        "adv-medium-target": "adv-short2medium-047673.wav",
+        "adv-long-target": "adv-short2long-047673.wav"
+      }
+    },
+    {
+      "original": "sample-194708.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-194708.wav",
+        "adv-medium-target": "adv-short2medium-194708.wav",
+        "adv-long-target": "adv-short2long-194708.wav"
+      }
+    },
+    {
+      "original": "sample-194833.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-194833.wav",
+        "adv-medium-target": "adv-short2medium-194833.wav",
+        "adv-long-target": "adv-short2long-194833.wav"
+      }
+    },
+    {
+      "original": "sample-194843.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-194843.wav",
+        "adv-medium-target": "adv-short2medium-194843.wav",
+        "adv-long-target": "adv-short2long-194843.wav"
+      }
+    },
+    {
+      "original": "sample-194913.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-194913.wav",
+        "adv-medium-target": "adv-short2medium-194913.wav",
+        "adv-long-target": "adv-short2long-194913.wav"
+      }
+    },
+    {
+      "original": "sample-194933.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-194933.wav",
+        "adv-medium-target": "adv-short2medium-194933.wav",
+        "adv-long-target": "adv-short2long-194933.wav"
+      }
+    },
+    {
+      "original": "sample-194936.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-194936.wav",
+        "adv-medium-target": "adv-short2medium-194936.wav",
+        "adv-long-target": "adv-short2long-194936.wav"
+      }
+    },
+    {
+      "original": "sample-195019.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195019.wav",
+        "adv-medium-target": "adv-short2medium-195019.wav",
+        "adv-long-target": "adv-short2long-195019.wav"
+      }
+    },
+    {
+      "original": "sample-195063.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195063.wav",
+        "adv-medium-target": "adv-short2medium-195063.wav",
+        "adv-long-target": "adv-short2long-195063.wav"
+      }
+    },
+    {
+      "original": "sample-195162.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195162.wav",
+        "adv-medium-target": "adv-short2medium-195162.wav",
+        "adv-long-target": "adv-short2long-195162.wav"
+      }
+    },
+    {
+      "original": "sample-195164.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195164.wav",
+        "adv-medium-target": "adv-short2medium-195164.wav",
+        "adv-long-target": "adv-short2long-195164.wav"
+      }
+    },
+    {
+      "original": "sample-195169.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195169.wav",
+        "adv-medium-target": "adv-short2medium-195169.wav",
+        "adv-long-target": "adv-short2long-195169.wav"
+      }
+    },
+    {
+      "original": "sample-195184.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195184.wav",
+        "adv-medium-target": "adv-short2medium-195184.wav",
+        "adv-long-target": "adv-short2long-195184.wav"
+      }
+    },
+    {
+      "original": "sample-195243.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195243.wav",
+        "adv-medium-target": "adv-short2medium-195243.wav",
+        "adv-long-target": "adv-short2long-195243.wav"
+      }
+    },
+    {
+      "original": "sample-195314.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195314.wav",
+        "adv-medium-target": "adv-short2medium-195314.wav",
+        "adv-long-target": "adv-short2long-195314.wav"
+      }
+    },
+    {
+      "original": "sample-195333.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195333.wav",
+        "adv-medium-target": "adv-short2medium-195333.wav",
+        "adv-long-target": "adv-short2long-195333.wav"
+      }
+    },
+    {
+      "original": "sample-195505.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195505.wav",
+        "adv-medium-target": "adv-short2medium-195505.wav",
+        "adv-long-target": "adv-short2long-195505.wav"
+      }
+    },
+    {
+      "original": "sample-195515.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195515.wav",
+        "adv-medium-target": "adv-short2medium-195515.wav",
+        "adv-long-target": "adv-short2long-195515.wav"
+      }
+    },
+    {
+      "original": "sample-195533.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195533.wav",
+        "adv-medium-target": "adv-short2medium-195533.wav",
+        "adv-long-target": "adv-short2long-195533.wav"
+      }
+    },
+    {
+      "original": "sample-195581.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195581.wav",
+        "adv-medium-target": "adv-short2medium-195581.wav",
+        "adv-long-target": "adv-short2long-195581.wav"
+      }
+    },
+    {
+      "original": "sample-195591.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195591.wav",
+        "adv-medium-target": "adv-short2medium-195591.wav",
+        "adv-long-target": "adv-short2long-195591.wav"
+      }
+    },
+    {
+      "original": "sample-195616.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195616.wav",
+        "adv-medium-target": "adv-short2medium-195616.wav",
+        "adv-long-target": "adv-short2long-195616.wav"
+      }
+    },
+    {
+      "original": "sample-195690.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-short2short-195690.wav",
+        "adv-medium-target": "adv-short2medium-195690.wav",
+        "adv-long-target": "adv-short2long-195690.wav"
+      }
+    }
+  ],
+  "medium-signals": [
+    {
+      "original": "sample-000028.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000028.wav",
+        "adv-medium-target": "adv-medium2medium-000028.wav",
+        "adv-long-target": "adv-medium2long-000028.wav"
+      }
+    },
+    {
+      "original": "sample-000074.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000074.wav",
+        "adv-medium-target": "adv-medium2medium-000074.wav",
+        "adv-long-target": "adv-medium2long-000074.wav"
+      }
+    },
+    {
+      "original": "sample-000101.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000101.wav",
+        "adv-medium-target": "adv-medium2medium-000101.wav",
+        "adv-long-target": "adv-medium2long-000101.wav"
+      }
+    },
+    {
+      "original": "sample-000166.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000166.wav",
+        "adv-medium-target": "adv-medium2medium-000166.wav",
+        "adv-long-target": "adv-medium2long-000166.wav"
+      }
+    },
+    {
+      "original": "sample-000351.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000351.wav",
+        "adv-medium-target": "adv-medium2medium-000351.wav",
+        "adv-long-target": "adv-medium2long-000351.wav"
+      }
+    },
+    {
+      "original": "sample-000352.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000352.wav",
+        "adv-medium-target": "adv-medium2medium-000352.wav",
+        "adv-long-target": "adv-medium2long-000352.wav"
+      }
+    },
+    {
+      "original": "sample-000376.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000376.wav",
+        "adv-medium-target": "adv-medium2medium-000376.wav",
+        "adv-long-target": "adv-medium2long-000376.wav"
+      }
+    },
+    {
+      "original": "sample-000393.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000393.wav",
+        "adv-medium-target": "adv-medium2medium-000393.wav",
+        "adv-long-target": "adv-medium2long-000393.wav"
+      }
+    },
+    {
+      "original": "sample-000451.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000451.wav",
+        "adv-medium-target": "adv-medium2medium-000451.wav",
+        "adv-long-target": "adv-medium2long-000451.wav"
+      }
+    },
+    {
+      "original": "sample-000610.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000610.wav",
+        "adv-medium-target": "adv-medium2medium-000610.wav",
+        "adv-long-target": "adv-medium2long-000610.wav"
+      }
+    },
+    {
+      "original": "sample-000621.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000621.wav",
+        "adv-medium-target": "adv-medium2medium-000621.wav",
+        "adv-long-target": "adv-medium2long-000621.wav"
+      }
+    },
+    {
+      "original": "sample-000639.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000639.wav",
+        "adv-medium-target": "adv-medium2medium-000639.wav",
+        "adv-long-target": "adv-medium2long-000639.wav"
+      }
+    },
+    {
+      "original": "sample-000654.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000654.wav",
+        "adv-medium-target": "adv-medium2medium-000654.wav",
+        "adv-long-target": "adv-medium2long-000654.wav"
+      }
+    },
+    {
+      "original": "sample-000877.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000877.wav",
+        "adv-medium-target": "adv-medium2medium-000877.wav",
+        "adv-long-target": "adv-medium2long-000877.wav"
+      }
+    },
+    {
+      "original": "sample-000957.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000957.wav",
+        "adv-medium-target": "adv-medium2medium-000957.wav",
+        "adv-long-target": "adv-medium2long-000957.wav"
+      }
+    },
+    {
+      "original": "sample-000972.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-000972.wav",
+        "adv-medium-target": "adv-medium2medium-000972.wav",
+        "adv-long-target": "adv-medium2long-000972.wav"
+      }
+    },
+    {
+      "original": "sample-001004.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001004.wav",
+        "adv-medium-target": "adv-medium2medium-001004.wav",
+        "adv-long-target": "adv-medium2long-001004.wav"
+      }
+    },
+    {
+      "original": "sample-001009.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001009.wav",
+        "adv-medium-target": "adv-medium2medium-001009.wav",
+        "adv-long-target": "adv-medium2long-001009.wav"
+      }
+    },
+    {
+      "original": "sample-001093.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001093.wav",
+        "adv-medium-target": "adv-medium2medium-001093.wav",
+        "adv-long-target": "adv-medium2long-001093.wav"
+      }
+    },
+    {
+      "original": "sample-001097.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001097.wav",
+        "adv-medium-target": "adv-medium2medium-001097.wav",
+        "adv-long-target": "adv-medium2long-001097.wav"
+      }
+    },
+    {
+      "original": "sample-001100.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001100.wav",
+        "adv-medium-target": "adv-medium2medium-001100.wav",
+        "adv-long-target": "adv-medium2long-001100.wav"
+      }
+    },
+    {
+      "original": "sample-001214.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001214.wav",
+        "adv-medium-target": "adv-medium2medium-001214.wav",
+        "adv-long-target": "adv-medium2long-001214.wav"
+      }
+    },
+    {
+      "original": "sample-001271.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001271.wav",
+        "adv-medium-target": "adv-medium2medium-001271.wav",
+        "adv-long-target": "adv-medium2long-001271.wav"
+      }
+    },
+    {
+      "original": "sample-001312.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001312.wav",
+        "adv-medium-target": "adv-medium2medium-001312.wav",
+        "adv-long-target": "adv-medium2long-001312.wav"
+      }
+    },
+    {
+      "original": "sample-001362.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001362.wav",
+        "adv-medium-target": "adv-medium2medium-001362.wav",
+        "adv-long-target": "adv-medium2long-001362.wav"
+      }
+    },
+    {
+      "original": "sample-001364.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001364.wav",
+        "adv-medium-target": "adv-medium2medium-001364.wav",
+        "adv-long-target": "adv-medium2long-001364.wav"
+      }
+    },
+    {
+      "original": "sample-001433.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001433.wav",
+        "adv-medium-target": "adv-medium2medium-001433.wav",
+        "adv-long-target": "adv-medium2long-001433.wav"
+      }
+    },
+    {
+      "original": "sample-001439.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001439.wav",
+        "adv-medium-target": "adv-medium2medium-001439.wav",
+        "adv-long-target": "adv-medium2long-001439.wav"
+      }
+    },
+    {
+      "original": "sample-001671.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001671.wav",
+        "adv-medium-target": "adv-medium2medium-001671.wav",
+        "adv-long-target": "adv-medium2long-001671.wav"
+      }
+    },
+    {
+      "original": "sample-001707.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001707.wav",
+        "adv-medium-target": "adv-medium2medium-001707.wav",
+        "adv-long-target": "adv-medium2long-001707.wav"
+      }
+    },
+    {
+      "original": "sample-001721.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001721.wav",
+        "adv-medium-target": "adv-medium2medium-001721.wav",
+        "adv-long-target": "adv-medium2long-001721.wav"
+      }
+    },
+    {
+      "original": "sample-001724.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001724.wav",
+        "adv-medium-target": "adv-medium2medium-001724.wav",
+        "adv-long-target": "adv-medium2long-001724.wav"
+      }
+    },
+    {
+      "original": "sample-001733.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001733.wav",
+        "adv-medium-target": "adv-medium2medium-001733.wav",
+        "adv-long-target": "adv-medium2long-001733.wav"
+      }
+    },
+    {
+      "original": "sample-001740.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001740.wav",
+        "adv-medium-target": "adv-medium2medium-001740.wav",
+        "adv-long-target": "adv-medium2long-001740.wav"
+      }
+    },
+    {
+      "original": "sample-001815.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001815.wav",
+        "adv-medium-target": "adv-medium2medium-001815.wav",
+        "adv-long-target": "adv-medium2long-001815.wav"
+      }
+    },
+    {
+      "original": "sample-001893.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-001893.wav",
+        "adv-medium-target": "adv-medium2medium-001893.wav",
+        "adv-long-target": "adv-medium2long-001893.wav"
+      }
+    },
+    {
+      "original": "sample-002069.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002069.wav",
+        "adv-medium-target": "adv-medium2medium-002069.wav",
+        "adv-long-target": "adv-medium2long-002069.wav"
+      }
+    },
+    {
+      "original": "sample-002121.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002121.wav",
+        "adv-medium-target": "adv-medium2medium-002121.wav",
+        "adv-long-target": "adv-medium2long-002121.wav"
+      }
+    },
+    {
+      "original": "sample-002180.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002180.wav",
+        "adv-medium-target": "adv-medium2medium-002180.wav",
+        "adv-long-target": "adv-medium2long-002180.wav"
+      }
+    },
+    {
+      "original": "sample-002300.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002300.wav",
+        "adv-medium-target": "adv-medium2medium-002300.wav",
+        "adv-long-target": "adv-medium2long-002300.wav"
+      }
+    },
+    {
+      "original": "sample-002339.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002339.wav",
+        "adv-medium-target": "adv-medium2medium-002339.wav",
+        "adv-long-target": "adv-medium2long-002339.wav"
+      }
+    },
+    {
+      "original": "sample-002380.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002380.wav",
+        "adv-medium-target": "adv-medium2medium-002380.wav",
+        "adv-long-target": "adv-medium2long-002380.wav"
+      }
+    },
+    {
+      "original": "sample-002395.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002395.wav",
+        "adv-medium-target": "adv-medium2medium-002395.wav",
+        "adv-long-target": "adv-medium2long-002395.wav"
+      }
+    },
+    {
+      "original": "sample-002620.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002620.wav",
+        "adv-medium-target": "adv-medium2medium-002620.wav",
+        "adv-long-target": "adv-medium2long-002620.wav"
+      }
+    },
+    {
+      "original": "sample-002640.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002640.wav",
+        "adv-medium-target": "adv-medium2medium-002640.wav",
+        "adv-long-target": "adv-medium2long-002640.wav"
+      }
+    },
+    {
+      "original": "sample-002724.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002724.wav",
+        "adv-medium-target": "adv-medium2medium-002724.wav",
+        "adv-long-target": "adv-medium2long-002724.wav"
+      }
+    },
+    {
+      "original": "sample-002738.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002738.wav",
+        "adv-medium-target": "adv-medium2medium-002738.wav",
+        "adv-long-target": "adv-medium2long-002738.wav"
+      }
+    },
+    {
+      "original": "sample-002894.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002894.wav",
+        "adv-medium-target": "adv-medium2medium-002894.wav",
+        "adv-long-target": "adv-medium2long-002894.wav"
+      }
+    },
+    {
+      "original": "sample-002910.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002910.wav",
+        "adv-medium-target": "adv-medium2medium-002910.wav",
+        "adv-long-target": "adv-medium2long-002910.wav"
+      }
+    },
+    {
+      "original": "sample-002926.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002926.wav",
+        "adv-medium-target": "adv-medium2medium-002926.wav",
+        "adv-long-target": "adv-medium2long-002926.wav"
+      }
+    },
+    {
+      "original": "sample-002941.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002941.wav",
+        "adv-medium-target": "adv-medium2medium-002941.wav",
+        "adv-long-target": "adv-medium2long-002941.wav"
+      }
+    },
+    {
+      "original": "sample-002950.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002950.wav",
+        "adv-medium-target": "adv-medium2medium-002950.wav",
+        "adv-long-target": "adv-medium2long-002950.wav"
+      }
+    },
+    {
+      "original": "sample-002984.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-002984.wav",
+        "adv-medium-target": "adv-medium2medium-002984.wav",
+        "adv-long-target": "adv-medium2long-002984.wav"
+      }
+    },
+    {
+      "original": "sample-003040.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003040.wav",
+        "adv-medium-target": "adv-medium2medium-003040.wav",
+        "adv-long-target": "adv-medium2long-003040.wav"
+      }
+    },
+    {
+      "original": "sample-003168.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003168.wav",
+        "adv-medium-target": "adv-medium2medium-003168.wav",
+        "adv-long-target": "adv-medium2long-003168.wav"
+      }
+    },
+    {
+      "original": "sample-003221.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003221.wav",
+        "adv-medium-target": "adv-medium2medium-003221.wav",
+        "adv-long-target": "adv-medium2long-003221.wav"
+      }
+    },
+    {
+      "original": "sample-003236.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003236.wav",
+        "adv-medium-target": "adv-medium2medium-003236.wav",
+        "adv-long-target": "adv-medium2long-003236.wav"
+      }
+    },
+    {
+      "original": "sample-003276.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003276.wav",
+        "adv-medium-target": "adv-medium2medium-003276.wav",
+        "adv-long-target": "adv-medium2long-003276.wav"
+      }
+    },
+    {
+      "original": "sample-003319.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003319.wav",
+        "adv-medium-target": "adv-medium2medium-003319.wav",
+        "adv-long-target": "adv-medium2long-003319.wav"
+      }
+    },
+    {
+      "original": "sample-003344.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003344.wav",
+        "adv-medium-target": "adv-medium2medium-003344.wav",
+        "adv-long-target": "adv-medium2long-003344.wav"
+      }
+    },
+    {
+      "original": "sample-003392.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003392.wav",
+        "adv-medium-target": "adv-medium2medium-003392.wav",
+        "adv-long-target": "adv-medium2long-003392.wav"
+      }
+    },
+    {
+      "original": "sample-003429.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003429.wav",
+        "adv-medium-target": "adv-medium2medium-003429.wav",
+        "adv-long-target": "adv-medium2long-003429.wav"
+      }
+    },
+    {
+      "original": "sample-003438.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003438.wav",
+        "adv-medium-target": "adv-medium2medium-003438.wav",
+        "adv-long-target": "adv-medium2long-003438.wav"
+      }
+    },
+    {
+      "original": "sample-003549.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003549.wav",
+        "adv-medium-target": "adv-medium2medium-003549.wav",
+        "adv-long-target": "adv-medium2long-003549.wav"
+      }
+    },
+    {
+      "original": "sample-003583.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003583.wav",
+        "adv-medium-target": "adv-medium2medium-003583.wav",
+        "adv-long-target": "adv-medium2long-003583.wav"
+      }
+    },
+    {
+      "original": "sample-003652.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003652.wav",
+        "adv-medium-target": "adv-medium2medium-003652.wav",
+        "adv-long-target": "adv-medium2long-003652.wav"
+      }
+    },
+    {
+      "original": "sample-003763.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003763.wav",
+        "adv-medium-target": "adv-medium2medium-003763.wav",
+        "adv-long-target": "adv-medium2long-003763.wav"
+      }
+    },
+    {
+      "original": "sample-003933.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003933.wav",
+        "adv-medium-target": "adv-medium2medium-003933.wav",
+        "adv-long-target": "adv-medium2long-003933.wav"
+      }
+    },
+    {
+      "original": "sample-003972.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003972.wav",
+        "adv-medium-target": "adv-medium2medium-003972.wav",
+        "adv-long-target": "adv-medium2long-003972.wav"
+      }
+    },
+    {
+      "original": "sample-003985.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-003985.wav",
+        "adv-medium-target": "adv-medium2medium-003985.wav",
+        "adv-long-target": "adv-medium2long-003985.wav"
+      }
+    },
+    {
+      "original": "sample-004034.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004034.wav",
+        "adv-medium-target": "adv-medium2medium-004034.wav",
+        "adv-long-target": "adv-medium2long-004034.wav"
+      }
+    },
+    {
+      "original": "sample-004092.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004092.wav",
+        "adv-medium-target": "adv-medium2medium-004092.wav",
+        "adv-long-target": "adv-medium2long-004092.wav"
+      }
+    },
+    {
+      "original": "sample-004115.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004115.wav",
+        "adv-medium-target": "adv-medium2medium-004115.wav",
+        "adv-long-target": "adv-medium2long-004115.wav"
+      }
+    },
+    {
+      "original": "sample-004139.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004139.wav",
+        "adv-medium-target": "adv-medium2medium-004139.wav",
+        "adv-long-target": "adv-medium2long-004139.wav"
+      }
+    },
+    {
+      "original": "sample-004155.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004155.wav",
+        "adv-medium-target": "adv-medium2medium-004155.wav",
+        "adv-long-target": "adv-medium2long-004155.wav"
+      }
+    },
+    {
+      "original": "sample-004187.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004187.wav",
+        "adv-medium-target": "adv-medium2medium-004187.wav",
+        "adv-long-target": "adv-medium2long-004187.wav"
+      }
+    },
+    {
+      "original": "sample-004231.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004231.wav",
+        "adv-medium-target": "adv-medium2medium-004231.wav",
+        "adv-long-target": "adv-medium2long-004231.wav"
+      }
+    },
+    {
+      "original": "sample-004259.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004259.wav",
+        "adv-medium-target": "adv-medium2medium-004259.wav",
+        "adv-long-target": "adv-medium2long-004259.wav"
+      }
+    },
+    {
+      "original": "sample-004366.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004366.wav",
+        "adv-medium-target": "adv-medium2medium-004366.wav",
+        "adv-long-target": "adv-medium2long-004366.wav"
+      }
+    },
+    {
+      "original": "sample-004375.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004375.wav",
+        "adv-medium-target": "adv-medium2medium-004375.wav",
+        "adv-long-target": "adv-medium2long-004375.wav"
+      }
+    },
+    {
+      "original": "sample-004646.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004646.wav",
+        "adv-medium-target": "adv-medium2medium-004646.wav",
+        "adv-long-target": "adv-medium2long-004646.wav"
+      }
+    },
+    {
+      "original": "sample-004747.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004747.wav",
+        "adv-medium-target": "adv-medium2medium-004747.wav",
+        "adv-long-target": "adv-medium2long-004747.wav"
+      }
+    },
+    {
+      "original": "sample-004816.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004816.wav",
+        "adv-medium-target": "adv-medium2medium-004816.wav",
+        "adv-long-target": "adv-medium2long-004816.wav"
+      }
+    },
+    {
+      "original": "sample-004852.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004852.wav",
+        "adv-medium-target": "adv-medium2medium-004852.wav",
+        "adv-long-target": "adv-medium2long-004852.wav"
+      }
+    },
+    {
+      "original": "sample-004905.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004905.wav",
+        "adv-medium-target": "adv-medium2medium-004905.wav",
+        "adv-long-target": "adv-medium2long-004905.wav"
+      }
+    },
+    {
+      "original": "sample-004938.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004938.wav",
+        "adv-medium-target": "adv-medium2medium-004938.wav",
+        "adv-long-target": "adv-medium2long-004938.wav"
+      }
+    },
+    {
+      "original": "sample-004992.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-004992.wav",
+        "adv-medium-target": "adv-medium2medium-004992.wav",
+        "adv-long-target": "adv-medium2long-004992.wav"
+      }
+    },
+    {
+      "original": "sample-005007.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005007.wav",
+        "adv-medium-target": "adv-medium2medium-005007.wav",
+        "adv-long-target": "adv-medium2long-005007.wav"
+      }
+    },
+    {
+      "original": "sample-005080.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005080.wav",
+        "adv-medium-target": "adv-medium2medium-005080.wav",
+        "adv-long-target": "adv-medium2long-005080.wav"
+      }
+    },
+    {
+      "original": "sample-005124.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005124.wav",
+        "adv-medium-target": "adv-medium2medium-005124.wav",
+        "adv-long-target": "adv-medium2long-005124.wav"
+      }
+    },
+    {
+      "original": "sample-005181.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005181.wav",
+        "adv-medium-target": "adv-medium2medium-005181.wav",
+        "adv-long-target": "adv-medium2long-005181.wav"
+      }
+    },
+    {
+      "original": "sample-005192.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005192.wav",
+        "adv-medium-target": "adv-medium2medium-005192.wav",
+        "adv-long-target": "adv-medium2long-005192.wav"
+      }
+    },
+    {
+      "original": "sample-005206.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005206.wav",
+        "adv-medium-target": "adv-medium2medium-005206.wav",
+        "adv-long-target": "adv-medium2long-005206.wav"
+      }
+    },
+    {
+      "original": "sample-005306.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005306.wav",
+        "adv-medium-target": "adv-medium2medium-005306.wav",
+        "adv-long-target": "adv-medium2long-005306.wav"
+      }
+    },
+    {
+      "original": "sample-005409.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005409.wav",
+        "adv-medium-target": "adv-medium2medium-005409.wav",
+        "adv-long-target": "adv-medium2long-005409.wav"
+      }
+    },
+    {
+      "original": "sample-005414.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005414.wav",
+        "adv-medium-target": "adv-medium2medium-005414.wav",
+        "adv-long-target": "adv-medium2long-005414.wav"
+      }
+    },
+    {
+      "original": "sample-005502.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005502.wav",
+        "adv-medium-target": "adv-medium2medium-005502.wav",
+        "adv-long-target": "adv-medium2long-005502.wav"
+      }
+    },
+    {
+      "original": "sample-005516.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005516.wav",
+        "adv-medium-target": "adv-medium2medium-005516.wav",
+        "adv-long-target": "adv-medium2long-005516.wav"
+      }
+    },
+    {
+      "original": "sample-005551.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005551.wav",
+        "adv-medium-target": "adv-medium2medium-005551.wav",
+        "adv-long-target": "adv-medium2long-005551.wav"
+      }
+    },
+    {
+      "original": "sample-005590.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-medium2short-005590.wav",
+        "adv-medium-target": "adv-medium2medium-005590.wav",
+        "adv-long-target": "adv-medium2long-005590.wav"
+      }
+    }
+  ],
+  "long-signals": [
+    {
+      "original": "sample-000003.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-000003.wav",
+        "adv-medium-target": "adv-long2medium-000003.wav",
+        "adv-long-target": "adv-long2long-000003.wav"
+      }
+    },
+    {
+      "original": "sample-000080.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-000080.wav",
+        "adv-medium-target": "adv-long2medium-000080.wav",
+        "adv-long-target": "adv-long2long-000080.wav"
+      }
+    },
+    {
+      "original": "sample-000103.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-000103.wav",
+        "adv-medium-target": "adv-long2medium-000103.wav",
+        "adv-long-target": "adv-long2long-000103.wav"
+      }
+    },
+    {
+      "original": "sample-000396.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-000396.wav",
+        "adv-medium-target": "adv-long2medium-000396.wav",
+        "adv-long-target": "adv-long2long-000396.wav"
+      }
+    },
+    {
+      "original": "sample-000700.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-000700.wav",
+        "adv-medium-target": "adv-long2medium-000700.wav",
+        "adv-long-target": "adv-long2long-000700.wav"
+      }
+    },
+    {
+      "original": "sample-000796.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-000796.wav",
+        "adv-medium-target": "adv-long2medium-000796.wav",
+        "adv-long-target": "adv-long2long-000796.wav"
+      }
+    },
+    {
+      "original": "sample-000946.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-000946.wav",
+        "adv-medium-target": "adv-long2medium-000946.wav",
+        "adv-long-target": "adv-long2long-000946.wav"
+      }
+    },
+    {
+      "original": "sample-000950.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-000950.wav",
+        "adv-medium-target": "adv-long2medium-000950.wav",
+        "adv-long-target": "adv-long2long-000950.wav"
+      }
+    },
+    {
+      "original": "sample-001018.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-001018.wav",
+        "adv-medium-target": "adv-long2medium-001018.wav",
+        "adv-long-target": "adv-long2long-001018.wav"
+      }
+    },
+    {
+      "original": "sample-001456.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-001456.wav",
+        "adv-medium-target": "adv-long2medium-001456.wav",
+        "adv-long-target": "adv-long2long-001456.wav"
+      }
+    },
+    {
+      "original": "sample-001570.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-001570.wav",
+        "adv-medium-target": "adv-long2medium-001570.wav",
+        "adv-long-target": "adv-long2long-001570.wav"
+      }
+    },
+    {
+      "original": "sample-001687.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-001687.wav",
+        "adv-medium-target": "adv-long2medium-001687.wav",
+        "adv-long-target": "adv-long2long-001687.wav"
+      }
+    },
+    {
+      "original": "sample-001870.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-001870.wav",
+        "adv-medium-target": "adv-long2medium-001870.wav",
+        "adv-long-target": "adv-long2long-001870.wav"
+      }
+    },
+    {
+      "original": "sample-001950.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-001950.wav",
+        "adv-medium-target": "adv-long2medium-001950.wav",
+        "adv-long-target": "adv-long2long-001950.wav"
+      }
+    },
+    {
+      "original": "sample-001973.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-001973.wav",
+        "adv-medium-target": "adv-long2medium-001973.wav",
+        "adv-long-target": "adv-long2long-001973.wav"
+      }
+    },
+    {
+      "original": "sample-002024.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-002024.wav",
+        "adv-medium-target": "adv-long2medium-002024.wav",
+        "adv-long-target": "adv-long2long-002024.wav"
+      }
+    },
+    {
+      "original": "sample-002029.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-002029.wav",
+        "adv-medium-target": "adv-long2medium-002029.wav",
+        "adv-long-target": "adv-long2long-002029.wav"
+      }
+    },
+    {
+      "original": "sample-002051.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-002051.wav",
+        "adv-medium-target": "adv-long2medium-002051.wav",
+        "adv-long-target": "adv-long2long-002051.wav"
+      }
+    },
+    {
+      "original": "sample-002354.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-002354.wav",
+        "adv-medium-target": "adv-long2medium-002354.wav",
+        "adv-long-target": "adv-long2long-002354.wav"
+      }
+    },
+    {
+      "original": "sample-002464.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-002464.wav",
+        "adv-medium-target": "adv-long2medium-002464.wav",
+        "adv-long-target": "adv-long2long-002464.wav"
+      }
+    },
+    {
+      "original": "sample-002468.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-002468.wav",
+        "adv-medium-target": "adv-long2medium-002468.wav",
+        "adv-long-target": "adv-long2long-002468.wav"
+      }
+    },
+    {
+      "original": "sample-002562.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-002562.wav",
+        "adv-medium-target": "adv-long2medium-002562.wav",
+        "adv-long-target": "adv-long2long-002562.wav"
+      }
+    },
+    {
+      "original": "sample-002622.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-002622.wav",
+        "adv-medium-target": "adv-long2medium-002622.wav",
+        "adv-long-target": "adv-long2long-002622.wav"
+      }
+    },
+    {
+      "original": "sample-002646.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-002646.wav",
+        "adv-medium-target": "adv-long2medium-002646.wav",
+        "adv-long-target": "adv-long2long-002646.wav"
+      }
+    },
+    {
+      "original": "sample-002699.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-002699.wav",
+        "adv-medium-target": "adv-long2medium-002699.wav",
+        "adv-long-target": "adv-long2long-002699.wav"
+      }
+    },
+    {
+      "original": "sample-003238.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-003238.wav",
+        "adv-medium-target": "adv-long2medium-003238.wav",
+        "adv-long-target": "adv-long2long-003238.wav"
+      }
+    },
+    {
+      "original": "sample-003551.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-003551.wav",
+        "adv-medium-target": "adv-long2medium-003551.wav",
+        "adv-long-target": "adv-long2long-003551.wav"
+      }
+    },
+    {
+      "original": "sample-003783.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-003783.wav",
+        "adv-medium-target": "adv-long2medium-003783.wav",
+        "adv-long-target": "adv-long2long-003783.wav"
+      }
+    },
+    {
+      "original": "sample-003816.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-003816.wav",
+        "adv-medium-target": "adv-long2medium-003816.wav",
+        "adv-long-target": "adv-long2long-003816.wav"
+      }
+    },
+    {
+      "original": "sample-004021.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-004021.wav",
+        "adv-medium-target": "adv-long2medium-004021.wav",
+        "adv-long-target": "adv-long2long-004021.wav"
+      }
+    },
+    {
+      "original": "sample-004283.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-004283.wav",
+        "adv-medium-target": "adv-long2medium-004283.wav",
+        "adv-long-target": "adv-long2long-004283.wav"
+      }
+    },
+    {
+      "original": "sample-004389.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-004389.wav",
+        "adv-medium-target": "adv-long2medium-004389.wav",
+        "adv-long-target": "adv-long2long-004389.wav"
+      }
+    },
+    {
+      "original": "sample-004431.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-004431.wav",
+        "adv-medium-target": "adv-long2medium-004431.wav",
+        "adv-long-target": "adv-long2long-004431.wav"
+      }
+    },
+    {
+      "original": "sample-004505.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-004505.wav",
+        "adv-medium-target": "adv-long2medium-004505.wav",
+        "adv-long-target": "adv-long2long-004505.wav"
+      }
+    },
+    {
+      "original": "sample-004527.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-004527.wav",
+        "adv-medium-target": "adv-long2medium-004527.wav",
+        "adv-long-target": "adv-long2long-004527.wav"
+      }
+    },
+    {
+      "original": "sample-004562.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-004562.wav",
+        "adv-medium-target": "adv-long2medium-004562.wav",
+        "adv-long-target": "adv-long2long-004562.wav"
+      }
+    },
+    {
+      "original": "sample-004664.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-004664.wav",
+        "adv-medium-target": "adv-long2medium-004664.wav",
+        "adv-long-target": "adv-long2long-004664.wav"
+      }
+    },
+    {
+      "original": "sample-004794.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-004794.wav",
+        "adv-medium-target": "adv-long2medium-004794.wav",
+        "adv-long-target": "adv-long2long-004794.wav"
+      }
+    },
+    {
+      "original": "sample-004857.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-004857.wav",
+        "adv-medium-target": "adv-long2medium-004857.wav",
+        "adv-long-target": "adv-long2long-004857.wav"
+      }
+    },
+    {
+      "original": "sample-005012.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-005012.wav",
+        "adv-medium-target": "adv-long2medium-005012.wav",
+        "adv-long-target": "adv-long2long-005012.wav"
+      }
+    },
+    {
+      "original": "sample-005130.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-005130.wav",
+        "adv-medium-target": "adv-long2medium-005130.wav",
+        "adv-long-target": "adv-long2long-005130.wav"
+      }
+    },
+    {
+      "original": "sample-005849.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-005849.wav",
+        "adv-medium-target": "adv-long2medium-005849.wav",
+        "adv-long-target": "adv-long2long-005849.wav"
+      }
+    },
+    {
+      "original": "sample-005899.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-005899.wav",
+        "adv-medium-target": "adv-long2medium-005899.wav",
+        "adv-long-target": "adv-long2long-005899.wav"
+      }
+    },
+    {
+      "original": "sample-006312.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-006312.wav",
+        "adv-medium-target": "adv-long2medium-006312.wav",
+        "adv-long-target": "adv-long2long-006312.wav"
+      }
+    },
+    {
+      "original": "sample-006479.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-006479.wav",
+        "adv-medium-target": "adv-long2medium-006479.wav",
+        "adv-long-target": "adv-long2long-006479.wav"
+      }
+    },
+    {
+      "original": "sample-006648.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-006648.wav",
+        "adv-medium-target": "adv-long2medium-006648.wav",
+        "adv-long-target": "adv-long2long-006648.wav"
+      }
+    },
+    {
+      "original": "sample-006710.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-006710.wav",
+        "adv-medium-target": "adv-long2medium-006710.wav",
+        "adv-long-target": "adv-long2long-006710.wav"
+      }
+    },
+    {
+      "original": "sample-006752.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-006752.wav",
+        "adv-medium-target": "adv-long2medium-006752.wav",
+        "adv-long-target": "adv-long2long-006752.wav"
+      }
+    },
+    {
+      "original": "sample-006765.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-006765.wav",
+        "adv-medium-target": "adv-long2medium-006765.wav",
+        "adv-long-target": "adv-long2long-006765.wav"
+      }
+    },
+    {
+      "original": "sample-006879.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-006879.wav",
+        "adv-medium-target": "adv-long2medium-006879.wav",
+        "adv-long-target": "adv-long2long-006879.wav"
+      }
+    },
+    {
+      "original": "sample-006945.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-006945.wav",
+        "adv-medium-target": "adv-long2medium-006945.wav",
+        "adv-long-target": "adv-long2long-006945.wav"
+      }
+    },
+    {
+      "original": "sample-006999.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-006999.wav",
+        "adv-medium-target": "adv-long2medium-006999.wav",
+        "adv-long-target": "adv-long2long-006999.wav"
+      }
+    },
+    {
+      "original": "sample-007090.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-007090.wav",
+        "adv-medium-target": "adv-long2medium-007090.wav",
+        "adv-long-target": "adv-long2long-007090.wav"
+      }
+    },
+    {
+      "original": "sample-007104.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-007104.wav",
+        "adv-medium-target": "adv-long2medium-007104.wav",
+        "adv-long-target": "adv-long2long-007104.wav"
+      }
+    },
+    {
+      "original": "sample-007163.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-007163.wav",
+        "adv-medium-target": "adv-long2medium-007163.wav",
+        "adv-long-target": "adv-long2long-007163.wav"
+      }
+    },
+    {
+      "original": "sample-007464.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-007464.wav",
+        "adv-medium-target": "adv-long2medium-007464.wav",
+        "adv-long-target": "adv-long2long-007464.wav"
+      }
+    },
+    {
+      "original": "sample-007686.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-007686.wav",
+        "adv-medium-target": "adv-long2medium-007686.wav",
+        "adv-long-target": "adv-long2long-007686.wav"
+      }
+    },
+    {
+      "original": "sample-007715.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-007715.wav",
+        "adv-medium-target": "adv-long2medium-007715.wav",
+        "adv-long-target": "adv-long2long-007715.wav"
+      }
+    },
+    {
+      "original": "sample-007792.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-007792.wav",
+        "adv-medium-target": "adv-long2medium-007792.wav",
+        "adv-long-target": "adv-long2long-007792.wav"
+      }
+    },
+    {
+      "original": "sample-008071.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-008071.wav",
+        "adv-medium-target": "adv-long2medium-008071.wav",
+        "adv-long-target": "adv-long2long-008071.wav"
+      }
+    },
+    {
+      "original": "sample-008363.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-008363.wav",
+        "adv-medium-target": "adv-long2medium-008363.wav",
+        "adv-long-target": "adv-long2long-008363.wav"
+      }
+    },
+    {
+      "original": "sample-008836.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-008836.wav",
+        "adv-medium-target": "adv-long2medium-008836.wav",
+        "adv-long-target": "adv-long2long-008836.wav"
+      }
+    },
+    {
+      "original": "sample-009500.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-009500.wav",
+        "adv-medium-target": "adv-long2medium-009500.wav",
+        "adv-long-target": "adv-long2long-009500.wav"
+      }
+    },
+    {
+      "original": "sample-009510.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-009510.wav",
+        "adv-medium-target": "adv-long2medium-009510.wav",
+        "adv-long-target": "adv-long2long-009510.wav"
+      }
+    },
+    {
+      "original": "sample-009674.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-009674.wav",
+        "adv-medium-target": "adv-long2medium-009674.wav",
+        "adv-long-target": "adv-long2long-009674.wav"
+      }
+    },
+    {
+      "original": "sample-010157.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-010157.wav",
+        "adv-medium-target": "adv-long2medium-010157.wav",
+        "adv-long-target": "adv-long2long-010157.wav"
+      }
+    },
+    {
+      "original": "sample-010440.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-010440.wav",
+        "adv-medium-target": "adv-long2medium-010440.wav",
+        "adv-long-target": "adv-long2long-010440.wav"
+      }
+    },
+    {
+      "original": "sample-010549.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-010549.wav",
+        "adv-medium-target": "adv-long2medium-010549.wav",
+        "adv-long-target": "adv-long2long-010549.wav"
+      }
+    },
+    {
+      "original": "sample-010673.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-010673.wav",
+        "adv-medium-target": "adv-long2medium-010673.wav",
+        "adv-long-target": "adv-long2long-010673.wav"
+      }
+    },
+    {
+      "original": "sample-010740.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-010740.wav",
+        "adv-medium-target": "adv-long2medium-010740.wav",
+        "adv-long-target": "adv-long2long-010740.wav"
+      }
+    },
+    {
+      "original": "sample-010861.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-010861.wav",
+        "adv-medium-target": "adv-long2medium-010861.wav",
+        "adv-long-target": "adv-long2long-010861.wav"
+      }
+    },
+    {
+      "original": "sample-011260.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-011260.wav",
+        "adv-medium-target": "adv-long2medium-011260.wav",
+        "adv-long-target": "adv-long2long-011260.wav"
+      }
+    },
+    {
+      "original": "sample-011521.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-011521.wav",
+        "adv-medium-target": "adv-long2medium-011521.wav",
+        "adv-long-target": "adv-long2long-011521.wav"
+      }
+    },
+    {
+      "original": "sample-011900.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-011900.wav",
+        "adv-medium-target": "adv-long2medium-011900.wav",
+        "adv-long-target": "adv-long2long-011900.wav"
+      }
+    },
+    {
+      "original": "sample-013372.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-013372.wav",
+        "adv-medium-target": "adv-long2medium-013372.wav",
+        "adv-long-target": "adv-long2long-013372.wav"
+      }
+    },
+    {
+      "original": "sample-013988.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-013988.wav",
+        "adv-medium-target": "adv-long2medium-013988.wav",
+        "adv-long-target": "adv-long2long-013988.wav"
+      }
+    },
+    {
+      "original": "sample-014301.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-014301.wav",
+        "adv-medium-target": "adv-long2medium-014301.wav",
+        "adv-long-target": "adv-long2long-014301.wav"
+      }
+    },
+    {
+      "original": "sample-014591.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-014591.wav",
+        "adv-medium-target": "adv-long2medium-014591.wav",
+        "adv-long-target": "adv-long2long-014591.wav"
+      }
+    },
+    {
+      "original": "sample-014604.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-014604.wav",
+        "adv-medium-target": "adv-long2medium-014604.wav",
+        "adv-long-target": "adv-long2long-014604.wav"
+      }
+    },
+    {
+      "original": "sample-014619.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-014619.wav",
+        "adv-medium-target": "adv-long2medium-014619.wav",
+        "adv-long-target": "adv-long2long-014619.wav"
+      }
+    },
+    {
+      "original": "sample-014856.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-014856.wav",
+        "adv-medium-target": "adv-long2medium-014856.wav",
+        "adv-long-target": "adv-long2long-014856.wav"
+      }
+    },
+    {
+      "original": "sample-014985.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-014985.wav",
+        "adv-medium-target": "adv-long2medium-014985.wav",
+        "adv-long-target": "adv-long2long-014985.wav"
+      }
+    },
+    {
+      "original": "sample-015110.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-015110.wav",
+        "adv-medium-target": "adv-long2medium-015110.wav",
+        "adv-long-target": "adv-long2long-015110.wav"
+      }
+    },
+    {
+      "original": "sample-015253.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-015253.wav",
+        "adv-medium-target": "adv-long2medium-015253.wav",
+        "adv-long-target": "adv-long2long-015253.wav"
+      }
+    },
+    {
+      "original": "sample-015566.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-015566.wav",
+        "adv-medium-target": "adv-long2medium-015566.wav",
+        "adv-long-target": "adv-long2long-015566.wav"
+      }
+    },
+    {
+      "original": "sample-015729.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-015729.wav",
+        "adv-medium-target": "adv-long2medium-015729.wav",
+        "adv-long-target": "adv-long2long-015729.wav"
+      }
+    },
+    {
+      "original": "sample-015890.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-015890.wav",
+        "adv-medium-target": "adv-long2medium-015890.wav",
+        "adv-long-target": "adv-long2long-015890.wav"
+      }
+    },
+    {
+      "original": "sample-015985.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-015985.wav",
+        "adv-medium-target": "adv-long2medium-015985.wav",
+        "adv-long-target": "adv-long2long-015985.wav"
+      }
+    },
+    {
+      "original": "sample-016136.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-016136.wav",
+        "adv-medium-target": "adv-long2medium-016136.wav",
+        "adv-long-target": "adv-long2long-016136.wav"
+      }
+    },
+    {
+      "original": "sample-016358.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-016358.wav",
+        "adv-medium-target": "adv-long2medium-016358.wav",
+        "adv-long-target": "adv-long2long-016358.wav"
+      }
+    },
+    {
+      "original": "sample-016434.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-016434.wav",
+        "adv-medium-target": "adv-long2medium-016434.wav",
+        "adv-long-target": "adv-long2long-016434.wav"
+      }
+    },
+    {
+      "original": "sample-016571.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-016571.wav",
+        "adv-medium-target": "adv-long2medium-016571.wav",
+        "adv-long-target": "adv-long2long-016571.wav"
+      }
+    },
+    {
+      "original": "sample-016663.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-016663.wav",
+        "adv-medium-target": "adv-long2medium-016663.wav",
+        "adv-long-target": "adv-long2long-016663.wav"
+      }
+    },
+    {
+      "original": "sample-016771.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-016771.wav",
+        "adv-medium-target": "adv-long2medium-016771.wav",
+        "adv-long-target": "adv-long2long-016771.wav"
+      }
+    },
+    {
+      "original": "sample-017006.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-017006.wav",
+        "adv-medium-target": "adv-long2medium-017006.wav",
+        "adv-long-target": "adv-long2long-017006.wav"
+      }
+    },
+    {
+      "original": "sample-017108.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-017108.wav",
+        "adv-medium-target": "adv-long2medium-017108.wav",
+        "adv-long-target": "adv-long2long-017108.wav"
+      }
+    },
+    {
+      "original": "sample-017302.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-017302.wav",
+        "adv-medium-target": "adv-long2medium-017302.wav",
+        "adv-long-target": "adv-long2long-017302.wav"
+      }
+    },
+    {
+      "original": "sample-017327.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-017327.wav",
+        "adv-medium-target": "adv-long2medium-017327.wav",
+        "adv-long-target": "adv-long2long-017327.wav"
+      }
+    },
+    {
+      "original": "sample-017361.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-017361.wav",
+        "adv-medium-target": "adv-long2medium-017361.wav",
+        "adv-long-target": "adv-long2long-017361.wav"
+      }
+    },
+    {
+      "original": "sample-017416.wav",
+      "adversarial_samples": {
+        "adv-short-target": "adv-long2short-017416.wav",
+        "adv-medium-target": "adv-long2medium-017416.wav",
+        "adv-long-target": "adv-long2long-017416.wav"
+      }
+    }
+  ]
+}

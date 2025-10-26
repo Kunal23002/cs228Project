@@ -1,0 +1,1850 @@
+====================================================================================================
+ADVERSARIAL DATASET - ORIGINAL TO ADVERSARIAL SAMPLE MAPPING
+====================================================================================================
+
+
+====================================================================================================
+SIGNAL TYPE: SHORT-SIGNALS
+====================================================================================================
+
+Total samples: 100
+
+
+[  1] Original Sample: sample-000303.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-000303.wav
+       - adv-medium-target: adv-short2medium-000303.wav
+       - adv-short-target: adv-short2short-000303.wav
+
+[  2] Original Sample: sample-000516.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-000516.wav
+       - adv-medium-target: adv-short2medium-000516.wav
+       - adv-short-target: adv-short2short-000516.wav
+
+[  3] Original Sample: sample-001169.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-001169.wav
+       - adv-medium-target: adv-short2medium-001169.wav
+       - adv-short-target: adv-short2short-001169.wav
+
+[  4] Original Sample: sample-001417.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-001417.wav
+       - adv-medium-target: adv-short2medium-001417.wav
+       - adv-short-target: adv-short2short-001417.wav
+
+[  5] Original Sample: sample-001598.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-001598.wav
+       - adv-medium-target: adv-short2medium-001598.wav
+       - adv-short-target: adv-short2short-001598.wav
+
+[  6] Original Sample: sample-001703.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-001703.wav
+       - adv-medium-target: adv-short2medium-001703.wav
+       - adv-short-target: adv-short2short-001703.wav
+
+[  7] Original Sample: sample-002296.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-002296.wav
+       - adv-medium-target: adv-short2medium-002296.wav
+       - adv-short-target: adv-short2short-002296.wav
+
+[  8] Original Sample: sample-002813.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-002813.wav
+       - adv-medium-target: adv-short2medium-002813.wav
+       - adv-short-target: adv-short2short-002813.wav
+
+[  9] Original Sample: sample-002854.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-002854.wav
+       - adv-medium-target: adv-short2medium-002854.wav
+       - adv-short-target: adv-short2short-002854.wav
+
+[ 10] Original Sample: sample-002912.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-002912.wav
+       - adv-medium-target: adv-short2medium-002912.wav
+       - adv-short-target: adv-short2short-002912.wav
+
+[ 11] Original Sample: sample-003983.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-003983.wav
+       - adv-medium-target: adv-short2medium-003983.wav
+       - adv-short-target: adv-short2short-003983.wav
+
+[ 12] Original Sample: sample-004321.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-004321.wav
+       - adv-medium-target: adv-short2medium-004321.wav
+       - adv-short-target: adv-short2short-004321.wav
+
+[ 13] Original Sample: sample-004772.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-004772.wav
+       - adv-medium-target: adv-short2medium-004772.wav
+       - adv-short-target: adv-short2short-004772.wav
+
+[ 14] Original Sample: sample-004800.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-004800.wav
+       - adv-medium-target: adv-short2medium-004800.wav
+       - adv-short-target: adv-short2short-004800.wav
+
+[ 15] Original Sample: sample-004968.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-004968.wav
+       - adv-medium-target: adv-short2medium-004968.wav
+       - adv-short-target: adv-short2short-004968.wav
+
+[ 16] Original Sample: sample-005497.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-005497.wav
+       - adv-medium-target: adv-short2medium-005497.wav
+       - adv-short-target: adv-short2short-005497.wav
+
+[ 17] Original Sample: sample-006137.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-006137.wav
+       - adv-medium-target: adv-short2medium-006137.wav
+       - adv-short-target: adv-short2short-006137.wav
+
+[ 18] Original Sample: sample-006620.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-006620.wav
+       - adv-medium-target: adv-short2medium-006620.wav
+       - adv-short-target: adv-short2short-006620.wav
+
+[ 19] Original Sample: sample-006936.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-006936.wav
+       - adv-medium-target: adv-short2medium-006936.wav
+       - adv-short-target: adv-short2short-006936.wav
+
+[ 20] Original Sample: sample-007417.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-007417.wav
+       - adv-medium-target: adv-short2medium-007417.wav
+       - adv-short-target: adv-short2short-007417.wav
+
+[ 21] Original Sample: sample-008518.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-008518.wav
+       - adv-medium-target: adv-short2medium-008518.wav
+       - adv-short-target: adv-short2short-008518.wav
+
+[ 22] Original Sample: sample-008519.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-008519.wav
+       - adv-medium-target: adv-short2medium-008519.wav
+       - adv-short-target: adv-short2short-008519.wav
+
+[ 23] Original Sample: sample-008701.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-008701.wav
+       - adv-medium-target: adv-short2medium-008701.wav
+       - adv-short-target: adv-short2short-008701.wav
+
+[ 24] Original Sample: sample-009876.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-009876.wav
+       - adv-medium-target: adv-short2medium-009876.wav
+       - adv-short-target: adv-short2short-009876.wav
+
+[ 25] Original Sample: sample-010080.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-010080.wav
+       - adv-medium-target: adv-short2medium-010080.wav
+       - adv-short-target: adv-short2short-010080.wav
+
+[ 26] Original Sample: sample-010722.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-010722.wav
+       - adv-medium-target: adv-short2medium-010722.wav
+       - adv-short-target: adv-short2short-010722.wav
+
+[ 27] Original Sample: sample-011174.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-011174.wav
+       - adv-medium-target: adv-short2medium-011174.wav
+       - adv-short-target: adv-short2short-011174.wav
+
+[ 28] Original Sample: sample-011476.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-011476.wav
+       - adv-medium-target: adv-short2medium-011476.wav
+       - adv-short-target: adv-short2short-011476.wav
+
+[ 29] Original Sample: sample-011531.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-011531.wav
+       - adv-medium-target: adv-short2medium-011531.wav
+       - adv-short-target: adv-short2short-011531.wav
+
+[ 30] Original Sample: sample-012055.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-012055.wav
+       - adv-medium-target: adv-short2medium-012055.wav
+       - adv-short-target: adv-short2short-012055.wav
+
+[ 31] Original Sample: sample-013617.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-013617.wav
+       - adv-medium-target: adv-short2medium-013617.wav
+       - adv-short-target: adv-short2short-013617.wav
+
+[ 32] Original Sample: sample-014577.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-014577.wav
+       - adv-medium-target: adv-short2medium-014577.wav
+       - adv-short-target: adv-short2short-014577.wav
+
+[ 33] Original Sample: sample-015501.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-015501.wav
+       - adv-medium-target: adv-short2medium-015501.wav
+       - adv-short-target: adv-short2short-015501.wav
+
+[ 34] Original Sample: sample-018067.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-018067.wav
+       - adv-medium-target: adv-short2medium-018067.wav
+       - adv-short-target: adv-short2short-018067.wav
+
+[ 35] Original Sample: sample-018375.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-018375.wav
+       - adv-medium-target: adv-short2medium-018375.wav
+       - adv-short-target: adv-short2short-018375.wav
+
+[ 36] Original Sample: sample-019391.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-019391.wav
+       - adv-medium-target: adv-short2medium-019391.wav
+       - adv-short-target: adv-short2short-019391.wav
+
+[ 37] Original Sample: sample-019644.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-019644.wav
+       - adv-medium-target: adv-short2medium-019644.wav
+       - adv-short-target: adv-short2short-019644.wav
+
+[ 38] Original Sample: sample-020089.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-020089.wav
+       - adv-medium-target: adv-short2medium-020089.wav
+       - adv-short-target: adv-short2short-020089.wav
+
+[ 39] Original Sample: sample-021289.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-021289.wav
+       - adv-medium-target: adv-short2medium-021289.wav
+       - adv-short-target: adv-short2short-021289.wav
+
+[ 40] Original Sample: sample-021951.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-021951.wav
+       - adv-medium-target: adv-short2medium-021951.wav
+       - adv-short-target: adv-short2short-021951.wav
+
+[ 41] Original Sample: sample-022017.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-022017.wav
+       - adv-medium-target: adv-short2medium-022017.wav
+       - adv-short-target: adv-short2short-022017.wav
+
+[ 42] Original Sample: sample-023169.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-023169.wav
+       - adv-medium-target: adv-short2medium-023169.wav
+       - adv-short-target: adv-short2short-023169.wav
+
+[ 43] Original Sample: sample-023677.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-023677.wav
+       - adv-medium-target: adv-short2medium-023677.wav
+       - adv-short-target: adv-short2short-023677.wav
+
+[ 44] Original Sample: sample-023776.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-023776.wav
+       - adv-medium-target: adv-short2medium-023776.wav
+       - adv-short-target: adv-short2short-023776.wav
+
+[ 45] Original Sample: sample-024025.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-024025.wav
+       - adv-medium-target: adv-short2medium-024025.wav
+       - adv-short-target: adv-short2short-024025.wav
+
+[ 46] Original Sample: sample-024342.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-024342.wav
+       - adv-medium-target: adv-short2medium-024342.wav
+       - adv-short-target: adv-short2short-024342.wav
+
+[ 47] Original Sample: sample-025540.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-025540.wav
+       - adv-medium-target: adv-short2medium-025540.wav
+       - adv-short-target: adv-short2short-025540.wav
+
+[ 48] Original Sample: sample-025553.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-025553.wav
+       - adv-medium-target: adv-short2medium-025553.wav
+       - adv-short-target: adv-short2short-025553.wav
+
+[ 49] Original Sample: sample-025819.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-025819.wav
+       - adv-medium-target: adv-short2medium-025819.wav
+       - adv-short-target: adv-short2short-025819.wav
+
+[ 50] Original Sample: sample-027121.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-027121.wav
+       - adv-medium-target: adv-short2medium-027121.wav
+       - adv-short-target: adv-short2short-027121.wav
+
+[ 51] Original Sample: sample-028954.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-028954.wav
+       - adv-medium-target: adv-short2medium-028954.wav
+       - adv-short-target: adv-short2short-028954.wav
+
+[ 52] Original Sample: sample-030849.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-030849.wav
+       - adv-medium-target: adv-short2medium-030849.wav
+       - adv-short-target: adv-short2short-030849.wav
+
+[ 53] Original Sample: sample-032499.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-032499.wav
+       - adv-medium-target: adv-short2medium-032499.wav
+       - adv-short-target: adv-short2short-032499.wav
+
+[ 54] Original Sample: sample-033015.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-033015.wav
+       - adv-medium-target: adv-short2medium-033015.wav
+       - adv-short-target: adv-short2short-033015.wav
+
+[ 55] Original Sample: sample-033459.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-033459.wav
+       - adv-medium-target: adv-short2medium-033459.wav
+       - adv-short-target: adv-short2short-033459.wav
+
+[ 56] Original Sample: sample-033932.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-033932.wav
+       - adv-medium-target: adv-short2medium-033932.wav
+       - adv-short-target: adv-short2short-033932.wav
+
+[ 57] Original Sample: sample-034060.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-034060.wav
+       - adv-medium-target: adv-short2medium-034060.wav
+       - adv-short-target: adv-short2short-034060.wav
+
+[ 58] Original Sample: sample-034107.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-034107.wav
+       - adv-medium-target: adv-short2medium-034107.wav
+       - adv-short-target: adv-short2short-034107.wav
+
+[ 59] Original Sample: sample-035039.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-035039.wav
+       - adv-medium-target: adv-short2medium-035039.wav
+       - adv-short-target: adv-short2short-035039.wav
+
+[ 60] Original Sample: sample-035394.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-035394.wav
+       - adv-medium-target: adv-short2medium-035394.wav
+       - adv-short-target: adv-short2short-035394.wav
+
+[ 61] Original Sample: sample-036239.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-036239.wav
+       - adv-medium-target: adv-short2medium-036239.wav
+       - adv-short-target: adv-short2short-036239.wav
+
+[ 62] Original Sample: sample-036511.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-036511.wav
+       - adv-medium-target: adv-short2medium-036511.wav
+       - adv-short-target: adv-short2short-036511.wav
+
+[ 63] Original Sample: sample-036517.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-036517.wav
+       - adv-medium-target: adv-short2medium-036517.wav
+       - adv-short-target: adv-short2short-036517.wav
+
+[ 64] Original Sample: sample-037779.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-037779.wav
+       - adv-medium-target: adv-short2medium-037779.wav
+       - adv-short-target: adv-short2short-037779.wav
+
+[ 65] Original Sample: sample-037800.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-037800.wav
+       - adv-medium-target: adv-short2medium-037800.wav
+       - adv-short-target: adv-short2short-037800.wav
+
+[ 66] Original Sample: sample-037901.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-037901.wav
+       - adv-medium-target: adv-short2medium-037901.wav
+       - adv-short-target: adv-short2short-037901.wav
+
+[ 67] Original Sample: sample-038195.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-038195.wav
+       - adv-medium-target: adv-short2medium-038195.wav
+       - adv-short-target: adv-short2short-038195.wav
+
+[ 68] Original Sample: sample-038354.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-038354.wav
+       - adv-medium-target: adv-short2medium-038354.wav
+       - adv-short-target: adv-short2short-038354.wav
+
+[ 69] Original Sample: sample-038554.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-038554.wav
+       - adv-medium-target: adv-short2medium-038554.wav
+       - adv-short-target: adv-short2short-038554.wav
+
+[ 70] Original Sample: sample-038744.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-038744.wav
+       - adv-medium-target: adv-short2medium-038744.wav
+       - adv-short-target: adv-short2short-038744.wav
+
+[ 71] Original Sample: sample-040713.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-040713.wav
+       - adv-medium-target: adv-short2medium-040713.wav
+       - adv-short-target: adv-short2short-040713.wav
+
+[ 72] Original Sample: sample-042016.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-042016.wav
+       - adv-medium-target: adv-short2medium-042016.wav
+       - adv-short-target: adv-short2short-042016.wav
+
+[ 73] Original Sample: sample-042483.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-042483.wav
+       - adv-medium-target: adv-short2medium-042483.wav
+       - adv-short-target: adv-short2short-042483.wav
+
+[ 74] Original Sample: sample-045707.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-045707.wav
+       - adv-medium-target: adv-short2medium-045707.wav
+       - adv-short-target: adv-short2short-045707.wav
+
+[ 75] Original Sample: sample-045864.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-045864.wav
+       - adv-medium-target: adv-short2medium-045864.wav
+       - adv-short-target: adv-short2short-045864.wav
+
+[ 76] Original Sample: sample-046266.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-046266.wav
+       - adv-medium-target: adv-short2medium-046266.wav
+       - adv-short-target: adv-short2short-046266.wav
+
+[ 77] Original Sample: sample-047543.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-047543.wav
+       - adv-medium-target: adv-short2medium-047543.wav
+       - adv-short-target: adv-short2short-047543.wav
+
+[ 78] Original Sample: sample-047673.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-047673.wav
+       - adv-medium-target: adv-short2medium-047673.wav
+       - adv-short-target: adv-short2short-047673.wav
+
+[ 79] Original Sample: sample-194708.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-194708.wav
+       - adv-medium-target: adv-short2medium-194708.wav
+       - adv-short-target: adv-short2short-194708.wav
+
+[ 80] Original Sample: sample-194833.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-194833.wav
+       - adv-medium-target: adv-short2medium-194833.wav
+       - adv-short-target: adv-short2short-194833.wav
+
+[ 81] Original Sample: sample-194843.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-194843.wav
+       - adv-medium-target: adv-short2medium-194843.wav
+       - adv-short-target: adv-short2short-194843.wav
+
+[ 82] Original Sample: sample-194913.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-194913.wav
+       - adv-medium-target: adv-short2medium-194913.wav
+       - adv-short-target: adv-short2short-194913.wav
+
+[ 83] Original Sample: sample-194933.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-194933.wav
+       - adv-medium-target: adv-short2medium-194933.wav
+       - adv-short-target: adv-short2short-194933.wav
+
+[ 84] Original Sample: sample-194936.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-194936.wav
+       - adv-medium-target: adv-short2medium-194936.wav
+       - adv-short-target: adv-short2short-194936.wav
+
+[ 85] Original Sample: sample-195019.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195019.wav
+       - adv-medium-target: adv-short2medium-195019.wav
+       - adv-short-target: adv-short2short-195019.wav
+
+[ 86] Original Sample: sample-195063.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195063.wav
+       - adv-medium-target: adv-short2medium-195063.wav
+       - adv-short-target: adv-short2short-195063.wav
+
+[ 87] Original Sample: sample-195162.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195162.wav
+       - adv-medium-target: adv-short2medium-195162.wav
+       - adv-short-target: adv-short2short-195162.wav
+
+[ 88] Original Sample: sample-195164.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195164.wav
+       - adv-medium-target: adv-short2medium-195164.wav
+       - adv-short-target: adv-short2short-195164.wav
+
+[ 89] Original Sample: sample-195169.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195169.wav
+       - adv-medium-target: adv-short2medium-195169.wav
+       - adv-short-target: adv-short2short-195169.wav
+
+[ 90] Original Sample: sample-195184.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195184.wav
+       - adv-medium-target: adv-short2medium-195184.wav
+       - adv-short-target: adv-short2short-195184.wav
+
+[ 91] Original Sample: sample-195243.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195243.wav
+       - adv-medium-target: adv-short2medium-195243.wav
+       - adv-short-target: adv-short2short-195243.wav
+
+[ 92] Original Sample: sample-195314.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195314.wav
+       - adv-medium-target: adv-short2medium-195314.wav
+       - adv-short-target: adv-short2short-195314.wav
+
+[ 93] Original Sample: sample-195333.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195333.wav
+       - adv-medium-target: adv-short2medium-195333.wav
+       - adv-short-target: adv-short2short-195333.wav
+
+[ 94] Original Sample: sample-195505.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195505.wav
+       - adv-medium-target: adv-short2medium-195505.wav
+       - adv-short-target: adv-short2short-195505.wav
+
+[ 95] Original Sample: sample-195515.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195515.wav
+       - adv-medium-target: adv-short2medium-195515.wav
+       - adv-short-target: adv-short2short-195515.wav
+
+[ 96] Original Sample: sample-195533.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195533.wav
+       - adv-medium-target: adv-short2medium-195533.wav
+       - adv-short-target: adv-short2short-195533.wav
+
+[ 97] Original Sample: sample-195581.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195581.wav
+       - adv-medium-target: adv-short2medium-195581.wav
+       - adv-short-target: adv-short2short-195581.wav
+
+[ 98] Original Sample: sample-195591.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195591.wav
+       - adv-medium-target: adv-short2medium-195591.wav
+       - adv-short-target: adv-short2short-195591.wav
+
+[ 99] Original Sample: sample-195616.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195616.wav
+       - adv-medium-target: adv-short2medium-195616.wav
+       - adv-short-target: adv-short2short-195616.wav
+
+[100] Original Sample: sample-195690.wav
+     Adversarial Samples:
+       - adv-long-target: adv-short2long-195690.wav
+       - adv-medium-target: adv-short2medium-195690.wav
+       - adv-short-target: adv-short2short-195690.wav
+
+
+====================================================================================================
+SIGNAL TYPE: MEDIUM-SIGNALS
+====================================================================================================
+
+Total samples: 100
+
+
+[  1] Original Sample: sample-000028.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000028.wav
+       - adv-medium-target: adv-medium2medium-000028.wav
+       - adv-short-target: adv-medium2short-000028.wav
+
+[  2] Original Sample: sample-000074.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000074.wav
+       - adv-medium-target: adv-medium2medium-000074.wav
+       - adv-short-target: adv-medium2short-000074.wav
+
+[  3] Original Sample: sample-000101.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000101.wav
+       - adv-medium-target: adv-medium2medium-000101.wav
+       - adv-short-target: adv-medium2short-000101.wav
+
+[  4] Original Sample: sample-000166.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000166.wav
+       - adv-medium-target: adv-medium2medium-000166.wav
+       - adv-short-target: adv-medium2short-000166.wav
+
+[  5] Original Sample: sample-000351.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000351.wav
+       - adv-medium-target: adv-medium2medium-000351.wav
+       - adv-short-target: adv-medium2short-000351.wav
+
+[  6] Original Sample: sample-000352.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000352.wav
+       - adv-medium-target: adv-medium2medium-000352.wav
+       - adv-short-target: adv-medium2short-000352.wav
+
+[  7] Original Sample: sample-000376.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000376.wav
+       - adv-medium-target: adv-medium2medium-000376.wav
+       - adv-short-target: adv-medium2short-000376.wav
+
+[  8] Original Sample: sample-000393.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000393.wav
+       - adv-medium-target: adv-medium2medium-000393.wav
+       - adv-short-target: adv-medium2short-000393.wav
+
+[  9] Original Sample: sample-000451.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000451.wav
+       - adv-medium-target: adv-medium2medium-000451.wav
+       - adv-short-target: adv-medium2short-000451.wav
+
+[ 10] Original Sample: sample-000610.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000610.wav
+       - adv-medium-target: adv-medium2medium-000610.wav
+       - adv-short-target: adv-medium2short-000610.wav
+
+[ 11] Original Sample: sample-000621.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000621.wav
+       - adv-medium-target: adv-medium2medium-000621.wav
+       - adv-short-target: adv-medium2short-000621.wav
+
+[ 12] Original Sample: sample-000639.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000639.wav
+       - adv-medium-target: adv-medium2medium-000639.wav
+       - adv-short-target: adv-medium2short-000639.wav
+
+[ 13] Original Sample: sample-000654.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000654.wav
+       - adv-medium-target: adv-medium2medium-000654.wav
+       - adv-short-target: adv-medium2short-000654.wav
+
+[ 14] Original Sample: sample-000877.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000877.wav
+       - adv-medium-target: adv-medium2medium-000877.wav
+       - adv-short-target: adv-medium2short-000877.wav
+
+[ 15] Original Sample: sample-000957.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000957.wav
+       - adv-medium-target: adv-medium2medium-000957.wav
+       - adv-short-target: adv-medium2short-000957.wav
+
+[ 16] Original Sample: sample-000972.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-000972.wav
+       - adv-medium-target: adv-medium2medium-000972.wav
+       - adv-short-target: adv-medium2short-000972.wav
+
+[ 17] Original Sample: sample-001004.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001004.wav
+       - adv-medium-target: adv-medium2medium-001004.wav
+       - adv-short-target: adv-medium2short-001004.wav
+
+[ 18] Original Sample: sample-001009.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001009.wav
+       - adv-medium-target: adv-medium2medium-001009.wav
+       - adv-short-target: adv-medium2short-001009.wav
+
+[ 19] Original Sample: sample-001093.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001093.wav
+       - adv-medium-target: adv-medium2medium-001093.wav
+       - adv-short-target: adv-medium2short-001093.wav
+
+[ 20] Original Sample: sample-001097.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001097.wav
+       - adv-medium-target: adv-medium2medium-001097.wav
+       - adv-short-target: adv-medium2short-001097.wav
+
+[ 21] Original Sample: sample-001100.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001100.wav
+       - adv-medium-target: adv-medium2medium-001100.wav
+       - adv-short-target: adv-medium2short-001100.wav
+
+[ 22] Original Sample: sample-001214.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001214.wav
+       - adv-medium-target: adv-medium2medium-001214.wav
+       - adv-short-target: adv-medium2short-001214.wav
+
+[ 23] Original Sample: sample-001271.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001271.wav
+       - adv-medium-target: adv-medium2medium-001271.wav
+       - adv-short-target: adv-medium2short-001271.wav
+
+[ 24] Original Sample: sample-001312.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001312.wav
+       - adv-medium-target: adv-medium2medium-001312.wav
+       - adv-short-target: adv-medium2short-001312.wav
+
+[ 25] Original Sample: sample-001362.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001362.wav
+       - adv-medium-target: adv-medium2medium-001362.wav
+       - adv-short-target: adv-medium2short-001362.wav
+
+[ 26] Original Sample: sample-001364.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001364.wav
+       - adv-medium-target: adv-medium2medium-001364.wav
+       - adv-short-target: adv-medium2short-001364.wav
+
+[ 27] Original Sample: sample-001433.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001433.wav
+       - adv-medium-target: adv-medium2medium-001433.wav
+       - adv-short-target: adv-medium2short-001433.wav
+
+[ 28] Original Sample: sample-001439.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001439.wav
+       - adv-medium-target: adv-medium2medium-001439.wav
+       - adv-short-target: adv-medium2short-001439.wav
+
+[ 29] Original Sample: sample-001671.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001671.wav
+       - adv-medium-target: adv-medium2medium-001671.wav
+       - adv-short-target: adv-medium2short-001671.wav
+
+[ 30] Original Sample: sample-001707.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001707.wav
+       - adv-medium-target: adv-medium2medium-001707.wav
+       - adv-short-target: adv-medium2short-001707.wav
+
+[ 31] Original Sample: sample-001721.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001721.wav
+       - adv-medium-target: adv-medium2medium-001721.wav
+       - adv-short-target: adv-medium2short-001721.wav
+
+[ 32] Original Sample: sample-001724.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001724.wav
+       - adv-medium-target: adv-medium2medium-001724.wav
+       - adv-short-target: adv-medium2short-001724.wav
+
+[ 33] Original Sample: sample-001733.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001733.wav
+       - adv-medium-target: adv-medium2medium-001733.wav
+       - adv-short-target: adv-medium2short-001733.wav
+
+[ 34] Original Sample: sample-001740.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001740.wav
+       - adv-medium-target: adv-medium2medium-001740.wav
+       - adv-short-target: adv-medium2short-001740.wav
+
+[ 35] Original Sample: sample-001815.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001815.wav
+       - adv-medium-target: adv-medium2medium-001815.wav
+       - adv-short-target: adv-medium2short-001815.wav
+
+[ 36] Original Sample: sample-001893.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-001893.wav
+       - adv-medium-target: adv-medium2medium-001893.wav
+       - adv-short-target: adv-medium2short-001893.wav
+
+[ 37] Original Sample: sample-002069.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002069.wav
+       - adv-medium-target: adv-medium2medium-002069.wav
+       - adv-short-target: adv-medium2short-002069.wav
+
+[ 38] Original Sample: sample-002121.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002121.wav
+       - adv-medium-target: adv-medium2medium-002121.wav
+       - adv-short-target: adv-medium2short-002121.wav
+
+[ 39] Original Sample: sample-002180.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002180.wav
+       - adv-medium-target: adv-medium2medium-002180.wav
+       - adv-short-target: adv-medium2short-002180.wav
+
+[ 40] Original Sample: sample-002300.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002300.wav
+       - adv-medium-target: adv-medium2medium-002300.wav
+       - adv-short-target: adv-medium2short-002300.wav
+
+[ 41] Original Sample: sample-002339.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002339.wav
+       - adv-medium-target: adv-medium2medium-002339.wav
+       - adv-short-target: adv-medium2short-002339.wav
+
+[ 42] Original Sample: sample-002380.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002380.wav
+       - adv-medium-target: adv-medium2medium-002380.wav
+       - adv-short-target: adv-medium2short-002380.wav
+
+[ 43] Original Sample: sample-002395.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002395.wav
+       - adv-medium-target: adv-medium2medium-002395.wav
+       - adv-short-target: adv-medium2short-002395.wav
+
+[ 44] Original Sample: sample-002620.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002620.wav
+       - adv-medium-target: adv-medium2medium-002620.wav
+       - adv-short-target: adv-medium2short-002620.wav
+
+[ 45] Original Sample: sample-002640.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002640.wav
+       - adv-medium-target: adv-medium2medium-002640.wav
+       - adv-short-target: adv-medium2short-002640.wav
+
+[ 46] Original Sample: sample-002724.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002724.wav
+       - adv-medium-target: adv-medium2medium-002724.wav
+       - adv-short-target: adv-medium2short-002724.wav
+
+[ 47] Original Sample: sample-002738.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002738.wav
+       - adv-medium-target: adv-medium2medium-002738.wav
+       - adv-short-target: adv-medium2short-002738.wav
+
+[ 48] Original Sample: sample-002894.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002894.wav
+       - adv-medium-target: adv-medium2medium-002894.wav
+       - adv-short-target: adv-medium2short-002894.wav
+
+[ 49] Original Sample: sample-002910.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002910.wav
+       - adv-medium-target: adv-medium2medium-002910.wav
+       - adv-short-target: adv-medium2short-002910.wav
+
+[ 50] Original Sample: sample-002926.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002926.wav
+       - adv-medium-target: adv-medium2medium-002926.wav
+       - adv-short-target: adv-medium2short-002926.wav
+
+[ 51] Original Sample: sample-002941.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002941.wav
+       - adv-medium-target: adv-medium2medium-002941.wav
+       - adv-short-target: adv-medium2short-002941.wav
+
+[ 52] Original Sample: sample-002950.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002950.wav
+       - adv-medium-target: adv-medium2medium-002950.wav
+       - adv-short-target: adv-medium2short-002950.wav
+
+[ 53] Original Sample: sample-002984.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-002984.wav
+       - adv-medium-target: adv-medium2medium-002984.wav
+       - adv-short-target: adv-medium2short-002984.wav
+
+[ 54] Original Sample: sample-003040.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003040.wav
+       - adv-medium-target: adv-medium2medium-003040.wav
+       - adv-short-target: adv-medium2short-003040.wav
+
+[ 55] Original Sample: sample-003168.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003168.wav
+       - adv-medium-target: adv-medium2medium-003168.wav
+       - adv-short-target: adv-medium2short-003168.wav
+
+[ 56] Original Sample: sample-003221.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003221.wav
+       - adv-medium-target: adv-medium2medium-003221.wav
+       - adv-short-target: adv-medium2short-003221.wav
+
+[ 57] Original Sample: sample-003236.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003236.wav
+       - adv-medium-target: adv-medium2medium-003236.wav
+       - adv-short-target: adv-medium2short-003236.wav
+
+[ 58] Original Sample: sample-003276.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003276.wav
+       - adv-medium-target: adv-medium2medium-003276.wav
+       - adv-short-target: adv-medium2short-003276.wav
+
+[ 59] Original Sample: sample-003319.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003319.wav
+       - adv-medium-target: adv-medium2medium-003319.wav
+       - adv-short-target: adv-medium2short-003319.wav
+
+[ 60] Original Sample: sample-003344.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003344.wav
+       - adv-medium-target: adv-medium2medium-003344.wav
+       - adv-short-target: adv-medium2short-003344.wav
+
+[ 61] Original Sample: sample-003392.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003392.wav
+       - adv-medium-target: adv-medium2medium-003392.wav
+       - adv-short-target: adv-medium2short-003392.wav
+
+[ 62] Original Sample: sample-003429.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003429.wav
+       - adv-medium-target: adv-medium2medium-003429.wav
+       - adv-short-target: adv-medium2short-003429.wav
+
+[ 63] Original Sample: sample-003438.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003438.wav
+       - adv-medium-target: adv-medium2medium-003438.wav
+       - adv-short-target: adv-medium2short-003438.wav
+
+[ 64] Original Sample: sample-003549.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003549.wav
+       - adv-medium-target: adv-medium2medium-003549.wav
+       - adv-short-target: adv-medium2short-003549.wav
+
+[ 65] Original Sample: sample-003583.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003583.wav
+       - adv-medium-target: adv-medium2medium-003583.wav
+       - adv-short-target: adv-medium2short-003583.wav
+
+[ 66] Original Sample: sample-003652.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003652.wav
+       - adv-medium-target: adv-medium2medium-003652.wav
+       - adv-short-target: adv-medium2short-003652.wav
+
+[ 67] Original Sample: sample-003763.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003763.wav
+       - adv-medium-target: adv-medium2medium-003763.wav
+       - adv-short-target: adv-medium2short-003763.wav
+
+[ 68] Original Sample: sample-003933.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003933.wav
+       - adv-medium-target: adv-medium2medium-003933.wav
+       - adv-short-target: adv-medium2short-003933.wav
+
+[ 69] Original Sample: sample-003972.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003972.wav
+       - adv-medium-target: adv-medium2medium-003972.wav
+       - adv-short-target: adv-medium2short-003972.wav
+
+[ 70] Original Sample: sample-003985.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-003985.wav
+       - adv-medium-target: adv-medium2medium-003985.wav
+       - adv-short-target: adv-medium2short-003985.wav
+
+[ 71] Original Sample: sample-004034.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004034.wav
+       - adv-medium-target: adv-medium2medium-004034.wav
+       - adv-short-target: adv-medium2short-004034.wav
+
+[ 72] Original Sample: sample-004092.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004092.wav
+       - adv-medium-target: adv-medium2medium-004092.wav
+       - adv-short-target: adv-medium2short-004092.wav
+
+[ 73] Original Sample: sample-004115.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004115.wav
+       - adv-medium-target: adv-medium2medium-004115.wav
+       - adv-short-target: adv-medium2short-004115.wav
+
+[ 74] Original Sample: sample-004139.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004139.wav
+       - adv-medium-target: adv-medium2medium-004139.wav
+       - adv-short-target: adv-medium2short-004139.wav
+
+[ 75] Original Sample: sample-004155.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004155.wav
+       - adv-medium-target: adv-medium2medium-004155.wav
+       - adv-short-target: adv-medium2short-004155.wav
+
+[ 76] Original Sample: sample-004187.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004187.wav
+       - adv-medium-target: adv-medium2medium-004187.wav
+       - adv-short-target: adv-medium2short-004187.wav
+
+[ 77] Original Sample: sample-004231.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004231.wav
+       - adv-medium-target: adv-medium2medium-004231.wav
+       - adv-short-target: adv-medium2short-004231.wav
+
+[ 78] Original Sample: sample-004259.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004259.wav
+       - adv-medium-target: adv-medium2medium-004259.wav
+       - adv-short-target: adv-medium2short-004259.wav
+
+[ 79] Original Sample: sample-004366.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004366.wav
+       - adv-medium-target: adv-medium2medium-004366.wav
+       - adv-short-target: adv-medium2short-004366.wav
+
+[ 80] Original Sample: sample-004375.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004375.wav
+       - adv-medium-target: adv-medium2medium-004375.wav
+       - adv-short-target: adv-medium2short-004375.wav
+
+[ 81] Original Sample: sample-004646.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004646.wav
+       - adv-medium-target: adv-medium2medium-004646.wav
+       - adv-short-target: adv-medium2short-004646.wav
+
+[ 82] Original Sample: sample-004747.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004747.wav
+       - adv-medium-target: adv-medium2medium-004747.wav
+       - adv-short-target: adv-medium2short-004747.wav
+
+[ 83] Original Sample: sample-004816.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004816.wav
+       - adv-medium-target: adv-medium2medium-004816.wav
+       - adv-short-target: adv-medium2short-004816.wav
+
+[ 84] Original Sample: sample-004852.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004852.wav
+       - adv-medium-target: adv-medium2medium-004852.wav
+       - adv-short-target: adv-medium2short-004852.wav
+
+[ 85] Original Sample: sample-004905.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004905.wav
+       - adv-medium-target: adv-medium2medium-004905.wav
+       - adv-short-target: adv-medium2short-004905.wav
+
+[ 86] Original Sample: sample-004938.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004938.wav
+       - adv-medium-target: adv-medium2medium-004938.wav
+       - adv-short-target: adv-medium2short-004938.wav
+
+[ 87] Original Sample: sample-004992.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-004992.wav
+       - adv-medium-target: adv-medium2medium-004992.wav
+       - adv-short-target: adv-medium2short-004992.wav
+
+[ 88] Original Sample: sample-005007.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005007.wav
+       - adv-medium-target: adv-medium2medium-005007.wav
+       - adv-short-target: adv-medium2short-005007.wav
+
+[ 89] Original Sample: sample-005080.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005080.wav
+       - adv-medium-target: adv-medium2medium-005080.wav
+       - adv-short-target: adv-medium2short-005080.wav
+
+[ 90] Original Sample: sample-005124.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005124.wav
+       - adv-medium-target: adv-medium2medium-005124.wav
+       - adv-short-target: adv-medium2short-005124.wav
+
+[ 91] Original Sample: sample-005181.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005181.wav
+       - adv-medium-target: adv-medium2medium-005181.wav
+       - adv-short-target: adv-medium2short-005181.wav
+
+[ 92] Original Sample: sample-005192.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005192.wav
+       - adv-medium-target: adv-medium2medium-005192.wav
+       - adv-short-target: adv-medium2short-005192.wav
+
+[ 93] Original Sample: sample-005206.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005206.wav
+       - adv-medium-target: adv-medium2medium-005206.wav
+       - adv-short-target: adv-medium2short-005206.wav
+
+[ 94] Original Sample: sample-005306.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005306.wav
+       - adv-medium-target: adv-medium2medium-005306.wav
+       - adv-short-target: adv-medium2short-005306.wav
+
+[ 95] Original Sample: sample-005409.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005409.wav
+       - adv-medium-target: adv-medium2medium-005409.wav
+       - adv-short-target: adv-medium2short-005409.wav
+
+[ 96] Original Sample: sample-005414.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005414.wav
+       - adv-medium-target: adv-medium2medium-005414.wav
+       - adv-short-target: adv-medium2short-005414.wav
+
+[ 97] Original Sample: sample-005502.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005502.wav
+       - adv-medium-target: adv-medium2medium-005502.wav
+       - adv-short-target: adv-medium2short-005502.wav
+
+[ 98] Original Sample: sample-005516.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005516.wav
+       - adv-medium-target: adv-medium2medium-005516.wav
+       - adv-short-target: adv-medium2short-005516.wav
+
+[ 99] Original Sample: sample-005551.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005551.wav
+       - adv-medium-target: adv-medium2medium-005551.wav
+       - adv-short-target: adv-medium2short-005551.wav
+
+[100] Original Sample: sample-005590.wav
+     Adversarial Samples:
+       - adv-long-target: adv-medium2long-005590.wav
+       - adv-medium-target: adv-medium2medium-005590.wav
+       - adv-short-target: adv-medium2short-005590.wav
+
+
+====================================================================================================
+SIGNAL TYPE: LONG-SIGNALS
+====================================================================================================
+
+Total samples: 100
+
+
+[  1] Original Sample: sample-000003.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-000003.wav
+       - adv-medium-target: adv-long2medium-000003.wav
+       - adv-short-target: adv-long2short-000003.wav
+
+[  2] Original Sample: sample-000080.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-000080.wav
+       - adv-medium-target: adv-long2medium-000080.wav
+       - adv-short-target: adv-long2short-000080.wav
+
+[  3] Original Sample: sample-000103.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-000103.wav
+       - adv-medium-target: adv-long2medium-000103.wav
+       - adv-short-target: adv-long2short-000103.wav
+
+[  4] Original Sample: sample-000396.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-000396.wav
+       - adv-medium-target: adv-long2medium-000396.wav
+       - adv-short-target: adv-long2short-000396.wav
+
+[  5] Original Sample: sample-000700.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-000700.wav
+       - adv-medium-target: adv-long2medium-000700.wav
+       - adv-short-target: adv-long2short-000700.wav
+
+[  6] Original Sample: sample-000796.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-000796.wav
+       - adv-medium-target: adv-long2medium-000796.wav
+       - adv-short-target: adv-long2short-000796.wav
+
+[  7] Original Sample: sample-000946.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-000946.wav
+       - adv-medium-target: adv-long2medium-000946.wav
+       - adv-short-target: adv-long2short-000946.wav
+
+[  8] Original Sample: sample-000950.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-000950.wav
+       - adv-medium-target: adv-long2medium-000950.wav
+       - adv-short-target: adv-long2short-000950.wav
+
+[  9] Original Sample: sample-001018.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-001018.wav
+       - adv-medium-target: adv-long2medium-001018.wav
+       - adv-short-target: adv-long2short-001018.wav
+
+[ 10] Original Sample: sample-001456.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-001456.wav
+       - adv-medium-target: adv-long2medium-001456.wav
+       - adv-short-target: adv-long2short-001456.wav
+
+[ 11] Original Sample: sample-001570.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-001570.wav
+       - adv-medium-target: adv-long2medium-001570.wav
+       - adv-short-target: adv-long2short-001570.wav
+
+[ 12] Original Sample: sample-001687.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-001687.wav
+       - adv-medium-target: adv-long2medium-001687.wav
+       - adv-short-target: adv-long2short-001687.wav
+
+[ 13] Original Sample: sample-001870.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-001870.wav
+       - adv-medium-target: adv-long2medium-001870.wav
+       - adv-short-target: adv-long2short-001870.wav
+
+[ 14] Original Sample: sample-001950.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-001950.wav
+       - adv-medium-target: adv-long2medium-001950.wav
+       - adv-short-target: adv-long2short-001950.wav
+
+[ 15] Original Sample: sample-001973.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-001973.wav
+       - adv-medium-target: adv-long2medium-001973.wav
+       - adv-short-target: adv-long2short-001973.wav
+
+[ 16] Original Sample: sample-002024.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-002024.wav
+       - adv-medium-target: adv-long2medium-002024.wav
+       - adv-short-target: adv-long2short-002024.wav
+
+[ 17] Original Sample: sample-002029.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-002029.wav
+       - adv-medium-target: adv-long2medium-002029.wav
+       - adv-short-target: adv-long2short-002029.wav
+
+[ 18] Original Sample: sample-002051.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-002051.wav
+       - adv-medium-target: adv-long2medium-002051.wav
+       - adv-short-target: adv-long2short-002051.wav
+
+[ 19] Original Sample: sample-002354.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-002354.wav
+       - adv-medium-target: adv-long2medium-002354.wav
+       - adv-short-target: adv-long2short-002354.wav
+
+[ 20] Original Sample: sample-002464.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-002464.wav
+       - adv-medium-target: adv-long2medium-002464.wav
+       - adv-short-target: adv-long2short-002464.wav
+
+[ 21] Original Sample: sample-002468.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-002468.wav
+       - adv-medium-target: adv-long2medium-002468.wav
+       - adv-short-target: adv-long2short-002468.wav
+
+[ 22] Original Sample: sample-002562.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-002562.wav
+       - adv-medium-target: adv-long2medium-002562.wav
+       - adv-short-target: adv-long2short-002562.wav
+
+[ 23] Original Sample: sample-002622.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-002622.wav
+       - adv-medium-target: adv-long2medium-002622.wav
+       - adv-short-target: adv-long2short-002622.wav
+
+[ 24] Original Sample: sample-002646.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-002646.wav
+       - adv-medium-target: adv-long2medium-002646.wav
+       - adv-short-target: adv-long2short-002646.wav
+
+[ 25] Original Sample: sample-002699.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-002699.wav
+       - adv-medium-target: adv-long2medium-002699.wav
+       - adv-short-target: adv-long2short-002699.wav
+
+[ 26] Original Sample: sample-003238.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-003238.wav
+       - adv-medium-target: adv-long2medium-003238.wav
+       - adv-short-target: adv-long2short-003238.wav
+
+[ 27] Original Sample: sample-003551.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-003551.wav
+       - adv-medium-target: adv-long2medium-003551.wav
+       - adv-short-target: adv-long2short-003551.wav
+
+[ 28] Original Sample: sample-003783.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-003783.wav
+       - adv-medium-target: adv-long2medium-003783.wav
+       - adv-short-target: adv-long2short-003783.wav
+
+[ 29] Original Sample: sample-003816.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-003816.wav
+       - adv-medium-target: adv-long2medium-003816.wav
+       - adv-short-target: adv-long2short-003816.wav
+
+[ 30] Original Sample: sample-004021.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-004021.wav
+       - adv-medium-target: adv-long2medium-004021.wav
+       - adv-short-target: adv-long2short-004021.wav
+
+[ 31] Original Sample: sample-004283.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-004283.wav
+       - adv-medium-target: adv-long2medium-004283.wav
+       - adv-short-target: adv-long2short-004283.wav
+
+[ 32] Original Sample: sample-004389.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-004389.wav
+       - adv-medium-target: adv-long2medium-004389.wav
+       - adv-short-target: adv-long2short-004389.wav
+
+[ 33] Original Sample: sample-004431.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-004431.wav
+       - adv-medium-target: adv-long2medium-004431.wav
+       - adv-short-target: adv-long2short-004431.wav
+
+[ 34] Original Sample: sample-004505.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-004505.wav
+       - adv-medium-target: adv-long2medium-004505.wav
+       - adv-short-target: adv-long2short-004505.wav
+
+[ 35] Original Sample: sample-004527.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-004527.wav
+       - adv-medium-target: adv-long2medium-004527.wav
+       - adv-short-target: adv-long2short-004527.wav
+
+[ 36] Original Sample: sample-004562.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-004562.wav
+       - adv-medium-target: adv-long2medium-004562.wav
+       - adv-short-target: adv-long2short-004562.wav
+
+[ 37] Original Sample: sample-004664.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-004664.wav
+       - adv-medium-target: adv-long2medium-004664.wav
+       - adv-short-target: adv-long2short-004664.wav
+
+[ 38] Original Sample: sample-004794.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-004794.wav
+       - adv-medium-target: adv-long2medium-004794.wav
+       - adv-short-target: adv-long2short-004794.wav
+
+[ 39] Original Sample: sample-004857.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-004857.wav
+       - adv-medium-target: adv-long2medium-004857.wav
+       - adv-short-target: adv-long2short-004857.wav
+
+[ 40] Original Sample: sample-005012.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-005012.wav
+       - adv-medium-target: adv-long2medium-005012.wav
+       - adv-short-target: adv-long2short-005012.wav
+
+[ 41] Original Sample: sample-005130.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-005130.wav
+       - adv-medium-target: adv-long2medium-005130.wav
+       - adv-short-target: adv-long2short-005130.wav
+
+[ 42] Original Sample: sample-005849.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-005849.wav
+       - adv-medium-target: adv-long2medium-005849.wav
+       - adv-short-target: adv-long2short-005849.wav
+
+[ 43] Original Sample: sample-005899.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-005899.wav
+       - adv-medium-target: adv-long2medium-005899.wav
+       - adv-short-target: adv-long2short-005899.wav
+
+[ 44] Original Sample: sample-006312.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-006312.wav
+       - adv-medium-target: adv-long2medium-006312.wav
+       - adv-short-target: adv-long2short-006312.wav
+
+[ 45] Original Sample: sample-006479.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-006479.wav
+       - adv-medium-target: adv-long2medium-006479.wav
+       - adv-short-target: adv-long2short-006479.wav
+
+[ 46] Original Sample: sample-006648.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-006648.wav
+       - adv-medium-target: adv-long2medium-006648.wav
+       - adv-short-target: adv-long2short-006648.wav
+
+[ 47] Original Sample: sample-006710.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-006710.wav
+       - adv-medium-target: adv-long2medium-006710.wav
+       - adv-short-target: adv-long2short-006710.wav
+
+[ 48] Original Sample: sample-006752.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-006752.wav
+       - adv-medium-target: adv-long2medium-006752.wav
+       - adv-short-target: adv-long2short-006752.wav
+
+[ 49] Original Sample: sample-006765.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-006765.wav
+       - adv-medium-target: adv-long2medium-006765.wav
+       - adv-short-target: adv-long2short-006765.wav
+
+[ 50] Original Sample: sample-006879.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-006879.wav
+       - adv-medium-target: adv-long2medium-006879.wav
+       - adv-short-target: adv-long2short-006879.wav
+
+[ 51] Original Sample: sample-006945.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-006945.wav
+       - adv-medium-target: adv-long2medium-006945.wav
+       - adv-short-target: adv-long2short-006945.wav
+
+[ 52] Original Sample: sample-006999.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-006999.wav
+       - adv-medium-target: adv-long2medium-006999.wav
+       - adv-short-target: adv-long2short-006999.wav
+
+[ 53] Original Sample: sample-007090.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-007090.wav
+       - adv-medium-target: adv-long2medium-007090.wav
+       - adv-short-target: adv-long2short-007090.wav
+
+[ 54] Original Sample: sample-007104.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-007104.wav
+       - adv-medium-target: adv-long2medium-007104.wav
+       - adv-short-target: adv-long2short-007104.wav
+
+[ 55] Original Sample: sample-007163.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-007163.wav
+       - adv-medium-target: adv-long2medium-007163.wav
+       - adv-short-target: adv-long2short-007163.wav
+
+[ 56] Original Sample: sample-007464.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-007464.wav
+       - adv-medium-target: adv-long2medium-007464.wav
+       - adv-short-target: adv-long2short-007464.wav
+
+[ 57] Original Sample: sample-007686.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-007686.wav
+       - adv-medium-target: adv-long2medium-007686.wav
+       - adv-short-target: adv-long2short-007686.wav
+
+[ 58] Original Sample: sample-007715.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-007715.wav
+       - adv-medium-target: adv-long2medium-007715.wav
+       - adv-short-target: adv-long2short-007715.wav
+
+[ 59] Original Sample: sample-007792.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-007792.wav
+       - adv-medium-target: adv-long2medium-007792.wav
+       - adv-short-target: adv-long2short-007792.wav
+
+[ 60] Original Sample: sample-008071.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-008071.wav
+       - adv-medium-target: adv-long2medium-008071.wav
+       - adv-short-target: adv-long2short-008071.wav
+
+[ 61] Original Sample: sample-008363.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-008363.wav
+       - adv-medium-target: adv-long2medium-008363.wav
+       - adv-short-target: adv-long2short-008363.wav
+
+[ 62] Original Sample: sample-008836.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-008836.wav
+       - adv-medium-target: adv-long2medium-008836.wav
+       - adv-short-target: adv-long2short-008836.wav
+
+[ 63] Original Sample: sample-009500.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-009500.wav
+       - adv-medium-target: adv-long2medium-009500.wav
+       - adv-short-target: adv-long2short-009500.wav
+
+[ 64] Original Sample: sample-009510.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-009510.wav
+       - adv-medium-target: adv-long2medium-009510.wav
+       - adv-short-target: adv-long2short-009510.wav
+
+[ 65] Original Sample: sample-009674.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-009674.wav
+       - adv-medium-target: adv-long2medium-009674.wav
+       - adv-short-target: adv-long2short-009674.wav
+
+[ 66] Original Sample: sample-010157.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-010157.wav
+       - adv-medium-target: adv-long2medium-010157.wav
+       - adv-short-target: adv-long2short-010157.wav
+
+[ 67] Original Sample: sample-010440.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-010440.wav
+       - adv-medium-target: adv-long2medium-010440.wav
+       - adv-short-target: adv-long2short-010440.wav
+
+[ 68] Original Sample: sample-010549.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-010549.wav
+       - adv-medium-target: adv-long2medium-010549.wav
+       - adv-short-target: adv-long2short-010549.wav
+
+[ 69] Original Sample: sample-010673.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-010673.wav
+       - adv-medium-target: adv-long2medium-010673.wav
+       - adv-short-target: adv-long2short-010673.wav
+
+[ 70] Original Sample: sample-010740.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-010740.wav
+       - adv-medium-target: adv-long2medium-010740.wav
+       - adv-short-target: adv-long2short-010740.wav
+
+[ 71] Original Sample: sample-010861.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-010861.wav
+       - adv-medium-target: adv-long2medium-010861.wav
+       - adv-short-target: adv-long2short-010861.wav
+
+[ 72] Original Sample: sample-011260.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-011260.wav
+       - adv-medium-target: adv-long2medium-011260.wav
+       - adv-short-target: adv-long2short-011260.wav
+
+[ 73] Original Sample: sample-011521.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-011521.wav
+       - adv-medium-target: adv-long2medium-011521.wav
+       - adv-short-target: adv-long2short-011521.wav
+
+[ 74] Original Sample: sample-011900.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-011900.wav
+       - adv-medium-target: adv-long2medium-011900.wav
+       - adv-short-target: adv-long2short-011900.wav
+
+[ 75] Original Sample: sample-013372.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-013372.wav
+       - adv-medium-target: adv-long2medium-013372.wav
+       - adv-short-target: adv-long2short-013372.wav
+
+[ 76] Original Sample: sample-013988.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-013988.wav
+       - adv-medium-target: adv-long2medium-013988.wav
+       - adv-short-target: adv-long2short-013988.wav
+
+[ 77] Original Sample: sample-014301.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-014301.wav
+       - adv-medium-target: adv-long2medium-014301.wav
+       - adv-short-target: adv-long2short-014301.wav
+
+[ 78] Original Sample: sample-014591.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-014591.wav
+       - adv-medium-target: adv-long2medium-014591.wav
+       - adv-short-target: adv-long2short-014591.wav
+
+[ 79] Original Sample: sample-014604.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-014604.wav
+       - adv-medium-target: adv-long2medium-014604.wav
+       - adv-short-target: adv-long2short-014604.wav
+
+[ 80] Original Sample: sample-014619.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-014619.wav
+       - adv-medium-target: adv-long2medium-014619.wav
+       - adv-short-target: adv-long2short-014619.wav
+
+[ 81] Original Sample: sample-014856.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-014856.wav
+       - adv-medium-target: adv-long2medium-014856.wav
+       - adv-short-target: adv-long2short-014856.wav
+
+[ 82] Original Sample: sample-014985.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-014985.wav
+       - adv-medium-target: adv-long2medium-014985.wav
+       - adv-short-target: adv-long2short-014985.wav
+
+[ 83] Original Sample: sample-015110.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-015110.wav
+       - adv-medium-target: adv-long2medium-015110.wav
+       - adv-short-target: adv-long2short-015110.wav
+
+[ 84] Original Sample: sample-015253.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-015253.wav
+       - adv-medium-target: adv-long2medium-015253.wav
+       - adv-short-target: adv-long2short-015253.wav
+
+[ 85] Original Sample: sample-015566.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-015566.wav
+       - adv-medium-target: adv-long2medium-015566.wav
+       - adv-short-target: adv-long2short-015566.wav
+
+[ 86] Original Sample: sample-015729.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-015729.wav
+       - adv-medium-target: adv-long2medium-015729.wav
+       - adv-short-target: adv-long2short-015729.wav
+
+[ 87] Original Sample: sample-015890.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-015890.wav
+       - adv-medium-target: adv-long2medium-015890.wav
+       - adv-short-target: adv-long2short-015890.wav
+
+[ 88] Original Sample: sample-015985.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-015985.wav
+       - adv-medium-target: adv-long2medium-015985.wav
+       - adv-short-target: adv-long2short-015985.wav
+
+[ 89] Original Sample: sample-016136.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-016136.wav
+       - adv-medium-target: adv-long2medium-016136.wav
+       - adv-short-target: adv-long2short-016136.wav
+
+[ 90] Original Sample: sample-016358.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-016358.wav
+       - adv-medium-target: adv-long2medium-016358.wav
+       - adv-short-target: adv-long2short-016358.wav
+
+[ 91] Original Sample: sample-016434.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-016434.wav
+       - adv-medium-target: adv-long2medium-016434.wav
+       - adv-short-target: adv-long2short-016434.wav
+
+[ 92] Original Sample: sample-016571.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-016571.wav
+       - adv-medium-target: adv-long2medium-016571.wav
+       - adv-short-target: adv-long2short-016571.wav
+
+[ 93] Original Sample: sample-016663.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-016663.wav
+       - adv-medium-target: adv-long2medium-016663.wav
+       - adv-short-target: adv-long2short-016663.wav
+
+[ 94] Original Sample: sample-016771.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-016771.wav
+       - adv-medium-target: adv-long2medium-016771.wav
+       - adv-short-target: adv-long2short-016771.wav
+
+[ 95] Original Sample: sample-017006.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-017006.wav
+       - adv-medium-target: adv-long2medium-017006.wav
+       - adv-short-target: adv-long2short-017006.wav
+
+[ 96] Original Sample: sample-017108.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-017108.wav
+       - adv-medium-target: adv-long2medium-017108.wav
+       - adv-short-target: adv-long2short-017108.wav
+
+[ 97] Original Sample: sample-017302.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-017302.wav
+       - adv-medium-target: adv-long2medium-017302.wav
+       - adv-short-target: adv-long2short-017302.wav
+
+[ 98] Original Sample: sample-017327.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-017327.wav
+       - adv-medium-target: adv-long2medium-017327.wav
+       - adv-short-target: adv-long2short-017327.wav
+
+[ 99] Original Sample: sample-017361.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-017361.wav
+       - adv-medium-target: adv-long2medium-017361.wav
+       - adv-short-target: adv-long2short-017361.wav
+
+[100] Original Sample: sample-017416.wav
+     Adversarial Samples:
+       - adv-long-target: adv-long2long-017416.wav
+       - adv-medium-target: adv-long2medium-017416.wav
+       - adv-short-target: adv-long2short-017416.wav
+
+
+====================================================================================================
+DATASET SUMMARY
+====================================================================================================
+
+Total signal types: 3 (short, medium, long)
+Samples per signal type: 100
+Total original samples: 300
+
+For each original sample, there are 3 adversarial versions:
+  1. Short-target adversarial version
+  2. Medium-target adversarial version
+  3. Long-target adversarial version
+
+Total adversarial samples: 900
+Samples with complete adversarial versions: 300/300 (100%)
+
+File naming convention:
+  Short signals: adv-short2[target]-[sample_id].wav
+  Medium signals: adv-medium2[target]-[sample_id].wav
+  Long signals: adv-long2[target]-[sample_id].wav
+  where [target] is: short, medium, or long
