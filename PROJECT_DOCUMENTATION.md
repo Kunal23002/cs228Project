@@ -161,6 +161,23 @@ Total adversarial samples: 900
 Samples with complete adversarial versions: 300/300 (100%)
 ```
 
+### Step 3: Audio Compression Pipeline
+
+**Created**: `compress_adversarial_audio.py`
+
+Automates transcoding of the sampled adversarial audios into both lossy and lossless compressed formats to support downstream robustness experiments.
+
+#### Key Features:
+- Reuses the 90 sampled adversarial files listed in `audio_analysis_results.json`
+- Resolves dataset paths within `/Users/kunal/Downloads/adversarial_dataset-A/Adversarial-Examples`
+- Invokes ffmpeg with `libmp3lame` (MP3) and `alac` codecs
+- Writes outputs to the project-level `compressed_audio/` directory, nested by format and original signal type
+- Skips recompression when target files already exist (idempotent)
+
+#### Output:
+- `compressed_audio/mp3/<signal_type>/adv-*.mp3`
+- `compressed_audio/alac/<signal_type>/adv-*.m4a`
+
 ---
 
 ## Analysis Methodology
@@ -401,6 +418,10 @@ Intelligibility suffers significantly more than perceptual quality, especially f
    - Creates metric comparisons
    - Generates publication-quality plots
 
+3. **`compress_adversarial_audio.py`** (new)
+   - Transcodes adversarial samples to MP3 (`libmp3lame`) and ALAC (`alac`)
+   - Writes compressed outputs under `compressed_audio/`
+
 ### Data Files
 
 1. **`adversarial_pairs.json`** (77 KB, 2,408 lines)
@@ -420,6 +441,11 @@ Intelligibility suffers significantly more than perceptual quality, especially f
    - 90 analyzed pairs
    - All three metrics per pair
    - Error tracking
+
+4. **`compressed_audio/`** (MP3 + ALAC)
+   - `mp3/<signal_type>/adv-*.mp3`
+   - `alac/<signal_type>/adv-*.m4a`
+   - 180 total compressed files (90 samples × 2 codecs)
 
 ### Visualization Files
 
@@ -446,6 +472,7 @@ Intelligibility suffers significantly more than perceptual quality, especially f
 - **Code**: ~600 lines of Python
 - **Data**: ~168 KB of structured data files
 - **Visualizations**: ~503 KB of publication-quality plots
+- **Audio**: MP3 + ALAC compressed outputs for 90 adversarial samples
 - **Documentation**: This comprehensive markdown file
 
 ---
@@ -468,6 +495,9 @@ json           # Data serialization
 matplotlib     # Plotting
 ```
 
+#### Additional Tools:
+- ffmpeg (with `libmp3lame` and `alac` codec support)
+
 #### Installation Commands:
 ```bash
 pip install numpy scipy librosa matplotlib
@@ -478,7 +508,7 @@ pip install numpy scipy librosa matplotlib
 - **Operating System**: macOS (darwin 24.6.0)
 - **Python Version**: 3.x (tested)
 - **Memory**: Sufficient for audio processing (4GB+ recommended)
-- **Disk Space**: ~1 MB for generated files
+- **Disk Space**: ~1 MB for analysis artifacts + additional space for compressed audio outputs (codec-dependent)
 
 ### Execution Commands
 
@@ -491,13 +521,17 @@ python3 analyze_audio.py
 
 # Generate visualizations
 python3 visualize_results.py
+
+# Compress adversarial samples to MP3 and ALAC
+python3 compress_adversarial_audio.py
 ```
 
 ### Processing Time
 
 - **Analysis**: ~2-3 minutes (90 pairs)
 - **Visualization**: ~5-10 seconds
-- **Total**: ~3-4 minutes for complete pipeline
+- **Compression**: ~2 minutes for 180 outputs
+- **Total**: ~5-6 minutes for complete pipeline
 
 ### Random Seed
 
@@ -513,8 +547,12 @@ All random sampling uses `random.seed(42)` for reproducibility.
 BiometricProject/
 ├── analyze_audio.py           # Main analysis script
 ├── visualize_results.py       # Visualization script
+├── compress_adversarial_audio.py # Compression pipeline
 ├── adversarial_pairs.json     # Input: file mappings
 ├── audio_analysis_results.json # Output: metric results
+├── compressed_audio/          # MP3 + ALAC outputs
+│   ├── mp3/
+│   └── alac/
 ├── *.png                      # Output: visualizations
 └── PROJECT_DOCUMENTATION.md   # This file
 ```
@@ -533,6 +571,10 @@ audio_analysis_results.json (metrics)
 visualize_results.py (plotting)
     ↓
 *.png files (visualizations)
+    ↓
+compress_adversarial_audio.py (transcoding)
+    ↓
+compressed_audio/ (MP3 + ALAC outputs)
 ```
 
 ### Function Call Hierarchy
@@ -560,6 +602,16 @@ main()
   ├── plot_metrics_by_target()
   ├── plot_metrics_by_original_type()
   └── create_summary_statistics()
+```
+
+#### compress_adversarial_audio.py:
+```
+main()
+  ├── load_results()
+  ├── determine_paths()
+  ├── compress_file()
+  │   └── run_ffmpeg()
+  └── Generate MP3 + ALAC outputs
 ```
 
 ---

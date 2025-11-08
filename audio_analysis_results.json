@@ -4,35 +4,35 @@
     "adversarial_file": "adv-short2short-194913.wav",
     "signal_type": "short2short",
     "snr": 19.125393629074097,
-    "pesq": 4.987779020762202,
-    "stoi": 0.9969647665012106,
+    "pesq": 1.6532851457595825,
+    "stoi": 0.9706837744771111,
     "error": null
   },
   {
     "original_file": "sample-194913.wav",
     "adversarial_file": "adv-short2medium-194913.wav",
     "signal_type": "short2medium",
-    "snr": 16.00338578224182,
-    "pesq": 4.975152370782217,
-    "stoi": 0.9940462985631464,
+    "snr": 16.003384590148926,
+    "pesq": 1.3914361000061035,
+    "stoi": 0.9509865826070735,
     "error": null
   },
   {
     "original_file": "sample-194913.wav",
     "adversarial_file": "adv-short2long-194913.wav",
     "signal_type": "short2long",
-    "snr": 6.373295783996582,
-    "pesq": 4.79064566910704,
-    "stoi": 0.9486409556080081,
+    "snr": 6.373295187950134,
+    "pesq": 1.073866844177246,
+    "stoi": 0.8208168723764431,
     "error": null
   },
   {
     "original_file": "sample-004968.wav",
     "adversarial_file": "adv-short2short-004968.wav",
     "signal_type": "short2short",
-    "snr": 32.092528343200684,
-    "pesq": 4.999394221324339,
-    "stoi": 0.9998510174854852,
+    "snr": 32.092530727386475,
+    "pesq": 3.0930354595184326,
+    "stoi": 0.9802342916664414,
     "error": null
   },
   {
@@ -40,8 +40,8 @@
     "adversarial_file": "adv-short2medium-004968.wav",
     "signal_type": "short2medium",
     "snr": 30.372698307037354,
-    "pesq": 4.99910414716873,
-    "stoi": 0.9997881970950012,
+    "pesq": 2.8400485515594482,
+    "stoi": 0.9729640865753718,
     "error": null
   },
   {
@@ -49,35 +49,35 @@
     "adversarial_file": "adv-short2long-004968.wav",
     "signal_type": "short2long",
     "snr": 10.015283823013306,
-    "pesq": 4.89914124076166,
-    "stoi": 0.9693940264140798,
+    "pesq": 1.1847760677337646,
+    "stoi": 0.7297508027390086,
     "error": null
   },
   {
     "original_file": "sample-001417.wav",
     "adversarial_file": "adv-short2short-001417.wav",
     "signal_type": "short2short",
-    "snr": 33.13594341278076,
-    "pesq": 4.99953347121263,
-    "stoi": 0.9998843669841933,
+    "snr": 33.135950565338135,
+    "pesq": 2.812575340270996,
+    "stoi": 0.993976167983352,
     "error": null
   },
   {
     "original_file": "sample-001417.wav",
     "adversarial_file": "adv-short2medium-001417.wav",
     "signal_type": "short2medium",
-    "snr": 25.76124906539917,
-    "pesq": 4.997432436485908,
-    "stoi": 0.9993700531493594,
+    "snr": 25.76125144958496,
+    "pesq": 2.0279219150543213,
+    "stoi": 0.9804266976370609,
     "error": null
   },
   {
     "original_file": "sample-001417.wav",
     "adversarial_file": "adv-short2long-001417.wav",
     "signal_type": "short2long",
-    "snr": 4.126393795013428,
-    "pesq": 4.649211388558388,
-    "stoi": 0.8989338025779001,
+    "snr": 4.12639319896698,
+    "pesq": 1.0353212356567383,
+    "stoi": 0.7896848416850802,
     "error": null
   },
   {
@@ -85,8 +85,8 @@
     "adversarial_file": "adv-short2short-195515.wav",
     "signal_type": "short2short",
     "snr": 32.93876886367798,
-    "pesq": 4.9994956880053545,
-    "stoi": 0.9998741890888881,
+    "pesq": 2.561354160308838,
+    "stoi": 0.9991436476946152,
     "error": null
   },
   {
@@ -94,8 +94,8 @@
     "adversarial_file": "adv-short2medium-195515.wav",
     "signal_type": "short2medium",
     "snr": 28.861498832702637,
-    "pesq": 4.998709942483735,
-    "stoi": 0.999679375452481,
+    "pesq": 2.2614803314208984,
+    "stoi": 0.9983219747836477,
     "error": null
   },
   {
@@ -103,8 +103,8 @@
     "adversarial_file": "adv-short2long-195515.wav",
     "signal_type": "short2long",
     "snr": 6.702730655670166,
-    "pesq": 4.817966134091601,
-    "stoi": 0.9518238076931141,
+    "pesq": 1.1525121927261353,
+    "stoi": 0.8552822432853845,
     "error": null
   },
   {
@@ -112,35 +112,35 @@
     "adversarial_file": "adv-short2short-019391.wav",
     "signal_type": "short2short",
     "snr": 30.547804832458496,
-    "pesq": 4.999129978157116,
-    "stoi": 0.9997792528596283,
+    "pesq": 2.2986247539520264,
+    "stoi": 0.9950218958933089,
     "error": null
   },
   {
     "original_file": "sample-019391.wav",
     "adversarial_file": "adv-short2medium-019391.wav",
     "signal_type": "short2medium",
-    "snr": 21.28448724746704,
-    "pesq": 4.9925652365491535,
-    "stoi": 0.9981756588075614,
+    "snr": 21.28448486328125,
+    "pesq": 1.7568384408950806,
+    "stoi": 0.9760337651975242,
     "error": null
   },
   {
     "original_file": "sample-019391.wav",
     "adversarial_file": "adv-short2long-019391.wav",
     "signal_type": "short2long",
-    "snr": 4.429811537265778,
-    "pesq": 4.680406665239245,
-    "stoi": 0.9064422314752043,
+    "snr": 4.42981094121933,
+    "pesq": 1.1571522951126099,
+    "stoi": 0.8031176027386309,
     "error": null
   },
   {
     "original_file": "sample-014577.wav",
     "adversarial_file": "adv-short2short-014577.wav",
     "signal_type": "short2short",
-    "snr": 37.35991716384888,
-    "pesq": 4.999824614573198,
-    "stoi": 0.9999557228994539,
+    "snr": 37.35991954803467,
+    "pesq": 2.707308530807495,
+    "stoi": 0.9966124182167664,
     "error": null
   },
   {
@@ -148,8 +148,8 @@
     "adversarial_file": "adv-short2medium-014577.wav",
     "signal_type": "short2medium",
     "snr": 33.35726499557495,
-    "pesq": 4.999549054690611,
-    "stoi": 0.9998810999175896,
+    "pesq": 2.400369882583618,
+    "stoi": 0.9948572126766038,
     "error": null
   },
   {
@@ -157,17 +157,17 @@
     "adversarial_file": "adv-short2long-014577.wav",
     "signal_type": "short2long",
     "snr": 9.243959188461304,
-    "pesq": 4.878236105903227,
-    "stoi": 0.957187589916115,
+    "pesq": 1.0700721740722656,
+    "stoi": 0.8280439686631207,
     "error": null
   },
   {
     "original_file": "sample-011531.wav",
     "adversarial_file": "adv-short2short-011531.wav",
     "signal_type": "short2short",
-    "snr": 24.48965072631836,
-    "pesq": 4.996554443209377,
-    "stoi": 0.9991539661732626,
+    "snr": 24.48965311050415,
+    "pesq": 2.1215624809265137,
+    "stoi": 0.9503309363447728,
     "error": null
   },
   {
@@ -175,17 +175,17 @@
     "adversarial_file": "adv-short2medium-011531.wav",
     "signal_type": "short2medium",
     "snr": 25.022053718566895,
-    "pesq": 4.996851742603579,
-    "stoi": 0.9992256763669713,
+    "pesq": 2.2742857933044434,
+    "stoi": 0.9622550552524625,
     "error": null
   },
   {
     "original_file": "sample-011531.wav",
     "adversarial_file": "adv-short2long-011531.wav",
     "signal_type": "short2long",
-    "snr": -4.926733076572418,
-    "pesq": 3.7113528074276463,
-    "stoi": 0.5639908496225083,
+    "snr": -4.926733374595642,
+    "pesq": 1.0275042057037354,
+    "stoi": 0.4508116003210208,
     "error": null
   },
   {
@@ -193,8 +193,8 @@
     "adversarial_file": "adv-short2short-006620.wav",
     "signal_type": "short2short",
     "snr": 26.428780555725098,
-    "pesq": 4.997739946543159,
-    "stoi": 0.9994482894576645,
+    "pesq": 2.232836961746216,
+    "stoi": 0.989305891538563,
     "error": null
   },
   {
@@ -202,17 +202,17 @@
     "adversarial_file": "adv-short2medium-006620.wav",
     "signal_type": "short2medium",
     "snr": 24.069182872772217,
-    "pesq": 4.996138340415799,
-    "stoi": 0.9990708618347838,
+    "pesq": 1.9598422050476074,
+    "stoi": 0.9828586504617369,
     "error": null
   },
   {
     "original_file": "sample-006620.wav",
     "adversarial_file": "adv-short2long-006620.wav",
     "signal_type": "short2long",
-    "snr": -9.129992127418518,
-    "pesq": 3.4172994447161202,
-    "stoi": 0.44348808950689383,
+    "snr": -9.129993319511414,
+    "pesq": 1.0505234003067017,
+    "stoi": 0.36057806600098746,
     "error": null
   },
   {
@@ -220,26 +220,26 @@
     "adversarial_file": "adv-short2short-004800.wav",
     "signal_type": "short2short",
     "snr": 27.734882831573486,
-    "pesq": 4.998356365720457,
-    "stoi": 0.9995949394525264,
+    "pesq": 2.48982834815979,
+    "stoi": 0.9845259634171355,
     "error": null
   },
   {
     "original_file": "sample-004800.wav",
     "adversarial_file": "adv-short2medium-004800.wav",
     "signal_type": "short2medium",
-    "snr": 30.01488447189331,
-    "pesq": 4.9990243942916495,
-    "stoi": 0.9997581416751015,
+    "snr": 30.0148868560791,
+    "pesq": 2.8753602504730225,
+    "stoi": 0.9910770218523809,
     "error": null
   },
   {
     "original_file": "sample-004800.wav",
     "adversarial_file": "adv-short2long-004800.wav",
     "signal_type": "short2long",
-    "snr": -2.9606589674949646,
-    "pesq": 3.966758180438464,
-    "stoi": 0.6559414061092016,
+    "snr": -2.9606595635414124,
+    "pesq": 1.0381247997283936,
+    "stoi": 0.5400029635067691,
     "error": null
   },
   {
@@ -247,8 +247,8 @@
     "adversarial_file": "adv-short2short-195162.wav",
     "signal_type": "short2short",
     "snr": 24.105513095855713,
-    "pesq": 4.996204863888919,
-    "stoi": 0.999050203743106,
+    "pesq": 2.3371126651763916,
+    "stoi": 0.9812148081020553,
     "error": null
   },
   {
@@ -256,26 +256,26 @@
     "adversarial_file": "adv-short2medium-195162.wav",
     "signal_type": "short2medium",
     "snr": 22.284460067749023,
-    "pesq": 4.994197872102017,
-    "stoi": 0.9985089597895438,
+    "pesq": 2.1141180992126465,
+    "stoi": 0.9645407690714695,
     "error": null
   },
   {
     "original_file": "sample-195162.wav",
     "adversarial_file": "adv-short2long-195162.wav",
     "signal_type": "short2long",
-    "snr": 5.7599323987960815,
-    "pesq": 4.735364111675235,
-    "stoi": 0.9091940093507673,
+    "snr": 5.759931802749634,
+    "pesq": 1.154746413230896,
+    "stoi": 0.6955010015193813,
     "error": null
   },
   {
     "original_file": "sample-005409.wav",
     "adversarial_file": "adv-medium2short-005409.wav",
     "signal_type": "medium2short",
-    "snr": 33.334007263183594,
-    "pesq": 4.999542344107432,
-    "stoi": 0.9998874099979769,
+    "snr": 33.3340048789978,
+    "pesq": 2.6220574378967285,
+    "stoi": 0.990994081540516,
     "error": null
   },
   {
@@ -283,8 +283,8 @@
     "adversarial_file": "adv-medium2medium-005409.wav",
     "signal_type": "medium2medium",
     "snr": 32.80131816864014,
-    "pesq": 4.999483460766023,
-    "stoi": 0.9998723632053247,
+    "pesq": 2.5077879428863525,
+    "stoi": 0.9862015524410273,
     "error": null
   },
   {
@@ -292,8 +292,8 @@
     "adversarial_file": "adv-medium2long-005409.wav",
     "signal_type": "medium2long",
     "snr": 20.831527709960938,
-    "pesq": 4.991763020014368,
-    "stoi": 0.9979973565219975,
+    "pesq": 1.425802230834961,
+    "stoi": 0.9167321599052882,
     "error": null
   },
   {
@@ -301,8 +301,8 @@
     "adversarial_file": "adv-medium2short-003985.wav",
     "signal_type": "medium2short",
     "snr": 28.34080696105957,
-    "pesq": 4.998548028357397,
-    "stoi": 0.9996360350433332,
+    "pesq": 2.4505364894866943,
+    "stoi": 0.9967304964078891,
     "error": null
   },
   {
@@ -310,17 +310,17 @@
     "adversarial_file": "adv-medium2medium-003985.wav",
     "signal_type": "medium2medium",
     "snr": 24.627673625946045,
-    "pesq": 4.996572691184118,
-    "stoi": 0.9991391020490044,
+    "pesq": 2.0054495334625244,
+    "stoi": 0.993365693446473,
     "error": null
   },
   {
     "original_file": "sample-003985.wav",
     "adversarial_file": "adv-medium2long-003985.wav",
     "signal_type": "medium2long",
-    "snr": 17.505183219909668,
-    "pesq": 4.982618405723068,
-    "stoi": 0.995631941063312,
+    "snr": 17.505182027816772,
+    "pesq": 1.4067127704620361,
+    "stoi": 0.9660167592749062,
     "error": null
   },
   {
@@ -328,17 +328,17 @@
     "adversarial_file": "adv-medium2short-000639.wav",
     "signal_type": "medium2short",
     "snr": 32.45990753173828,
-    "pesq": 4.999441287964204,
-    "stoi": 0.9998615882244094,
+    "pesq": 2.6277272701263428,
+    "stoi": 0.9963919418365739,
     "error": null
   },
   {
     "original_file": "sample-000639.wav",
     "adversarial_file": "adv-medium2medium-000639.wav",
     "signal_type": "medium2medium",
-    "snr": 28.907740116119385,
-    "pesq": 4.998737214559353,
-    "stoi": 0.9996863327627904,
+    "snr": 28.907742500305176,
+    "pesq": 2.2879252433776855,
+    "stoi": 0.9905157261393976,
     "error": null
   },
   {
@@ -346,8 +346,8 @@
     "adversarial_file": "adv-medium2long-000639.wav",
     "signal_type": "medium2long",
     "snr": 16.949336528778076,
-    "pesq": 4.980772290786866,
-    "stoi": 0.9953315244574455,
+    "pesq": 1.2927277088165283,
+    "stoi": 0.9448135141215569,
     "error": null
   },
   {
@@ -355,8 +355,8 @@
     "adversarial_file": "adv-medium2short-004187.wav",
     "signal_type": "medium2short",
     "snr": 23.91352653503418,
-    "pesq": 4.995988687498214,
-    "stoi": 0.9990084726971004,
+    "pesq": 2.8147923946380615,
+    "stoi": 0.9218882789066347,
     "error": null
   },
   {
@@ -364,8 +364,8 @@
     "adversarial_file": "adv-medium2medium-004187.wav",
     "signal_type": "medium2medium",
     "snr": 19.651014804840088,
-    "pesq": 4.98942028280645,
-    "stoi": 0.9974553784812357,
+    "pesq": 2.20348858833313,
+    "stoi": 0.8843229528576737,
     "error": null
   },
   {
@@ -373,8 +373,8 @@
     "adversarial_file": "adv-medium2long-004187.wav",
     "signal_type": "medium2long",
     "snr": 10.864949226379395,
-    "pesq": 4.922839857931033,
-    "stoi": 0.9818988387636164,
+    "pesq": 1.3087626695632935,
+    "stoi": 0.770259712132485,
     "error": null
   },
   {
@@ -382,8 +382,8 @@
     "adversarial_file": "adv-medium2short-003168.wav",
     "signal_type": "medium2short",
     "snr": 30.323638916015625,
-    "pesq": 4.99907772555579,
-    "stoi": 0.9997704196803454,
+    "pesq": 2.1572604179382324,
+    "stoi": 0.9796967908624509,
     "error": null
   },
   {
@@ -391,8 +391,8 @@
     "adversarial_file": "adv-medium2medium-003168.wav",
     "signal_type": "medium2medium",
     "snr": 29.050896167755127,
-    "pesq": 4.99876350989698,
-    "stoi": 0.9996915325676565,
+    "pesq": 2.0656275749206543,
+    "stoi": 0.9722800395008896,
     "error": null
   },
   {
@@ -400,26 +400,26 @@
     "adversarial_file": "adv-medium2long-003168.wav",
     "signal_type": "medium2long",
     "snr": 17.065168619155884,
-    "pesq": 4.9808969334748205,
-    "stoi": 0.9952012522284911,
+    "pesq": 1.2701400518417358,
+    "stoi": 0.89437556934948,
     "error": null
   },
   {
     "original_file": "sample-000351.wav",
     "adversarial_file": "adv-medium2short-000351.wav",
     "signal_type": "medium2short",
-    "snr": 35.1929497718811,
-    "pesq": 4.999704046507749,
-    "stoi": 0.9999255828811748,
+    "snr": 35.192954540252686,
+    "pesq": 2.689216136932373,
+    "stoi": 0.9966463307873044,
     "error": null
   },
   {
     "original_file": "sample-000351.wav",
     "adversarial_file": "adv-medium2medium-000351.wav",
     "signal_type": "medium2medium",
-    "snr": 27.65207529067993,
-    "pesq": 4.998327113866217,
-    "stoi": 0.9995740849652501,
+    "snr": 27.652077674865723,
+    "pesq": 2.0227458477020264,
+    "stoi": 0.9894138699386179,
     "error": null
   },
   {
@@ -427,8 +427,8 @@
     "adversarial_file": "adv-medium2long-000351.wav",
     "signal_type": "medium2long",
     "snr": 14.189108610153198,
-    "pesq": 4.961518721412441,
-    "stoi": 0.9899906038168818,
+    "pesq": 1.2001720666885376,
+    "stoi": 0.9257405216157442,
     "error": null
   },
   {
@@ -436,8 +436,8 @@
     "adversarial_file": "adv-medium2short-000166.wav",
     "signal_type": "medium2short",
     "snr": 26.166954040527344,
-    "pesq": 4.997623874648448,
-    "stoi": 0.9994186645454894,
+    "pesq": 2.1867895126342773,
+    "stoi": 0.9947771927773253,
     "error": null
   },
   {
@@ -445,44 +445,44 @@
     "adversarial_file": "adv-medium2medium-000166.wav",
     "signal_type": "medium2medium",
     "snr": 23.87092351913452,
-    "pesq": 4.995905833770891,
-    "stoi": 0.998975619578448,
+    "pesq": 1.925471544265747,
+    "stoi": 0.9924945454952586,
     "error": null
   },
   {
     "original_file": "sample-000166.wav",
     "adversarial_file": "adv-medium2long-000166.wav",
     "signal_type": "medium2long",
-    "snr": 6.560134291648865,
-    "pesq": 4.79167719045973,
-    "stoi": 0.9471479849620371,
+    "snr": 6.5601348876953125,
+    "pesq": 1.0816437005996704,
+    "stoi": 0.8750558173021594,
     "error": null
   },
   {
     "original_file": "sample-001439.wav",
     "adversarial_file": "adv-medium2short-001439.wav",
     "signal_type": "medium2short",
-    "snr": 31.838319301605225,
-    "pesq": 4.999376935590577,
-    "stoi": 0.9998427125514956,
+    "snr": 32.054569721221924,
+    "pesq": 3.0012872219085693,
+    "stoi": 0.994177948513489,
     "error": null
   },
   {
     "original_file": "sample-001439.wav",
     "adversarial_file": "adv-medium2medium-001439.wav",
     "signal_type": "medium2medium",
-    "snr": 27.49495267868042,
-    "pesq": 4.998218871584123,
-    "stoi": 0.9995505397930461,
+    "snr": 27.492694854736328,
+    "pesq": 2.5005221366882324,
+    "stoi": 0.9868088024254079,
     "error": null
   },
   {
     "original_file": "sample-001439.wav",
     "adversarial_file": "adv-medium2long-001439.wav",
     "signal_type": "medium2long",
-    "snr": 20.07929563522339,
-    "pesq": 4.99085732513334,
-    "stoi": 0.9977056710733768,
+    "snr": 20.38301706314087,
+    "pesq": 1.8192389011383057,
+    "stoi": 0.9434465233913365,
     "error": null
   },
   {
@@ -490,17 +490,17 @@
     "adversarial_file": "adv-medium2short-001707.wav",
     "signal_type": "medium2short",
     "snr": 30.535569190979004,
-    "pesq": 4.99911622556581,
-    "stoi": 0.9997816261568122,
+    "pesq": 2.5887393951416016,
+    "stoi": 0.9911649991537328,
     "error": null
   },
   {
     "original_file": "sample-001707.wav",
     "adversarial_file": "adv-medium2medium-001707.wav",
     "signal_type": "medium2medium",
-    "snr": 24.77747917175293,
-    "pesq": 4.99670228137209,
-    "stoi": 0.9992010654231089,
+    "snr": 24.77747678756714,
+    "pesq": 1.8966104984283447,
+    "stoi": 0.977730095531315,
     "error": null
   },
   {
@@ -508,8 +508,8 @@
     "adversarial_file": "adv-medium2long-001707.wav",
     "signal_type": "medium2long",
     "snr": 14.969395399093628,
-    "pesq": 4.967896225376273,
-    "stoi": 0.9920192263432349,
+    "pesq": 1.1958967447280884,
+    "stoi": 0.9228178427877864,
     "error": null
   },
   {
@@ -517,8 +517,8 @@
     "adversarial_file": "adv-medium2short-003583.wav",
     "signal_type": "medium2short",
     "snr": 27.805194854736328,
-    "pesq": 4.998347198822333,
-    "stoi": 0.9995850700333218,
+    "pesq": 2.2854976654052734,
+    "stoi": 0.9766370396507678,
     "error": null
   },
   {
@@ -526,8 +526,8 @@
     "adversarial_file": "adv-medium2medium-003583.wav",
     "signal_type": "medium2medium",
     "snr": 20.230491161346436,
-    "pesq": 4.99050130252274,
-    "stoi": 0.9977171014268651,
+    "pesq": 1.5827785730361938,
+    "stoi": 0.9509659192832837,
     "error": null
   },
   {
@@ -535,8 +535,8 @@
     "adversarial_file": "adv-medium2long-003583.wav",
     "signal_type": "medium2long",
     "snr": 14.179900884628296,
-    "pesq": 4.962463548219719,
-    "stoi": 0.990982992722222,
+    "pesq": 1.2126753330230713,
+    "stoi": 0.8956029535872974,
     "error": null
   },
   {
@@ -544,8 +544,8 @@
     "adversarial_file": "adv-long2short-014591.wav",
     "signal_type": "long2short",
     "snr": 40.498108863830566,
-    "pesq": 4.9999133862307,
-    "stoi": 0.9999779973467733,
+    "pesq": 3.026803731918335,
+    "stoi": 0.9981304340290557,
     "error": null
   },
   {
@@ -553,8 +553,8 @@
     "adversarial_file": "adv-long2medium-014591.wav",
     "signal_type": "long2medium",
     "snr": 37.20099449157715,
-    "pesq": 4.999815280755481,
-    "stoi": 0.9999530361899639,
+    "pesq": 2.795504570007324,
+    "stoi": 0.9960729105340932,
     "error": null
   },
   {
@@ -562,8 +562,8 @@
     "adversarial_file": "adv-long2long-014591.wav",
     "signal_type": "long2long",
     "snr": 28.103902339935303,
-    "pesq": 4.998494045048344,
-    "stoi": 0.9996187203669984,
+    "pesq": 2.0054590702056885,
+    "stoi": 0.9748408855283796,
     "error": null
   },
   {
@@ -571,8 +571,8 @@
     "adversarial_file": "adv-long2short-000396.wav",
     "signal_type": "long2short",
     "snr": 43.651347160339355,
-    "pesq": 4.999956861091155,
-    "stoi": 0.9999892170876397,
+    "pesq": 4.384251117706299,
+    "stoi": 0.9898251607501788,
     "error": null
   },
   {
@@ -580,8 +580,8 @@
     "adversarial_file": "adv-long2medium-000396.wav",
     "signal_type": "long2medium",
     "snr": 42.73726940155029,
-    "pesq": 4.999946756201777,
-    "stoi": 0.9999867529107271,
+    "pesq": 4.353513717651367,
+    "stoi": 0.9849480070179614,
     "error": null
   },
   {
@@ -589,17 +589,17 @@
     "adversarial_file": "adv-long2long-000396.wav",
     "signal_type": "long2long",
     "snr": 37.84076929092407,
-    "pesq": 4.999835601017077,
-    "stoi": 0.999959810932753,
+    "pesq": 3.622602701187134,
+    "stoi": 0.9698577247021621,
     "error": null
   },
   {
     "original_file": "sample-011260.wav",
     "adversarial_file": "adv-long2short-011260.wav",
     "signal_type": "long2short",
-    "snr": 31.49503231048584,
-    "pesq": 4.9992941136211,
-    "stoi": 0.9998255967988934,
+    "snr": 31.49503469467163,
+    "pesq": 2.9766054153442383,
+    "stoi": 0.8948357653532546,
     "error": null
   },
   {
@@ -607,8 +607,8 @@
     "adversarial_file": "adv-long2medium-011260.wav",
     "signal_type": "long2medium",
     "snr": 30.96268892288208,
-    "pesq": 4.9992022245104,
-    "stoi": 0.9998036995127083,
+    "pesq": 2.9053878784179688,
+    "stoi": 0.9009676245065513,
     "error": null
   },
   {
@@ -616,8 +616,8 @@
     "adversarial_file": "adv-long2long-011260.wav",
     "signal_type": "long2long",
     "snr": 24.142513275146484,
-    "pesq": 4.996145008750533,
-    "stoi": 0.9990669956919909,
+    "pesq": 2.167715072631836,
+    "stoi": 0.829942971167995,
     "error": null
   },
   {
@@ -625,17 +625,17 @@
     "adversarial_file": "adv-long2short-003238.wav",
     "signal_type": "long2short",
     "snr": 38.814048767089844,
-    "pesq": 4.999870148097485,
-    "stoi": 0.9999675951101267,
+    "pesq": 3.8566677570343018,
+    "stoi": 0.996094851843334,
     "error": null
   },
   {
     "original_file": "sample-003238.wav",
     "adversarial_file": "adv-long2medium-003238.wav",
     "signal_type": "long2medium",
-    "snr": 27.676856517791748,
-    "pesq": 4.998302944712584,
-    "stoi": 0.9995808503602819,
+    "snr": 27.676854133605957,
+    "pesq": 2.435779333114624,
+    "stoi": 0.9684215670440945,
     "error": null
   },
   {
@@ -643,17 +643,17 @@
     "adversarial_file": "adv-long2long-003238.wav",
     "signal_type": "long2long",
     "snr": 24.521214962005615,
-    "pesq": 4.996520441852044,
-    "stoi": 0.9991307053590748,
+    "pesq": 2.094508171081543,
+    "stoi": 0.9428186644255968,
     "error": null
   },
   {
     "original_file": "sample-016571.wav",
     "adversarial_file": "adv-long2short-016571.wav",
     "signal_type": "long2short",
-    "snr": 37.2787880897522,
-    "pesq": 4.999819924103488,
-    "stoi": 0.9999547954741278,
+    "snr": 37.278785705566406,
+    "pesq": 3.162522792816162,
+    "stoi": 0.9926618343635453,
     "error": null
   },
   {
@@ -661,8 +661,8 @@
     "adversarial_file": "adv-long2medium-016571.wav",
     "signal_type": "long2medium",
     "snr": 33.68722438812256,
-    "pesq": 4.999572228977286,
-    "stoi": 0.9998940879715141,
+    "pesq": 2.7670958042144775,
+    "stoi": 0.983040997276768,
     "error": null
   },
   {
@@ -670,35 +670,35 @@
     "adversarial_file": "adv-long2long-016571.wav",
     "signal_type": "long2long",
     "snr": 30.353212356567383,
-    "pesq": 4.99907792411425,
-    "stoi": 0.9997722624754524,
+    "pesq": 2.4047787189483643,
+    "stoi": 0.9698625760438143,
     "error": null
   },
   {
     "original_file": "sample-015253.wav",
     "adversarial_file": "adv-long2short-015253.wav",
     "signal_type": "long2short",
-    "snr": 41.34082317352295,
-    "pesq": 4.999928032371267,
-    "stoi": 0.9999822803788859,
+    "snr": 41.42866611480713,
+    "pesq": 3.996365785598755,
+    "stoi": 0.9854622523305496,
     "error": null
   },
   {
     "original_file": "sample-015253.wav",
     "adversarial_file": "adv-long2medium-015253.wav",
     "signal_type": "long2medium",
-    "snr": 37.660977840423584,
-    "pesq": 4.999831243599581,
-    "stoi": 0.999958336271181,
+    "snr": 37.72735118865967,
+    "pesq": 3.402041435241699,
+    "stoi": 0.9692646077256183,
     "error": null
   },
   {
     "original_file": "sample-015253.wav",
     "adversarial_file": "adv-long2long-015253.wav",
     "signal_type": "long2long",
-    "snr": 34.357972145080566,
-    "pesq": 4.999635169519063,
-    "stoi": 0.9999103636462683,
+    "snr": 34.37903165817261,
+    "pesq": 2.8500616550445557,
+    "stoi": 0.9465490805705019,
     "error": null
   },
   {
@@ -706,17 +706,17 @@
     "adversarial_file": "adv-long2short-016358.wav",
     "signal_type": "long2short",
     "snr": 26.31901979446411,
-    "pesq": 4.997686027578947,
-    "stoi": 0.9994289985497077,
+    "pesq": 4.267608165740967,
+    "stoi": 0.9823789256877784,
     "error": null
   },
   {
     "original_file": "sample-016358.wav",
     "adversarial_file": "adv-long2medium-016358.wav",
     "signal_type": "long2medium",
-    "snr": 26.596791744232178,
-    "pesq": 4.997824555739568,
-    "stoi": 0.9994641131487914,
+    "snr": 26.596789360046387,
+    "pesq": 4.298079490661621,
+    "stoi": 0.9843149659669828,
     "error": null
   },
   {
@@ -724,17 +724,17 @@
     "adversarial_file": "adv-long2long-016358.wav",
     "signal_type": "long2long",
     "snr": 19.567584991455078,
-    "pesq": 4.989138425374972,
-    "stoi": 0.9973469336828008,
+    "pesq": 2.935288667678833,
+    "stoi": 0.9451449744404108,
     "error": null
   },
   {
     "original_file": "sample-010740.wav",
     "adversarial_file": "adv-long2short-010740.wav",
     "signal_type": "long2short",
-    "snr": 43.14247131347656,
-    "pesq": 4.999952291869604,
-    "stoi": 0.9999881535275588,
+    "snr": 43.1424617767334,
+    "pesq": 3.9561078548431396,
+    "stoi": 0.9957240368077379,
     "error": null
   },
   {
@@ -742,8 +742,8 @@
     "adversarial_file": "adv-long2medium-010740.wav",
     "signal_type": "long2medium",
     "snr": 33.62339973449707,
-    "pesq": 4.999575890068886,
-    "stoi": 0.9998955618697852,
+    "pesq": 3.1007611751556396,
+    "stoi": 0.9657556185550061,
     "error": null
   },
   {
@@ -751,8 +751,8 @@
     "adversarial_file": "adv-long2long-010740.wav",
     "signal_type": "long2long",
     "snr": 28.882172107696533,
-    "pesq": 4.998748520274602,
-    "stoi": 0.9996988946646919,
+    "pesq": 2.4674432277679443,
+    "stoi": 0.9099644700011726,
     "error": null
   },
   {
@@ -760,17 +760,17 @@
     "adversarial_file": "adv-long2short-007104.wav",
     "signal_type": "long2short",
     "snr": 30.59321641921997,
-    "pesq": 4.99914170159067,
-    "stoi": 0.9997871297271956,
+    "pesq": 2.2390480041503906,
+    "stoi": 0.9784962415996646,
     "error": null
   },
   {
     "original_file": "sample-007104.wav",
     "adversarial_file": "adv-long2medium-007104.wav",
     "signal_type": "long2medium",
-    "snr": 30.24136781692505,
-    "pesq": 4.999066651563924,
-    "stoi": 0.9997693470495852,
+    "snr": 30.24137020111084,
+    "pesq": 2.198765993118286,
+    "stoi": 0.9748764888025315,
     "error": null
   },
   {
@@ -778,8 +778,8 @@
     "adversarial_file": "adv-long2long-007104.wav",
     "signal_type": "long2long",
     "snr": 23.258891105651855,
-    "pesq": 4.995277113570523,
-    "stoi": 0.9988585492407369,
+    "pesq": 1.5349864959716797,
+    "stoi": 0.9322295890586332,
     "error": null
   },
   {
@@ -787,17 +787,17 @@
     "adversarial_file": "adv-long2short-003816.wav",
     "signal_type": "long2short",
     "snr": 36.24602794647217,
-    "pesq": 4.999766872529717,
-    "stoi": 0.9999418768508485,
+    "pesq": 2.342280626296997,
+    "stoi": 0.9741386986685041,
     "error": null
   },
   {
     "original_file": "sample-003816.wav",
     "adversarial_file": "adv-long2medium-003816.wav",
     "signal_type": "long2medium",
-    "snr": 31.36540412902832,
-    "pesq": 4.999287024914436,
-    "stoi": 0.9998226848621018,
+    "snr": 31.365408897399902,
+    "pesq": 1.9062097072601318,
+    "stoi": 0.9565998050853286,
     "error": null
   },
   {
@@ -805,8 +805,8 @@
     "adversarial_file": "adv-long2long-003816.wav",
     "signal_type": "long2long",
     "snr": 26.006369590759277,
-    "pesq": 4.9975730348967975,
-    "stoi": 0.9994016200530838,
+    "pesq": 1.5000650882720947,
+    "stoi": 0.9330834340762849,
     "error": null
   }
 ]

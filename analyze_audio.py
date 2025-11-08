@@ -9,6 +9,16 @@ import json
 import numpy as np
 from pathlib import Path
 import random
+from typing import Tuple
+
+from scipy.signal import correlate
+from pesq import pesq as pesq_metric
+from pystoi.stoi import stoi as stoi_metric
+
+# Configuration
+TARGET_SR = 16000
+NORMALIZE_PEAK = 0.99
+MAX_ALIGNMENT_SHIFT_S = 0.5
 
 def calculate_snr(original, noisy):
     """Calculate Signal-to-Noise Ratio (SNR) in dB."""
@@ -22,75 +32,69 @@ def calculate_snr(original, noisy):
     snr = 10 * np.log10(signal_power / noise_power)
     return snr
 
-def calculate_pesq_simple(original, processed, sr=16000):
+def compute_pesq(reference: np.ndarray, degraded: np.ndarray, sr: int = TARGET_SR) -> float:
+    """Compute PESQ (ITU-T P.862). Uses wideband mode for 16 kHz.
+    Returns a float typically in [-0.5, 4.5].
     """
-    Simplified PESQ-like metric calculation.
-    PESQ (Perceptual Evaluation of Speech Quality) ranges from 1 (bad) to 5 (excellent).
-    This is a simplified approximation since the actual PESQ requires the pypesq library.
-    """
-    # This is a placeholder - actual PESQ requires specialized library
-    # For now, we'll use a correlation-based approximation
-    if len(original) != len(processed):
-        min_len = min(len(original), len(processed))
-        original = original[:min_len]
-        processed = processed[:min_len]
-    
-    # Correlation-based similarity
-    correlation = np.corrcoef(original, processed)[0, 1]
-    # Map correlation to 1-5 scale (PESQ range)
-    pesq_approx = 1 + (correlation + 1) * 2  # Maps from [-1, 1] to [1, 5]
-    
-    return pesq_approx
+    # PESQ requires same length
+    min_len = min(len(reference), len(degraded))
+    reference = reference[:min_len]
+    degraded = degraded[:min_len]
+    return float(pesq_metric(sr, reference, degraded, 'wb'))
 
-def calculate_stoi(original, processed, sr=16000):
-    """
-    Simplified STOI-like metric calculation.
-    STOI (Short-Time Objective Intelligibility) ranges from 0 to 1.
-    This is a simplified approximation.
-    """
-    # Pad or trim to same length
-    if len(original) != len(processed):
-        min_len = min(len(original), len(processed))
-        original = original[:min_len]
-        processed = processed[:min_len]
-    
-    # Calculate spectral correlation
-    # Get power spectral densities
-    fft_orig = np.fft.rfft(original)
-    fft_proc = np.fft.rfft(processed)
-    
-    # Calculate correlation between magnitude spectra
-    mag_orig = np.abs(fft_orig)
-    mag_proc = np.abs(fft_proc)
-    
-    # Normalize
-    mag_orig_norm = mag_orig / (np.linalg.norm(mag_orig) + 1e-10)
-    mag_proc_norm = mag_proc / (np.linalg.norm(mag_proc) + 1e-10)
-    
-    # Correlation
-    stoi_score = np.dot(mag_orig_norm, mag_proc_norm)
-    
-    return max(0, min(1, stoi_score))
+def compute_stoi(reference: np.ndarray, degraded: np.ndarray, sr: int = TARGET_SR) -> float:
+    """Compute STOI (0..1)."""
+    min_len = min(len(reference), len(degraded))
+    reference = reference[:min_len]
+    degraded = degraded[:min_len]
+    return float(stoi_metric(reference, degraded, sr, extended=False))
 
-def load_audio_with_librosa(filepath):
-    """Try to load audio using librosa, fallback to scipy if not available."""
-    try:
-        import librosa
-        audio, sr = librosa.load(filepath, sr=16000)
-        return audio, sr
-    except ImportError:
-        try:
-            from scipy.io import wavfile
-            sr, audio = wavfile.read(filepath)
-            # Convert to mono if stereo
-            if len(audio.shape) > 1:
-                audio = np.mean(audio, axis=1)
-            # Normalize to [-1, 1]
-            audio = audio.astype(np.float32) / np.max(np.abs(audio))
-            return audio, sr
-        except Exception as e:
-            print(f"Error loading {filepath}: {e}")
-            return None, None
+def _peak_normalize(audio: np.ndarray, peak_target: float = NORMALIZE_PEAK) -> np.ndarray:
+    peak = np.max(np.abs(audio))
+    if peak == 0:
+        return audio
+    scale = peak_target / peak
+    return (audio * scale).astype(np.float32)
+
+def load_audio(filepath: str, target_sr: int = TARGET_SR) -> Tuple[np.ndarray, int]:
+    """Load audio as mono at target_sr, float32, then peak-normalize."""
+    import librosa
+    audio, sr = librosa.load(filepath, sr=target_sr, mono=True)
+    audio = _peak_normalize(audio, NORMALIZE_PEAK)
+    return audio.astype(np.float32), sr
+
+def align_signals(reference: np.ndarray, estimate: np.ndarray, sr: int = TARGET_SR,
+                  max_shift_s: float = MAX_ALIGNMENT_SHIFT_S) -> Tuple[np.ndarray, np.ndarray]:
+    """Align estimate to reference using cross-correlation within ±max_shift_s.
+    Returns trimmed aligned copies of (reference, estimate).
+    """
+    max_shift = int(max_shift_s * sr)
+    # limit to same length for correlation speed
+    n = min(len(reference), len(estimate))
+    ref = reference[:n]
+    est = estimate[:n]
+    # compute correlation around zero lag window
+    corr_full = correlate(est, ref, mode='full')
+    lags = np.arange(-len(ref) + 1, len(est))
+    # restrict to lag window
+    mask = (lags >= -max_shift) & (lags <= max_shift)
+    corr = corr_full[mask]
+    lag_window = lags[mask]
+    best_lag = lag_window[np.argmax(corr)]
+
+    if best_lag > 0:
+        # est lags behind ref -> advance est
+        est_aligned = est[best_lag:]
+        ref_aligned = ref[:len(est_aligned)]
+    elif best_lag < 0:
+        # est ahead of ref -> delay est
+        ref_aligned = ref[-best_lag:]
+        est_aligned = est[:len(ref_aligned)]
+    else:
+        ref_aligned, est_aligned = ref, est
+
+    m = min(len(ref_aligned), len(est_aligned))
+    return ref_aligned[:m], est_aligned[:m]
 
 def analyze_sample_pair(original_path, adversarial_path, original_signal_type, target_type):
     """Analyze a single original-adversarial pair."""
@@ -105,9 +109,9 @@ def analyze_sample_pair(original_path, adversarial_path, original_signal_type, t
     }
     
     try:
-        # Load audio files
-        orig_audio, sr_orig = load_audio_with_librosa(original_path)
-        adv_audio, sr_adv = load_audio_with_librosa(adversarial_path)
+        # Load audio files (mono, 16 kHz, normalized)
+        orig_audio, sr_orig = load_audio(original_path)
+        adv_audio, sr_adv = load_audio(adversarial_path)
         
         if orig_audio is None or adv_audio is None:
             results['error'] = "Failed to load audio files"
@@ -118,15 +122,13 @@ def analyze_sample_pair(original_path, adversarial_path, original_signal_type, t
             results['error'] = f"Sample rate mismatch: {sr_orig} vs {sr_adv}"
             return results
         
-        # Ensure same length (pad or trim)
-        min_len = min(len(orig_audio), len(adv_audio))
-        orig_audio = orig_audio[:min_len]
-        adv_audio = adv_audio[:min_len]
+        # Align signals and trim
+        orig_audio, adv_audio = align_signals(orig_audio, adv_audio, sr_orig, MAX_ALIGNMENT_SHIFT_S)
         
         # Calculate metrics
         snr = calculate_snr(orig_audio, adv_audio)
-        pesq = calculate_pesq_simple(orig_audio, adv_audio, sr_orig)
-        stoi = calculate_stoi(orig_audio, adv_audio, sr_orig)
+        pesq = compute_pesq(orig_audio, adv_audio, sr_orig)
+        stoi = compute_stoi(orig_audio, adv_audio, sr_orig)
         
         results['snr'] = float(snr)
         results['pesq'] = float(pesq)
