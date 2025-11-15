@@ -422,6 +422,10 @@ Intelligibility suffers significantly more than perceptual quality, especially f
    - Transcodes adversarial samples to MP3 (`libmp3lame`) and ALAC (`alac`)
    - Writes compressed outputs under `compressed_audio/`
 
+4. **`agentic_feedback.py`** (new)
+   - Defines placeholder codec detector, multimodal LLM agent, perturbation engine, speaker verifier stub, and feedback orchestrator
+   - Designed for notebook-friendly experimentation and future integration with real services
+
 ### Data Files
 
 1. **`adversarial_pairs.json`** (77 KB, 2,408 lines)
@@ -474,6 +478,43 @@ Intelligibility suffers significantly more than perceptual quality, especially f
 - **Visualizations**: ~503 KB of publication-quality plots
 - **Audio**: MP3 + ALAC compressed outputs for 90 adversarial samples
 - **Documentation**: This comprehensive markdown file
+
+---
+
+## Agentic Feedback Framework
+
+### Purpose
+
+To explore compression-aware adversarial strategies, a Pythonic agentic loop now simulates how codec metadata, LLM-driven perturbations, and downstream verification interact. The framework is intentionally modular so that placeholders can be swapped with production components later.
+
+### Components (`agentic_feedback.py`)
+
+- `CodecDetector`: Heuristic detector that returns structured metadata (codec, bitrate, channels, sample rate, container, notes).
+- `PerturbationLLMAgent`: Generates descriptive instructions and pseudo-code tailored to the detected codec; stands in for the future multimodal LLM.
+- `AudioPerturbationEngine`: Applies perturbations (mock implementation that echoes metadata, ready to be replaced with real DSP code).
+- `SpeakerVerifierStub`: Simulates biometric verification confidence to drive the loop.
+- `FeedbackOrchestrator`: Orchestrates codec detection → perturbation → verification; maintains iteration history and success flag via `AgenticRunSummary`.
+
+### Notebook Usage
+
+A starter notebook (`agentic_feedback_demo.ipynb`) imports the orchestrator and runs:
+
+```python
+from agentic_feedback import FeedbackOrchestrator
+summary = FeedbackOrchestrator().run_feedback_loop(audio_path, max_iterations=3)
+summary.to_dict()
+```
+
+Swap the hard-coded sample path with any audio file under `/Users/kunal/Downloads/adversarial_dataset-A/`. The returned dictionary contains per-iteration codec metadata, perturbation instructions, verification outcomes, and agentic feedback hints.
+
+### Next Integration Steps
+
+1. Replace heuristics with a real codec detector (e.g., ffprobe or a classifier).
+2. Connect `PerturbationLLMAgent` to a multimodal LLM endpoint capable of ingesting audio features + metadata.
+3. Implement an actual perturbation writer that produces modified waveform files.
+4. Wire the loop output into the speaker recognition system, keeping the feedback hook for reinforcement.
+
+These upgrades can be performed incrementally without altering the notebook interface.
 
 ---
 
