@@ -1,0 +1,1352 @@
+[
+  {
+    "original_file": "sample-070236.wav",
+    "original_transcript": "We are part of that soul. So we really recognize that it is working for us.",
+    "pgd_attack": {
+      "attack_file": "sample-070236_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999998,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "We are part of that soul. So we really recognize that it is working for us."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-070236_advreverb_attack.wav",
+      "metrics": {
+        "snr": -5.004637718200684,
+        "pesq": 1.4725710153579712,
+        "stoi": 0.6155309016618338,
+        "wer": 0.125,
+        "cer": 0.049180327868852514,
+        "transcript": "We are part of that soul. So we've ready recognize that it is working for us."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-070322.wav",
+    "original_transcript": "The Christian Bible has seen many changes throughout history.",
+    "pgd_attack": {
+      "attack_file": "sample-070322_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999986,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The Christian Bible has seen many changes throughout history."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-070322_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.4778716564178467,
+        "pesq": 1.5471853017807007,
+        "stoi": 0.7396079462955361,
+        "wer": 1.0,
+        "cer": 0.5510204081632653,
+        "transcript": "and Kristen Blvis see American Shin just weil Konoru."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-070529.wav",
+    "original_transcript": "I thought was so dreadful to him that he forgot about the heat and went forward.",
+    "pgd_attack": {
+      "attack_file": "sample-070529_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999999,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "I thought was so dreadful to him that he forgot about the heat and went forward."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-070529_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.2534451484680176,
+        "pesq": 1.7221862077713013,
+        "stoi": 0.7440111899038069,
+        "wer": 0.33333333333333337,
+        "cer": 0.20895522388059706,
+        "transcript": "I thought was so dreadful to him that he followed about the hidden land of the world."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-070642.wav",
+    "original_transcript": "The boy was strong and wanted to retaliate, but he was enough foreign country.",
+    "pgd_attack": {
+      "attack_file": "sample-070642_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The boy was strong and wanted to retaliate, but he was enough foreign country."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-070642_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.2817485332489014,
+        "pesq": 1.3800861835479736,
+        "stoi": 0.7708664404539145,
+        "wer": 0.19999999999999996,
+        "cer": 0.15873015873015872,
+        "transcript": "The boy was strong and wanted to tell him but he was enough for you country."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-070724.wav",
+    "original_transcript": "It was no more exciting than an overturned carrot or a tree blown across the road.",
+    "pgd_attack": {
+      "attack_file": "sample-070724_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999999,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "It was no more exciting than an overturned carrot or a tree blown across the road."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-070724_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.0972278118133545,
+        "pesq": 1.9071910381317139,
+        "stoi": 0.7943833632293807,
+        "wer": 0.1875,
+        "cer": 0.08955223880597019,
+        "transcript": "It was no more exciting than Overture and Carey's or a tree blown across the road."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-070817.wav",
+    "original_transcript": "You must understand that love never keeps a man from presiding his destiny.",
+    "pgd_attack": {
+      "attack_file": "sample-070817_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "You must understand that love never keeps a man from presiding his destiny."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-070817_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.9527323246002197,
+        "pesq": 1.4449681043624878,
+        "stoi": 0.7865388611565655,
+        "wer": 0.15384615384615385,
+        "cer": 0.05600000000000005,
+        "transcript": "You must understand the Lord never keeps a man from presiding his destiny."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-071242.wav",
+    "original_transcript": "In those days, very few of the people had any idea about astronomy.",
+    "pgd_attack": {
+      "attack_file": "sample-071242_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999997,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "In those days, very few of the people had any idea about astronomy."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-071242_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.0379146337509155,
+        "pesq": 1.5063018798828125,
+        "stoi": 0.8100773912593919,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "In those days, very few of the people had any idea about astronomy."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-071257.wav",
+    "original_transcript": "I learned how to care for shape and I haven't forgotten how let's done.",
+    "pgd_attack": {
+      "attack_file": "sample-071257_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "I learned how to care for shape and I haven't forgotten how let's done."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-071257_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.1819443702697754,
+        "pesq": 1.5206972360610962,
+        "stoi": 0.780261941086965,
+        "wer": 0.2666666666666667,
+        "cer": 0.17460317460317465,
+        "transcript": "I learned and learned how to care for shape. And I haven't forgotten how last time."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-071392.wav",
+    "original_transcript": "I'm looking for a treasure, said the boy, and he immediately regretted having said it.",
+    "pgd_attack": {
+      "attack_file": "sample-071392_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999998,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "I'm looking for a treasure, said the boy, and he immediately regretted having said it."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-071392_advreverb_attack.wav",
+      "metrics": {
+        "snr": -4.006222248077393,
+        "pesq": 1.6565759181976318,
+        "stoi": 0.8133649133839072,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "I'm looking for a treasure, said the boy, and he immediately regretted having said it."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-071550.wav",
+    "original_transcript": "Then he dropped his paid, picked up his jacket and came out into the road.",
+    "pgd_attack": {
+      "attack_file": "sample-071550_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0000000000000002,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Then he dropped his paid, picked up his jacket and came out into the road."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-071550_advreverb_attack.wav",
+      "metrics": {
+        "snr": -4.933047294616699,
+        "pesq": 1.6621583700180054,
+        "stoi": 0.7995678049774064,
+        "wer": 0.06666666666666665,
+        "cer": 0.05785123966942152,
+        "transcript": "Then he dropped his sword, picked up his jacket and came out into the road."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-071787.wav",
+    "original_transcript": "I am in search of that universe language among other things.",
+    "pgd_attack": {
+      "attack_file": "sample-071787_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999998,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "I am in search of that universe language among other things."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-071787_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.3204071521759033,
+        "pesq": 1.5244343280792236,
+        "stoi": 0.7567567624819493,
+        "wer": 0.09090909090909094,
+        "cer": 0.02970297029702973,
+        "transcript": "I am in search of that universal language among other things."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-072210.wav",
+    "original_transcript": "This bear has been brewed in Germany more specifically in Bavaria.",
+    "pgd_attack": {
+      "attack_file": "sample-072210_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999993,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "This bear has been brewed in Germany more specifically in Bavaria."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-072210_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.607173442840576,
+        "pesq": 1.846022605895996,
+        "stoi": 0.662588075377322,
+        "wer": 0.09090909090909094,
+        "cer": 0.04424778761061943,
+        "transcript": "This bear has been brewed in Germany more specifically in Bulgaria."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-072438.wav",
+    "original_transcript": "He wasn't an alchemist.",
+    "pgd_attack": {
+      "attack_file": "sample-072438_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "He wasn't an alchemist."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-072438_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.051065444946289,
+        "pesq": 1.997026801109314,
+        "stoi": 0.8231790280973852,
+        "wer": 0.25,
+        "cer": 0.08108108108108103,
+        "transcript": "He was an alchemist."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-072873.wav",
+    "original_transcript": "He wandered for a while keeping the date palms of the oasis within sight.",
+    "pgd_attack": {
+      "attack_file": "sample-072873_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "He wandered for a while keeping the date palms of the oasis within sight."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-072873_advreverb_attack.wav",
+      "metrics": {
+        "snr": -4.474708080291748,
+        "pesq": 1.6534769535064697,
+        "stoi": 0.8117291586202955,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "He wandered for a while keeping the date palms of the oasis within sight."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-072906.wav",
+    "original_transcript": "Looking through the telescope I saw a circle of deep blue and the little round planet.",
+    "pgd_attack": {
+      "attack_file": "sample-072906_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999998,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Looking through the telescope I saw a circle of deep blue and the little round planet."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-072906_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.563324451446533,
+        "pesq": 1.5777040719985962,
+        "stoi": 0.7731558970587477,
+        "wer": 0.0625,
+        "cer": 0.02857142857142858,
+        "transcript": "Looking through the telescope I saw a circle of deep blue and a little round planet."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-072907.wav",
+    "original_transcript": "The two men hurried back and found the cylinder still lying in the same position.",
+    "pgd_attack": {
+      "attack_file": "sample-072907_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999999,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The two men hurried back and found the cylinder still lying in the same position."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-072907_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.8193422555923462,
+        "pesq": 1.5155575275421143,
+        "stoi": 0.7453537711451029,
+        "wer": 0.06666666666666665,
+        "cer": 0.030303030303030276,
+        "transcript": "The two men hurry back and found the cylinder still lying in the same position."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-072933.wav",
+    "original_transcript": "That night there was another jetting out of gas from the distant planet.",
+    "pgd_attack": {
+      "attack_file": "sample-072933_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999999,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "That night there was another jetting out of gas from the distant planet."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-072933_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.9419448375701904,
+        "pesq": 2.17002272605896,
+        "stoi": 0.8086926662488699,
+        "wer": 0.07692307692307687,
+        "cer": 0.008264462809917328,
+        "transcript": "That night, there was another jetting out of gas from the distant planet."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-073105.wav",
+    "original_transcript": "It's extremely suspicious that there's no information about brains that they didn't come from a brain.",
+    "pgd_attack": {
+      "attack_file": "sample-073105_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999997,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "It's extremely suspicious that there's no information about brains that they didn't come from a brain."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-073105_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.4777657985687256,
+        "pesq": 1.183426022529602,
+        "stoi": 0.7772754344996633,
+        "wer": 0.1333333333333333,
+        "cer": 0.05882352941176472,
+        "transcript": "It's extremely suspicious that there's no information about brains they didn't come from around."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-073138.wav",
+    "original_transcript": "You can't offer me something that is already mine, the Chief Set, arrogantly.",
+    "pgd_attack": {
+      "attack_file": "sample-073138_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999998,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "You can't offer me something that is already mine, the Chief Set, arrogantly."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-073138_advreverb_attack.wav",
+      "metrics": {
+        "snr": -4.5273003578186035,
+        "pesq": 1.3196964263916016,
+        "stoi": 0.8250771018319744,
+        "wer": 0.2857142857142857,
+        "cer": 0.0757575757575758,
+        "transcript": "You can't offer me something that is already mine, the Schief Set arrow can't be."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-073315.wav",
+    "original_transcript": "Coming home, it's your tourist past at home. I've been seeing you playing music.",
+    "pgd_attack": {
+      "attack_file": "sample-073315_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999996,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Coming home, it's your tourist past at home. I've been seeing you playing music."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-073315_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.2712371349334717,
+        "pesq": 1.261430025100708,
+        "stoi": 0.7144422120471786,
+        "wer": 1.0,
+        "cer": 0.8072289156626506,
+        "transcript": "It was Now Satdown."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-073703.wav",
+    "original_transcript": "Looking through the telescope, I saw a circle of deep blue and little round planet.",
+    "pgd_attack": {
+      "attack_file": "sample-073703_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Looking through the telescope, I saw a circle of deep blue and little round planet."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-073703_advreverb_attack.wav",
+      "metrics": {
+        "snr": -4.56947135925293,
+        "pesq": 1.5369930267333984,
+        "stoi": 0.8328458773208313,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Looking through the telescope, I saw a circle of deep blue and little round planet."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-073754.wav",
+    "original_transcript": "I had seen all that it would presently bring me.",
+    "pgd_attack": {
+      "attack_file": "sample-073754_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "I had seen all that it would presently bring me."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-073754_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.5945637226104736,
+        "pesq": 2.059821367263794,
+        "stoi": 0.7790209950697881,
+        "wer": 0.26315789473684215,
+        "cer": 0.1351351351351351,
+        "transcript": "I had seen all the food presently bring me."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-073912.wav",
+    "original_transcript": "We thought about asking him to give it back but he said that would be our friend.",
+    "pgd_attack": {
+      "attack_file": "sample-073912_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999999,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "We thought about asking him to give it back but he said that would be our friend."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-073912_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.284843683242798,
+        "pesq": 1.5158379077911377,
+        "stoi": 0.7866944816142108,
+        "wer": 0.5757575757575757,
+        "cer": 0.28125,
+        "transcript": "It's not about asking him to give it back, but it's a little too big friendly."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-074011.wav",
+    "original_transcript": "But I found it difficult to get to work because of the investigations.",
+    "pgd_attack": {
+      "attack_file": "sample-074011_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999998,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "But I found it difficult to get to work because of the investigations."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-074011_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.8451640605926514,
+        "pesq": 1.8320682048797607,
+        "stoi": 0.7622470223558766,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "But I found it difficult to get to work because of the investigations."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-074272.wav",
+    "original_transcript": "Many of the reviews in this app store are fact by bots to manipulate the ranking.",
+    "pgd_attack": {
+      "attack_file": "sample-074272_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0000000000000002,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Many of the reviews in this app store are fact by bots to manipulate the ranking."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-074272_advreverb_attack.wav",
+      "metrics": {
+        "snr": -4.449430465698242,
+        "pesq": 1.616337537765503,
+        "stoi": 0.8188853975846833,
+        "wer": 0.1875,
+        "cer": 0.13235294117647056,
+        "transcript": "Many of the reviews in this app store are fake light watch to manipulate the ranking."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-074490.wav",
+    "original_transcript": "The Camel driver was not a fighter and he had consulted with Sears.",
+    "pgd_attack": {
+      "attack_file": "sample-074490_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The Camel driver was not a fighter and he had consulted with Sears."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-074490_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.023967742919922,
+        "pesq": 1.5240646600723267,
+        "stoi": 0.8120704326523474,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The camel driver was not a fighter and he had consulted with Sears."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-074512.wav",
+    "original_transcript": "It's true, life is really as generous to know super-suitive destiny of what it's all about.",
+    "pgd_attack": {
+      "attack_file": "sample-074512_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "It's true, life is really as generous to know super-suitive destiny of what it's all about."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-074512_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.4145829677581787,
+        "pesq": 1.6360936164855957,
+        "stoi": 0.8141172710156804,
+        "wer": 0.4545454545454546,
+        "cer": 0.2816901408450704,
+        "transcript": "It's true. Life is really as generous as it was to pursue the destiny of a result."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-074679.wav",
+    "original_transcript": "because you'll know it's dreams and wishes and will know how to deal with them.",
+    "pgd_attack": {
+      "attack_file": "sample-074679_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999993,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "because you'll know it's dreams and wishes and will know how to deal with them."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-074679_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.2331531047821045,
+        "pesq": 2.125670909881592,
+        "stoi": 0.6519714395541747,
+        "wer": 0.19999999999999996,
+        "cer": 0.0992366412213741,
+        "transcript": "because you'll know it's greens and bushes and we'll know how to deal with them."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-074850.wav",
+    "original_transcript": "The all chemist stopped abruptly and bent to the ground.",
+    "pgd_attack": {
+      "attack_file": "sample-074850_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The all chemist stopped abruptly and bent to the ground."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-074850_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.4091923236846924,
+        "pesq": 1.6792805194854736,
+        "stoi": 0.8271734663109629,
+        "wer": 0.09999999999999998,
+        "cer": 0.04255319148936165,
+        "transcript": "The old chemist stopped abruptly and bent to the ground."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-075475.wav",
+    "original_transcript": "The Englishman prodded him and the boy asked her about the man who cured people's illnesses.",
+    "pgd_attack": {
+      "attack_file": "sample-075475_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999999,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The Englishman prodded him and the boy asked her about the man who cured people's illnesses."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-075475_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.5237261056900024,
+        "pesq": 1.6068789958953857,
+        "stoi": 0.8022780110834418,
+        "wer": 0.25,
+        "cer": 0.08387096774193548,
+        "transcript": "The Englishman prodiged him, and a boy asked her about the man who shared people's illnesses."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-076120.wav",
+    "original_transcript": "You have a media for simplifying everything, answer the Englishman irritated.",
+    "pgd_attack": {
+      "attack_file": "sample-076120_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "You have a media for simplifying everything, answer the Englishman irritated."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-076120_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.735654592514038,
+        "pesq": 1.6552882194519043,
+        "stoi": 0.7955139664397223,
+        "wer": 0.7272727272727273,
+        "cer": 0.2941176470588235,
+        "transcript": "You haven't made a personal point, everything answered the Emishment, Eritated."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-076164.wav",
+    "original_transcript": "Taking part in world traffic is potentially dangerous after the Nating Blood.",
+    "pgd_attack": {
+      "attack_file": "sample-076164_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Taking part in world traffic is potentially dangerous after the Nating Blood."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-076164_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.4962730407714844,
+        "pesq": 1.9874756336212158,
+        "stoi": 0.842926975625054,
+        "wer": 0.08333333333333337,
+        "cer": 0.015151515151515138,
+        "transcript": "Taking part in World traffic is potentially dangerous after the mating blood."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-076340.wav",
+    "original_transcript": "That's never happened to me, the boy said.",
+    "pgd_attack": {
+      "attack_file": "sample-076340_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999996,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "That's never happened to me, the boy said."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-076340_advreverb_attack.wav",
+      "metrics": {
+        "snr": -4.133628845214844,
+        "pesq": 1.9986038208007812,
+        "stoi": 0.7781458541514075,
+        "wer": 0.375,
+        "cer": 0.1428571428571429,
+        "transcript": "That's never happened to me before I said."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-076973.wav",
+    "original_transcript": "It must have thought of why I was sitting over there.",
+    "pgd_attack": {
+      "attack_file": "sample-076973_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999998,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "It must have thought of why I was sitting over there."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-076973_advreverb_attack.wav",
+      "metrics": {
+        "snr": -5.186455726623535,
+        "pesq": 1.7951723337173462,
+        "stoi": 0.7771930193810828,
+        "wer": 0.8095238095238095,
+        "cer": 0.5294117647058824,
+        "transcript": "business for them why don't you sitting up in there"
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-077336.wav",
+    "original_transcript": "We are nearing the end of a beginning and that feels great.",
+    "pgd_attack": {
+      "attack_file": "sample-077336_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999993,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "We are nearing the end of a beginning and that feels great."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-077336_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.7371912002563477,
+        "pesq": 1.6345573663711548,
+        "stoi": 0.7454618926443944,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "We are nearing the end of a beginning and that feels great."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-077798.wav",
+    "original_transcript": "Down below in the darkness were hundreds of people sleeping in peace.",
+    "pgd_attack": {
+      "attack_file": "sample-077798_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999996,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Down below in the darkness were hundreds of people sleeping in peace."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-077798_advreverb_attack.wav",
+      "metrics": {
+        "snr": -4.450136184692383,
+        "pesq": 1.5666570663452148,
+        "stoi": 0.810360742663515,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Down below in the darkness were hundreds of people sleeping in peace."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-077901.wav",
+    "original_transcript": "A huge hall had been made by the impact of the projectile.",
+    "pgd_attack": {
+      "attack_file": "sample-077901_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999993,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "A huge hall had been made by the impact of the projectile."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-077901_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.3945748805999756,
+        "pesq": 1.5898232460021973,
+        "stoi": 0.7282141821957919,
+        "wer": 0.52,
+        "cer": 0.27083333333333337,
+        "transcript": "A huge hall, it will be met by the effect of the projectiles."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-078036.wav",
+    "original_transcript": "The sun that fatimized eyes were filled with tears.",
+    "pgd_attack": {
+      "attack_file": "sample-078036_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The sun that fatimized eyes were filled with tears."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-078036_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.6445515155792236,
+        "pesq": 1.512439250946045,
+        "stoi": 0.7393629215421011,
+        "wer": 0.33333333333333337,
+        "cer": 0.2093023255813954,
+        "transcript": "He said that happiness eyes were filled with tears."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-078104.wav",
+    "original_transcript": "The only shadow was that of the view scattered pine trees.",
+    "pgd_attack": {
+      "attack_file": "sample-078104_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999997,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The only shadow was that of the view scattered pine trees."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-078104_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.766212224960327,
+        "pesq": 1.9030845165252686,
+        "stoi": 0.6260462704316916,
+        "wer": 0.18181818181818177,
+        "cer": 0.07526881720430112,
+        "transcript": "The only shadow was out of the view scatter pine trees."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-078138.wav",
+    "original_transcript": "He suggested that the boy look around, the palace and return in two hours.",
+    "pgd_attack": {
+      "attack_file": "sample-078138_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999999,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "He suggested that the boy look around, the palace and return in two hours."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-078138_advreverb_attack.wav",
+      "metrics": {
+        "snr": -4.2683258056640625,
+        "pesq": 1.6526081562042236,
+        "stoi": 0.8089904102219803,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "He suggested that the boy look around, the palace and return in two hours."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-078161.wav",
+    "original_transcript": "This was the strangest of all things that ever came to Earth from outer space.",
+    "pgd_attack": {
+      "attack_file": "sample-078161_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "This was the strangest of all things that ever came to Earth from outer space."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-078161_advreverb_attack.wav",
+      "metrics": {
+        "snr": -4.030781269073486,
+        "pesq": 1.3997917175292969,
+        "stoi": 0.7859183918180375,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "This was the strangest of all things that ever came to Earth from outer space."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-078225.wav",
+    "original_transcript": "The level ground was blackened as far as one could see and it was still giving off smoke.",
+    "pgd_attack": {
+      "attack_file": "sample-078225_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999998,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The level ground was blackened as far as one could see and it was still giving off smoke."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-078225_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.5840106010437012,
+        "pesq": 1.7394282817840576,
+        "stoi": 0.7958351109516061,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The level ground was blackened as far as one could see and it was still giving off smoke."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-078714.wav",
+    "original_transcript": "The guy thought he was a lunatic at large and made an unsuccessful attempt to stop him.",
+    "pgd_attack": {
+      "attack_file": "sample-078714_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "The guy thought he was a lunatic at large and made an unsuccessful attempt to stop him."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-078714_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.1115925312042236,
+        "pesq": 1.788611650466919,
+        "stoi": 0.785595117125226,
+        "wer": 0.17647058823529416,
+        "cer": 0.06293706293706292,
+        "transcript": "You guys thought he was a lunatic at large and made an unsuccessful attempt to stop him?"
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-078964.wav",
+    "original_transcript": "Suddenly, one of the hawks made a flashing dive through the sky attacking the other.",
+    "pgd_attack": {
+      "attack_file": "sample-078964_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Suddenly, one of the hawks made a flashing dive through the sky attacking the other."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-078964_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.6083073616027832,
+        "pesq": 1.8601250648498535,
+        "stoi": 0.8007640277223972,
+        "wer": 0.29032258064516125,
+        "cer": 0.12408759124087587,
+        "transcript": "Suddenly, one of the hawks made a flashing die of to this guy attacking the other."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-079026.wav",
+    "original_transcript": "As soon as he saw me among the crowd, he called to me to come down.",
+    "pgd_attack": {
+      "attack_file": "sample-079026_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "As soon as he saw me among the crowd, he called to me to come down."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-079026_advreverb_attack.wav",
+      "metrics": {
+        "snr": -2.5506374835968018,
+        "pesq": 1.6356596946716309,
+        "stoi": 0.8230397598087721,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "As soon as he saw me among the crowd, he called to me to come down."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-079077.wav",
+    "original_transcript": "First he had studied Esperanto, then the world's religions and now it was Elgamy.",
+    "pgd_attack": {
+      "attack_file": "sample-079077_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999998,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "First he had studied Esperanto, then the world's religions and now it was Elgamy."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-079077_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.9284327030181885,
+        "pesq": 1.810089111328125,
+        "stoi": 0.7709766571458145,
+        "wer": 0.33333333333333337,
+        "cer": 0.1127819548872181,
+        "transcript": "Firstly it studied Esperanto and the world's religions and now it was Elgamy."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-079348.wav",
+    "original_transcript": "Give me precise instructions how to decontaminate the trooper.",
+    "pgd_attack": {
+      "attack_file": "sample-079348_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Give me precise instructions how to decontaminate the trooper."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-079348_advreverb_attack.wav",
+      "metrics": {
+        "snr": -5.3075337409973145,
+        "pesq": 1.6724644899368286,
+        "stoi": 0.8029109656092681,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Give me precise instructions how to decontaminate the trooper."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-079438.wav",
+    "original_transcript": "I'm beginning to like this.",
+    "pgd_attack": {
+      "attack_file": "sample-079438_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 0.9999999999999999,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "I'm beginning to like this."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-079438_advreverb_attack.wav",
+      "metrics": {
+        "snr": -1.55072820186615,
+        "pesq": 2.7538530826568604,
+        "stoi": 0.78056095529201,
+        "wer": 0.4,
+        "cer": 0.15000000000000002,
+        "transcript": "I begin to like this."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-079951.wav",
+    "original_transcript": "Because I've always heard about them. The boy answered, saying nothing about his dream.",
+    "pgd_attack": {
+      "attack_file": "sample-079951_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Because I've always heard about them. The boy answered, saying nothing about his dream."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-079951_advreverb_attack.wav",
+      "metrics": {
+        "snr": -3.5370330810546875,
+        "pesq": 1.5196410417556763,
+        "stoi": 0.7921085287055304,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "Because I've always heard about them. The boy answered, saying nothing about his dream."
+      }
+    },
+    "imperceptible_attack": {}
+  },
+  {
+    "original_file": "sample-080184.wav",
+    "original_transcript": "To poise it, and then interrupt the old man, just as he himself had been interrupted.",
+    "pgd_attack": {
+      "attack_file": "sample-080184_pgd_attack.wav",
+      "metrics": {
+        "snr": Infinity,
+        "pesq": 4.643888473510742,
+        "stoi": 1.0,
+        "wer": 0.0,
+        "cer": 0.0,
+        "transcript": "To poise it, and then interrupt the old man, just as he himself had been interrupted."
+      }
+    },
+    "advreverb_attack": {
+      "attack_file": "sample-080184_advreverb_attack.wav",
+      "metrics": {
+        "snr": -6.065990447998047,
+        "pesq": 1.4133660793304443,
+        "stoi": 0.7935972270333816,
+        "wer": 0.37142857142857144,
+        "cer": 0.2191780821917808,
+        "transcript": "To poise with it, and then entrust it to your own man, just as he himself and the interrupted."
+      }
+    },
+    "imperceptible_attack": {}
+  }
+]

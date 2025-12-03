@@ -1,0 +1,205 @@
+{
+  "overall": {
+    "total_entries": 148,
+    "total_audio_files": 30,
+    "total_strategies": 125,
+    "total_iterations": "5",
+    "codec": "amr-wb"
+  },
+  "metrics": {
+    "wer": {
+      "mean": 0.1671257796257796,
+      "median": 0.07142857142857142,
+      "min": 0.0,
+      "max": 1.5,
+      "std": 0.27217082411451016
+    },
+    "wer_delta": {
+      "mean": 0.11081947331947332,
+      "median": 0.0625,
+      "min": -0.8333333333333334,
+      "max": 1.0,
+      "std": 0.25175079872330425
+    },
+    "pesq": {
+      "mean": 2.946733295112043,
+      "median": 3.078039526939392,
+      "min": 1.2079333066940308,
+      "max": 3.9962799549102783,
+      "std": 0.5603871240001954
+    },
+    "stoi": {
+      "mean": 0.8715477353582873,
+      "median": 0.8898931931962368,
+      "min": 0.6434927865111187,
+      "max": 0.9417160954507487,
+      "std": 0.056964081634188195
+    },
+    "snr": {
+      "mean": -2.5358706097297294,
+      "median": -2.676165,
+      "min": -3.839103,
+      "max": 0.73583305,
+      "std": 0.893005028048082
+    }
+  },
+  "constraint_compliance": {
+    "meets_pesq": 16,
+    "meets_stoi": 107,
+    "meets_snr": 0,
+    "meets_all": 0,
+    "pesq_rate": 10.81081081081081,
+    "stoi_rate": 72.2972972972973,
+    "snr_rate": 0.0,
+    "all_rate": 0.0
+  },
+  "attack_effectiveness": {
+    "successful_attacks": 85,
+    "success_rate": 57.432432432432435,
+    "mean_wer_successful": 0.2909954751131222,
+    "mean_wer_delta_successful": 0.19295625942684763
+  },
+  "by_category": {
+    "medium-signals": {
+      "count": 48,
+      "unique_files": 10,
+      "wer_mean": 0.15240575396825398,
+      "wer_delta_mean": 0.15240575396825398,
+      "pesq_mean": 3.042900641759237,
+      "stoi_mean": 0.8695120914612815,
+      "snr_mean": -2.4513525229166664,
+      "meets_all": 0,
+      "meets_all_rate": 0.0,
+      "attack_success": 36,
+      "attack_success_rate": 75.0
+    },
+    "long-signals": {
+      "count": 50,
+      "unique_files": 10,
+      "wer_mean": 0.08400183150183149,
+      "wer_delta_mean": 0.08400183150183149,
+      "pesq_mean": 2.8301305389404297,
+      "stoi_mean": 0.858521804968266,
+      "snr_mean": -2.6785239740000004,
+      "meets_all": 0,
+      "meets_all_rate": 0.0,
+      "attack_success": 32,
+      "attack_success_rate": 64.0
+    },
+    "short-signals": {
+      "count": 50,
+      "unique_files": 10,
+      "wer_mean": 0.2643809523809524,
+      "wer_delta_mean": 0.0977142857142857,
+      "pesq_mean": 2.9710153985023497,
+      "stoi_mean": 0.8865278838894344,
+      "snr_mean": -2.4743546088000006,
+      "meets_all": 0,
+      "meets_all_rate": 0.0,
+      "attack_success": 17,
+      "attack_success_rate": 34.0
+    }
+  },
+  "top_strategies": {
+    "amrwb_optimized_phase_perturbation": {
+      "wer_delta_mean": 1.0,
+      "wer_delta_max": 1.0,
+      "count": 1,
+      "pesq_mean": 2.7006,
+      "stoi_mean": 0.9238,
+      "snr_mean": -2.1264,
+      "meets_all": 0,
+      "attack_success": 1
+    },
+    "amrwb_optimized_psychoacoustic_spectral_shaping": {
+      "wer_delta_mean": 1.0,
+      "wer_delta_max": 1.0,
+      "count": 1,
+      "pesq_mean": 2.8447,
+      "stoi_mean": 0.9231,
+      "snr_mean": -2.0038,
+      "meets_all": 0,
+      "attack_success": 1
+    },
+    "AMRWB_Opus_Robust_Spectral_Phase_Exploit": {
+      "wer_delta_mean": 0.75,
+      "wer_delta_max": 0.75,
+      "count": 1,
+      "pesq_mean": 3.1711,
+      "stoi_mean": 0.8497,
+      "snr_mean": -2.2089,
+      "meets_all": 0,
+      "attack_success": 1
+    },
+    "amrwb_freq_phase_masked_attack": {
+      "wer_delta_mean": 0.6667,
+      "wer_delta_max": 0.6667,
+      "count": 1,
+      "pesq_mean": 1.7742,
+      "stoi_mean": 0.6435,
+      "snr_mean": -3.1989,
+      "meets_all": 0,
+      "attack_success": 1
+    },
+    "amrwb_opus_freq_phase_adv": {
+      "wer_delta_mean": 0.6,
+      "wer_delta_max": 0.6,
+      "count": 1,
+      "pesq_mean": 2.1735,
+      "stoi_mean": 0.7427,
+      "snr_mean": -3.0737,
+      "meets_all": 0,
+      "attack_success": 1
+    },
+    "amrwb_psychoacoustic_frequency_masking_phase_jitter": {
+      "wer_delta_mean": 0.6,
+      "wer_delta_max": 0.6,
+      "count": 1,
+      "pesq_mean": 2.6832,
+      "stoi_mean": 0.9178,
+      "snr_mean": -1.8948,
+      "meets_all": 0,
+      "attack_success": 1
+    },
+    "amrwb_opus_freq_phase_robust": {
+      "wer_delta_mean": 0.5,
+      "wer_delta_max": 1.0,
+      "count": 2,
+      "pesq_mean": 2.5382,
+      "stoi_mean": 0.9087,
+      "snr_mean": -2.8007,
+      "meets_all": 0,
+      "attack_success": 1
+    },
+    "amrwb_opus_spectral_phase_masking": {
+      "wer_delta_mean": 0.4444,
+      "wer_delta_max": 0.4444,
+      "count": 1,
+      "pesq_mean": 3.2296,
+      "stoi_mean": 0.9066,
+      "snr_mean": -3.5296,
+      "meets_all": 0,
+      "attack_success": 1
+    },
+    "amrwb_opus_frequency_domain_psychoacoustic_shift": {
+      "wer_delta_mean": 0.4286,
+      "wer_delta_max": 0.4286,
+      "count": 1,
+      "pesq_mean": 3.3495,
+      "stoi_mean": 0.8872,
+      "snr_mean": -2.0085,
+      "meets_all": 0,
+      "attack_success": 1
+    },
+    "amrwb_opus_spectral_phase_advancement": {
+      "wer_delta_mean": 0.4286,
+      "wer_delta_max": 0.4286,
+      "count": 1,
+      "pesq_mean": 3.2865,
+      "stoi_mean": 0.8838,
+      "snr_mean": -1.9443,
+      "meets_all": 0,
+      "attack_success": 1
+    }
+  }
+}
